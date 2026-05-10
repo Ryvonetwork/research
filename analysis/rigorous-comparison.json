@@ -1,0 +1,383 @@
+{
+  "generated_at": "2026-05-10T14:55:35.020Z",
+  "inputs": {
+    "daily_path": "data/processed/daily_active_channels.json",
+    "relationships_path": "data/processed/relationships_per_chain.json",
+    "fees": {
+      "base": 0.001,
+      "polygon": 0.001,
+      "solana": 0.0015
+    },
+    "solana_fee_scenarios": {
+      "low": 0.0005,
+      "mid": 0.0015,
+      "high": 0.005
+    },
+    "round_capacities": {
+      "dense_20": 84,
+      "sparse_32": 32
+    },
+    "rent_constants": {
+      "ryvo_channel_bucket_bytes": 10093,
+      "ryvo_lanes_per_bucket": 46,
+      "sessions_channel_bytes": 200,
+      "sol_lamports_per_byte_year": 3480,
+      "sol_rent_exemption_years": 2,
+      "sol_account_metadata_bytes": 128,
+      "sol_price_usd": 200,
+      "ryvo_rent_per_bucket_sol": 0.07113816,
+      "sessions_rent_per_channel_sol": 0.00228288
+    },
+    "notes": [
+      "All inputs are derived from Dune SQL against tokens_{base,polygon,solana}.transfers.",
+      "Filter: USDC contract per chain + tx_from/tx_signer ∈ facilitator wallets + buyer ≠ seller ≠ facilitator.",
+      "Sample covers 2025-05-09 → 2026-05-09 (12-month window of x402 history, 13 calendar months observed).",
+      "Coverage vs Artemis 180M: ${tx}% of tx, ${vol}% of volume.",
+      "Relationships R for Solana / late-2026 months may be slightly under-counted due to a Dune datapoint-limit hit (Mar/Apr/May 2026 Solana, May 2026 Base/Polygon partitions). Missing partitions are recent low-volume tail months and would only INCREASE opens count by at most ~5%.",
+      "Channel opens = R (one create_channel call per relationship). x402 flow is unidirectional buyer→seller, so a single LowerToHigher OR HigherToLower lane is sufficient — never both. Earlier 2*R model assumed unilateral channels, before the protocol consolidated to bidirectional ChannelBucket lanes.",
+      "Solana per-tx fee: $0.00044 (the bare 5,000-lamport base fee at SOL ~$88) understates real costs during the 2025-Q4 / 2026-Q1 congestion window. We use the MID sensitivity band ($0.0015 — Solana Radar Q1-2025 median) as primary; LOW ($0.0005 — base-fee floor) and HIGH ($0.005 — Dec-2025 peak) appear in the appendix.",
+      "Ryvo v1 has no close-channel instruction — Solana ChannelBucket rent is sunk capital until v2. Sessions (1:1 channels) DO support rent recovery on close. The lifecycle table reflects this asymmetry."
+    ]
+  },
+  "per_chain": [
+    {
+      "chain": "base",
+      "observed_days": 362,
+      "total_tx": 85532114,
+      "total_volume_usd": 30056212.761519503,
+      "unique_relationships": 448196,
+      "active_channels_sum": 1457186,
+      "active_channels_max_day": 51982,
+      "active_channels_mean": 4025.3756906077347,
+      "active_channels_p95": 19983,
+      "opens": 448196,
+      "clearing_84": 17557,
+      "clearing_32": 45731,
+      "ryvo_total_tx_84": 465753,
+      "ryvo_total_tx_32": 493927,
+      "clearing_1to1": 1457186,
+      "ch1to1_total_tx_year1": 1905382,
+      "ch1to1_total_tx_steady": 1457186,
+      "per_tx_fee": 0.001,
+      "x402_fee_usd": 85532.114,
+      "ryvo_fee_usd_84": 465.753,
+      "ryvo_fee_usd_32": 493.927,
+      "ch1to1_fee_year1": 1905.382,
+      "ch1to1_fee_steady": 1457.186
+    },
+    {
+      "chain": "polygon",
+      "observed_days": 190,
+      "total_tx": 12595022,
+      "total_volume_usd": 343940.7545012257,
+      "unique_relationships": 142,
+      "active_channels_sum": 4654,
+      "active_channels_max_day": 67,
+      "active_channels_mean": 24.49473684210526,
+      "active_channels_p95": 65,
+      "opens": 142,
+      "clearing_84": 190,
+      "clearing_32": 272,
+      "ryvo_total_tx_84": 332,
+      "ryvo_total_tx_32": 414,
+      "clearing_1to1": 4654,
+      "ch1to1_total_tx_year1": 4796,
+      "ch1to1_total_tx_steady": 4654,
+      "per_tx_fee": 0.001,
+      "x402_fee_usd": 12595.022,
+      "ryvo_fee_usd_84": 0.332,
+      "ryvo_fee_usd_32": 0.41400000000000003,
+      "ch1to1_fee_year1": 4.796,
+      "ch1to1_fee_steady": 4.654
+    },
+    {
+      "chain": "solana",
+      "observed_days": 240,
+      "total_tx": 47277644,
+      "total_volume_usd": 8336795.953941863,
+      "unique_relationships": 56436,
+      "active_channels_sum": 632379,
+      "active_channels_max_day": 48363,
+      "active_channels_mean": 2634.9125,
+      "active_channels_p95": 16992,
+      "opens": 56436,
+      "clearing_84": 7672,
+      "clearing_32": 19897,
+      "ryvo_total_tx_84": 64108,
+      "ryvo_total_tx_32": 76333,
+      "clearing_1to1": 632379,
+      "ch1to1_total_tx_year1": 688815,
+      "ch1to1_total_tx_steady": 632379,
+      "per_tx_fee": 0.0015,
+      "x402_fee_usd": 70916.466,
+      "ryvo_fee_usd_84": 96.162,
+      "ryvo_fee_usd_32": 114.4995,
+      "ch1to1_fee_year1": 1033.2225,
+      "ch1to1_fee_steady": 948.5685
+    }
+  ],
+  "totals": {
+    "observed_days_union": 362,
+    "total_tx": 145404780,
+    "total_volume_usd": 38736949.4699626,
+    "unique_relationships": 504774,
+    "opens": 504774,
+    "clearing_84": 25419,
+    "clearing_32": 65900,
+    "ryvo_total_tx_84": 530193,
+    "ryvo_total_tx_32": 570674,
+    "x402_fee_usd": 169043.602,
+    "ryvo_fee_usd_84": 562.247,
+    "ryvo_fee_usd_32": 608.8405,
+    "tx_compression_84": 274.2487735598169,
+    "tx_compression_32": 254.79482156187245,
+    "fee_compression_84": 300.6571880330176,
+    "fee_compression_32": 277.64841859239,
+    "fee_savings_usd_84": 168481.355,
+    "fee_savings_usd_32": 168434.76150000002,
+    "ch1to1_clearing": 2094219,
+    "ch1to1_year1_tx": 2598993,
+    "ch1to1_steady_tx": 2094219,
+    "ch1to1_year1_fee": 2943.4005,
+    "ch1to1_steady_fee": 2410.4085,
+    "pct_of_artemis_tx": 0.8064602329450915,
+    "pct_of_artemis_volume": 0.8189629909083002
+  },
+  "busiest_days": [
+    {
+      "chain": "base",
+      "date": "2025-10-28",
+      "active_channels": 51982,
+      "rounds_84": 619,
+      "rounds_32": 1625,
+      "tx_count": 363088
+    },
+    {
+      "chain": "solana",
+      "date": "2026-03-11",
+      "active_channels": 48363,
+      "rounds_84": 576,
+      "rounds_32": 1512,
+      "tx_count": 98240
+    },
+    {
+      "chain": "solana",
+      "date": "2026-03-10",
+      "active_channels": 46594,
+      "rounds_84": 555,
+      "rounds_32": 1457,
+      "tx_count": 94606
+    },
+    {
+      "chain": "solana",
+      "date": "2026-03-09",
+      "active_channels": 45959,
+      "rounds_84": 548,
+      "rounds_32": 1437,
+      "tx_count": 95929
+    },
+    {
+      "chain": "base",
+      "date": "2025-10-29",
+      "active_channels": 42657,
+      "rounds_84": 508,
+      "rounds_32": 1334,
+      "tx_count": 560961
+    },
+    {
+      "chain": "solana",
+      "date": "2026-03-12",
+      "active_channels": 42176,
+      "rounds_84": 503,
+      "rounds_32": 1318,
+      "tx_count": 84810
+    },
+    {
+      "chain": "solana",
+      "date": "2026-03-13",
+      "active_channels": 41657,
+      "rounds_84": 496,
+      "rounds_32": 1302,
+      "tx_count": 85166
+    },
+    {
+      "chain": "base",
+      "date": "2025-10-27",
+      "active_channels": 36795,
+      "rounds_84": 439,
+      "rounds_32": 1150,
+      "tx_count": 484184
+    },
+    {
+      "chain": "base",
+      "date": "2025-11-11",
+      "active_channels": 35765,
+      "rounds_84": 426,
+      "rounds_32": 1118,
+      "tx_count": 1274431
+    },
+    {
+      "chain": "base",
+      "date": "2025-10-30",
+      "active_channels": 35713,
+      "rounds_84": 426,
+      "rounds_32": 1117,
+      "tx_count": 386109
+    },
+    {
+      "chain": "polygon",
+      "date": "2026-03-13",
+      "active_channels": 67,
+      "rounds_84": 1,
+      "rounds_32": 3,
+      "tx_count": 163388
+    },
+    {
+      "chain": "polygon",
+      "date": "2026-03-15",
+      "active_channels": 67,
+      "rounds_84": 1,
+      "rounds_32": 3,
+      "tx_count": 159220
+    },
+    {
+      "chain": "polygon",
+      "date": "2026-01-18",
+      "active_channels": 66,
+      "rounds_84": 1,
+      "rounds_32": 3,
+      "tx_count": 135664
+    },
+    {
+      "chain": "polygon",
+      "date": "2026-02-25",
+      "active_channels": 66,
+      "rounds_84": 1,
+      "rounds_32": 3,
+      "tx_count": 16569
+    },
+    {
+      "chain": "polygon",
+      "date": "2026-03-06",
+      "active_channels": 66,
+      "rounds_84": 1,
+      "rounds_32": 3,
+      "tx_count": 163189
+    }
+  ],
+  "headline": {
+    "chains": [
+      "base",
+      "solana"
+    ],
+    "total_tx": 132809758,
+    "total_volume_usd": 38393008.715461366,
+    "unique_relationships": 504632,
+    "opens": 504632,
+    "clearing_84": 25229,
+    "clearing_32": 65628,
+    "ryvo_total_tx_84": 529861,
+    "ryvo_total_tx_32": 570260,
+    "x402_fee_usd": 156448.58000000002,
+    "ryvo_fee_usd_84": 561.915,
+    "ryvo_fee_usd_32": 608.4265,
+    "tx_compression_84": 250.65018561471783,
+    "tx_compression_32": 232.89334338722688,
+    "fee_compression_84": 278.4203660696013,
+    "fee_compression_32": 257.1363673344274,
+    "fee_savings_usd_84": 155886.665,
+    "fee_savings_usd_32": 155840.15350000001,
+    "steady_state": {
+      "ryvo_tx_84": 25229,
+      "ryvo_tx_32": 65628,
+      "ryvo_fee_84": 29.064999999999998,
+      "ryvo_fee_32": 75.57650000000001,
+      "tx_compression_84": 5264.17051805462,
+      "tx_compression_32": 2023.67523008472
+    },
+    "ch1to1": {
+      "year1_tx": 2594197,
+      "steady_tx": 2089565,
+      "year1_fee": 2938.6045000000004,
+      "steady_fee": 2405.7545,
+      "tx_compression_year1": 51.19493932033689,
+      "tx_compression_steady": 63.558567453034485,
+      "fee_compression_year1": 53.23907317231699,
+      "fee_compression_steady": 65.03098300346109,
+      "fee_savings_year1": 153509.97550000003,
+      "fee_savings_steady": 154042.8255,
+      "ryvo_advantage_year1_tx_84": 4.895995364822094,
+      "ryvo_advantage_steady_tx_84": 82.82393277577391,
+      "ryvo_advantage_year1_fee_84": 5.229624587348622,
+      "ryvo_advantage_steady_fee_84": 82.77152933081025
+    }
+  },
+  "solana_fee_sensitivity": [
+    {
+      "band": "low",
+      "per_tx_fee_usd": 0.0005,
+      "x402_fee_usd": 23638.822,
+      "sessions_fee_y1": 344.4075,
+      "sessions_fee_steady": 316.1895,
+      "ryvo_dense_fee_y1": 32.054,
+      "ryvo_dense_fee_steady": 3.8360000000000003,
+      "ryvo_sparse_fee_y1": 38.1665,
+      "ryvo_sparse_fee_steady": 9.948500000000001
+    },
+    {
+      "band": "mid",
+      "per_tx_fee_usd": 0.0015,
+      "x402_fee_usd": 70916.466,
+      "sessions_fee_y1": 1033.2225,
+      "sessions_fee_steady": 948.5685,
+      "ryvo_dense_fee_y1": 96.162,
+      "ryvo_dense_fee_steady": 11.508000000000001,
+      "ryvo_sparse_fee_y1": 114.4995,
+      "ryvo_sparse_fee_steady": 29.8455
+    },
+    {
+      "band": "high",
+      "per_tx_fee_usd": 0.005,
+      "x402_fee_usd": 236388.22,
+      "sessions_fee_y1": 3444.0750000000003,
+      "sessions_fee_steady": 3161.895,
+      "ryvo_dense_fee_y1": 320.54,
+      "ryvo_dense_fee_steady": 38.36,
+      "ryvo_sparse_fee_y1": 381.665,
+      "ryvo_sparse_fee_steady": 99.485
+    }
+  ],
+  "lifecycle_solana": {
+    "sessions_assumption": "stable — one channel per (buyer, seller) pair, opened once at first interaction, held for the entire year. Best-case Sessions model; real-world payment channels are typically more ephemeral, which would only make Sessions costs go UP.",
+    "ryvo_v1_caveat": "Ryvo v1 has no close-channel instruction. Once a ChannelBucket lane is initialized, its rent stays locked indefinitely. v2 (planned) will add close + rent recovery; until then, the Solana capital deposit is a sunk cost, not a recoverable deposit. Sessions architectures DO support close + rent recovery.",
+    "relationships": 56436,
+    "ryvo_buckets": 1227,
+    "capital_deposit": {
+      "x402_usd": 0,
+      "sessions_usd": 25767.323136000006,
+      "sessions_recoverable": true,
+      "ryvo_v1_usd": 17457.304464,
+      "ryvo_v1_recoverable": false,
+      "ryvo_v2_usd": 17457.304464,
+      "ryvo_v2_recoverable": true
+    },
+    "y1": {
+      "x402_settlement_count": 47277644,
+      "x402_fee_usd": 70916.466,
+      "sessions_settlement_count": 688815,
+      "sessions_fee_usd": 1033.2225,
+      "sessions_total_y1_usd": 26800.545636000006,
+      "ryvo_settlement_count": 64108,
+      "ryvo_fee_usd": 96.162,
+      "ryvo_total_y1_usd": 17553.466464
+    },
+    "y2": {
+      "x402_settlement_count": 47277644,
+      "x402_fee_usd": 70916.466,
+      "sessions_settlement_count": 632379,
+      "sessions_fee_usd": 948.5685,
+      "ryvo_settlement_count": 7672,
+      "ryvo_fee_usd": 11.508000000000001
+    }
+  }
+}

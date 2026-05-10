@@ -1,0 +1,7130 @@
+[
+  {
+    "active_channels": 1,
+    "chain": "base",
+    "date": "2025-05-09",
+    "tx_count": 3,
+    "unique_buyers": 1,
+    "unique_sellers": 1,
+    "volume_usd": 0.011999751166666664
+  },
+  {
+    "active_channels": 1,
+    "chain": "base",
+    "date": "2025-05-10",
+    "tx_count": 5,
+    "unique_buyers": 1,
+    "unique_sellers": 1,
+    "volume_usd": 0.004999919583333332
+  },
+  {
+    "active_channels": 5,
+    "chain": "base",
+    "date": "2025-05-11",
+    "tx_count": 39,
+    "unique_buyers": 5,
+    "unique_sellers": 5,
+    "volume_usd": 39.27576978833332
+  },
+  {
+    "active_channels": 2,
+    "chain": "base",
+    "date": "2025-05-12",
+    "tx_count": 3,
+    "unique_buyers": 2,
+    "unique_sellers": 2,
+    "volume_usd": 0.06095707858333334
+  },
+  {
+    "active_channels": 5,
+    "chain": "base",
+    "date": "2025-05-13",
+    "tx_count": 7,
+    "unique_buyers": 5,
+    "unique_sellers": 4,
+    "volume_usd": 0.03128754865833333
+  },
+  {
+    "active_channels": 5,
+    "chain": "base",
+    "date": "2025-05-14",
+    "tx_count": 67,
+    "unique_buyers": 4,
+    "unique_sellers": 4,
+    "volume_usd": 10.516801265242997
+  },
+  {
+    "active_channels": 5,
+    "chain": "base",
+    "date": "2025-05-15",
+    "tx_count": 32,
+    "unique_buyers": 5,
+    "unique_sellers": 5,
+    "volume_usd": 4.005468363205499
+  },
+  {
+    "active_channels": 3,
+    "chain": "base",
+    "date": "2025-05-16",
+    "tx_count": 48,
+    "unique_buyers": 3,
+    "unique_sellers": 3,
+    "volume_usd": 17.011119626743998
+  },
+  {
+    "active_channels": 1,
+    "chain": "base",
+    "date": "2025-05-17",
+    "tx_count": 1,
+    "unique_buyers": 1,
+    "unique_sellers": 1,
+    "volume_usd": 0.0010003360833333332
+  },
+  {
+    "active_channels": 2,
+    "chain": "base",
+    "date": "2025-05-19",
+    "tx_count": 3,
+    "unique_buyers": 2,
+    "unique_sellers": 2,
+    "volume_usd": 0.000300111825
+  },
+  {
+    "active_channels": 3,
+    "chain": "base",
+    "date": "2025-05-20",
+    "tx_count": 24,
+    "unique_buyers": 3,
+    "unique_sellers": 2,
+    "volume_usd": 21.008258919666662
+  },
+  {
+    "active_channels": 1,
+    "chain": "base",
+    "date": "2025-05-22",
+    "tx_count": 6,
+    "unique_buyers": 1,
+    "unique_sellers": 1,
+    "volume_usd": 0.0005998548
+  },
+  {
+    "active_channels": 2,
+    "chain": "base",
+    "date": "2025-05-23",
+    "tx_count": 3,
+    "unique_buyers": 2,
+    "unique_sellers": 2,
+    "volume_usd": 0.005801843300000001
+  },
+  {
+    "active_channels": 1,
+    "chain": "base",
+    "date": "2025-05-24",
+    "tx_count": 5,
+    "unique_buyers": 1,
+    "unique_sellers": 1,
+    "volume_usd": 0.05001924666666667
+  },
+  {
+    "active_channels": 2,
+    "chain": "base",
+    "date": "2025-05-25",
+    "tx_count": 3,
+    "unique_buyers": 1,
+    "unique_sellers": 2,
+    "volume_usd": 0.021006308416666668
+  },
+  {
+    "active_channels": 2,
+    "chain": "base",
+    "date": "2025-05-27",
+    "tx_count": 66,
+    "unique_buyers": 2,
+    "unique_sellers": 2,
+    "volume_usd": 0.006600646683333332
+  },
+  {
+    "active_channels": 13,
+    "chain": "base",
+    "date": "2025-05-28",
+    "tx_count": 165,
+    "unique_buyers": 6,
+    "unique_sellers": 11,
+    "volume_usd": 0.09768800371341647
+  },
+  {
+    "active_channels": 10,
+    "chain": "base",
+    "date": "2025-05-29",
+    "tx_count": 172,
+    "unique_buyers": 5,
+    "unique_sellers": 10,
+    "volume_usd": 10.352180139066652
+  },
+  {
+    "active_channels": 7,
+    "chain": "base",
+    "date": "2025-05-30",
+    "tx_count": 9,
+    "unique_buyers": 7,
+    "unique_sellers": 2,
+    "volume_usd": 6.0326426641666675
+  },
+  {
+    "active_channels": 2,
+    "chain": "base",
+    "date": "2025-05-31",
+    "tx_count": 15,
+    "unique_buyers": 2,
+    "unique_sellers": 2,
+    "volume_usd": 2.1312021433333332
+  },
+  {
+    "active_channels": 1,
+    "chain": "base",
+    "date": "2025-06-01",
+    "tx_count": 5,
+    "unique_buyers": 1,
+    "unique_sellers": 1,
+    "volume_usd": 0.0400241279645
+  },
+  {
+    "active_channels": 10,
+    "chain": "base",
+    "date": "2025-06-02",
+    "tx_count": 32,
+    "unique_buyers": 10,
+    "unique_sellers": 5,
+    "volume_usd": 23.248855746666674
+  },
+  {
+    "active_channels": 2,
+    "chain": "base",
+    "date": "2025-06-03",
+    "tx_count": 11,
+    "unique_buyers": 2,
+    "unique_sellers": 2,
+    "volume_usd": 0.11003998916666669
+  },
+  {
+    "active_channels": 8,
+    "chain": "base",
+    "date": "2025-06-04",
+    "tx_count": 55,
+    "unique_buyers": 7,
+    "unique_sellers": 7,
+    "volume_usd": 6.541897023333332
+  },
+  {
+    "active_channels": 19,
+    "chain": "base",
+    "date": "2025-06-05",
+    "tx_count": 79,
+    "unique_buyers": 18,
+    "unique_sellers": 6,
+    "volume_usd": 4.053841337500001
+  },
+  {
+    "active_channels": 9,
+    "chain": "base",
+    "date": "2025-06-06",
+    "tx_count": 46,
+    "unique_buyers": 9,
+    "unique_sellers": 5,
+    "volume_usd": 0.8156590609250002
+  },
+  {
+    "active_channels": 5,
+    "chain": "base",
+    "date": "2025-06-07",
+    "tx_count": 19,
+    "unique_buyers": 5,
+    "unique_sellers": 5,
+    "volume_usd": 1.1097022298583334
+  },
+  {
+    "active_channels": 3,
+    "chain": "base",
+    "date": "2025-06-08",
+    "tx_count": 4,
+    "unique_buyers": 3,
+    "unique_sellers": 3,
+    "volume_usd": 1.070530349166667
+  },
+  {
+    "active_channels": 6,
+    "chain": "base",
+    "date": "2025-06-09",
+    "tx_count": 26,
+    "unique_buyers": 6,
+    "unique_sellers": 5,
+    "volume_usd": 7.607482892549998
+  },
+  {
+    "active_channels": 5,
+    "chain": "base",
+    "date": "2025-06-10",
+    "tx_count": 110,
+    "unique_buyers": 5,
+    "unique_sellers": 3,
+    "volume_usd": 0.2297054316
+  },
+  {
+    "active_channels": 5,
+    "chain": "base",
+    "date": "2025-06-11",
+    "tx_count": 19,
+    "unique_buyers": 5,
+    "unique_sellers": 5,
+    "volume_usd": 2.4710926706833334
+  },
+  {
+    "active_channels": 6,
+    "chain": "base",
+    "date": "2025-06-12",
+    "tx_count": 12,
+    "unique_buyers": 5,
+    "unique_sellers": 6,
+    "volume_usd": 0.047117345933333325
+  },
+  {
+    "active_channels": 4,
+    "chain": "base",
+    "date": "2025-06-13",
+    "tx_count": 7,
+    "unique_buyers": 4,
+    "unique_sellers": 3,
+    "volume_usd": 1.104518496166667
+  },
+  {
+    "active_channels": 2,
+    "chain": "base",
+    "date": "2025-06-14",
+    "tx_count": 4,
+    "unique_buyers": 2,
+    "unique_sellers": 2,
+    "volume_usd": 0.13009627833333334
+  },
+  {
+    "active_channels": 5,
+    "chain": "base",
+    "date": "2025-06-15",
+    "tx_count": 12,
+    "unique_buyers": 4,
+    "unique_sellers": 2,
+    "volume_usd": 0.08046677590000001
+  },
+  {
+    "active_channels": 3,
+    "chain": "base",
+    "date": "2025-06-16",
+    "tx_count": 3,
+    "unique_buyers": 3,
+    "unique_sellers": 2,
+    "volume_usd": 0.020112552741666657
+  },
+  {
+    "active_channels": 6,
+    "chain": "base",
+    "date": "2025-06-17",
+    "tx_count": 30,
+    "unique_buyers": 6,
+    "unique_sellers": 5,
+    "volume_usd": 5.923463014499999
+  },
+  {
+    "active_channels": 12,
+    "chain": "base",
+    "date": "2025-06-18",
+    "tx_count": 60,
+    "unique_buyers": 11,
+    "unique_sellers": 12,
+    "volume_usd": 40.59321988905
+  },
+  {
+    "active_channels": 11,
+    "chain": "base",
+    "date": "2025-06-19",
+    "tx_count": 26,
+    "unique_buyers": 11,
+    "unique_sellers": 9,
+    "volume_usd": 1.9377519379333334
+  },
+  {
+    "active_channels": 4,
+    "chain": "base",
+    "date": "2025-06-20",
+    "tx_count": 16,
+    "unique_buyers": 4,
+    "unique_sellers": 4,
+    "volume_usd": 0.025018550249999997
+  },
+  {
+    "active_channels": 1,
+    "chain": "base",
+    "date": "2025-06-21",
+    "tx_count": 2,
+    "unique_buyers": 1,
+    "unique_sellers": 1,
+    "volume_usd": 3.0026426666666666
+  },
+  {
+    "active_channels": 4,
+    "chain": "base",
+    "date": "2025-06-22",
+    "tx_count": 18,
+    "unique_buyers": 4,
+    "unique_sellers": 4,
+    "volume_usd": 2.0156790381674994
+  },
+  {
+    "active_channels": 6,
+    "chain": "base",
+    "date": "2025-06-23",
+    "tx_count": 10,
+    "unique_buyers": 6,
+    "unique_sellers": 5,
+    "volume_usd": 5.354122983333333
+  },
+  {
+    "active_channels": 12,
+    "chain": "base",
+    "date": "2025-06-24",
+    "tx_count": 43,
+    "unique_buyers": 10,
+    "unique_sellers": 9,
+    "volume_usd": 2.335348951466668
+  },
+  {
+    "active_channels": 13,
+    "chain": "base",
+    "date": "2025-06-25",
+    "tx_count": 97,
+    "unique_buyers": 12,
+    "unique_sellers": 12,
+    "volume_usd": 15.97185445285909
+  },
+  {
+    "active_channels": 16,
+    "chain": "base",
+    "date": "2025-06-26",
+    "tx_count": 48,
+    "unique_buyers": 15,
+    "unique_sellers": 11,
+    "volume_usd": 9.13124346075
+  },
+  {
+    "active_channels": 6,
+    "chain": "base",
+    "date": "2025-06-27",
+    "tx_count": 22,
+    "unique_buyers": 5,
+    "unique_sellers": 6,
+    "volume_usd": 3.48665591135725
+  },
+  {
+    "active_channels": 3,
+    "chain": "base",
+    "date": "2025-06-28",
+    "tx_count": 13,
+    "unique_buyers": 3,
+    "unique_sellers": 3,
+    "volume_usd": 0.5109404745016667
+  },
+  {
+    "active_channels": 2,
+    "chain": "base",
+    "date": "2025-06-29",
+    "tx_count": 5,
+    "unique_buyers": 2,
+    "unique_sellers": 2,
+    "volume_usd": 0.0005002386416666667
+  },
+  {
+    "active_channels": 6,
+    "chain": "base",
+    "date": "2025-06-30",
+    "tx_count": 22,
+    "unique_buyers": 6,
+    "unique_sellers": 6,
+    "volume_usd": 2.9013561635666654
+  },
+  {
+    "active_channels": 10,
+    "chain": "base",
+    "date": "2025-07-01",
+    "tx_count": 28,
+    "unique_buyers": 10,
+    "unique_sellers": 8,
+    "volume_usd": 6.390100325158335
+  },
+  {
+    "active_channels": 5,
+    "chain": "base",
+    "date": "2025-07-02",
+    "tx_count": 16,
+    "unique_buyers": 5,
+    "unique_sellers": 5,
+    "volume_usd": 2.5324110831333333
+  },
+  {
+    "active_channels": 4,
+    "chain": "base",
+    "date": "2025-07-03",
+    "tx_count": 41,
+    "unique_buyers": 4,
+    "unique_sellers": 4,
+    "volume_usd": 2.6421493213
+  },
+  {
+    "active_channels": 5,
+    "chain": "base",
+    "date": "2025-07-04",
+    "tx_count": 108,
+    "unique_buyers": 5,
+    "unique_sellers": 4,
+    "volume_usd": 6.115371185083332
+  },
+  {
+    "active_channels": 1,
+    "chain": "base",
+    "date": "2025-07-06",
+    "tx_count": 1,
+    "unique_buyers": 1,
+    "unique_sellers": 1,
+    "volume_usd": 0.500150375
+  },
+  {
+    "active_channels": 6,
+    "chain": "base",
+    "date": "2025-07-07",
+    "tx_count": 17,
+    "unique_buyers": 6,
+    "unique_sellers": 6,
+    "volume_usd": 2.0456235458000003
+  },
+  {
+    "active_channels": 11,
+    "chain": "base",
+    "date": "2025-07-08",
+    "tx_count": 43,
+    "unique_buyers": 9,
+    "unique_sellers": 5,
+    "volume_usd": 13.020367805526998
+  },
+  {
+    "active_channels": 14,
+    "chain": "base",
+    "date": "2025-07-09",
+    "tx_count": 28,
+    "unique_buyers": 14,
+    "unique_sellers": 11,
+    "volume_usd": 3.027046447387666
+  },
+  {
+    "active_channels": 9,
+    "chain": "base",
+    "date": "2025-07-10",
+    "tx_count": 287,
+    "unique_buyers": 8,
+    "unique_sellers": 6,
+    "volume_usd": 1.9556793376583343
+  },
+  {
+    "active_channels": 3,
+    "chain": "base",
+    "date": "2025-07-11",
+    "tx_count": 27,
+    "unique_buyers": 3,
+    "unique_sellers": 3,
+    "volume_usd": 0.3067360346666666
+  },
+  {
+    "active_channels": 1,
+    "chain": "base",
+    "date": "2025-07-12",
+    "tx_count": 3,
+    "unique_buyers": 1,
+    "unique_sellers": 1,
+    "volume_usd": 1.3309967635106665
+  },
+  {
+    "active_channels": 3,
+    "chain": "base",
+    "date": "2025-07-13",
+    "tx_count": 7,
+    "unique_buyers": 3,
+    "unique_sellers": 3,
+    "volume_usd": 0.0058940203750000005
+  },
+  {
+    "active_channels": 6,
+    "chain": "base",
+    "date": "2025-07-14",
+    "tx_count": 17,
+    "unique_buyers": 5,
+    "unique_sellers": 6,
+    "volume_usd": 1.5495725842833334
+  },
+  {
+    "active_channels": 2,
+    "chain": "base",
+    "date": "2025-07-15",
+    "tx_count": 6,
+    "unique_buyers": 2,
+    "unique_sellers": 2,
+    "volume_usd": 0.0014978273945000001
+  },
+  {
+    "active_channels": 8,
+    "chain": "base",
+    "date": "2025-07-16",
+    "tx_count": 34,
+    "unique_buyers": 6,
+    "unique_sellers": 8,
+    "volume_usd": 1.0989711831613336
+  },
+  {
+    "active_channels": 7,
+    "chain": "base",
+    "date": "2025-07-17",
+    "tx_count": 26,
+    "unique_buyers": 5,
+    "unique_sellers": 6,
+    "volume_usd": 5.431854986685082
+  },
+  {
+    "active_channels": 8,
+    "chain": "base",
+    "date": "2025-07-18",
+    "tx_count": 33,
+    "unique_buyers": 6,
+    "unique_sellers": 8,
+    "volume_usd": 0.927669179766667
+  },
+  {
+    "active_channels": 1,
+    "chain": "base",
+    "date": "2025-07-19",
+    "tx_count": 4,
+    "unique_buyers": 1,
+    "unique_sellers": 1,
+    "volume_usd": 2.3988164499999995
+  },
+  {
+    "active_channels": 5,
+    "chain": "base",
+    "date": "2025-07-20",
+    "tx_count": 19,
+    "unique_buyers": 4,
+    "unique_sellers": 5,
+    "volume_usd": 0.8746407057787499
+  },
+  {
+    "active_channels": 48,
+    "chain": "base",
+    "date": "2025-07-21",
+    "tx_count": 146,
+    "unique_buyers": 15,
+    "unique_sellers": 27,
+    "volume_usd": 3.988586799305082
+  },
+  {
+    "active_channels": 107,
+    "chain": "base",
+    "date": "2025-07-22",
+    "tx_count": 392,
+    "unique_buyers": 27,
+    "unique_sellers": 33,
+    "volume_usd": 12.96764464062625
+  },
+  {
+    "active_channels": 106,
+    "chain": "base",
+    "date": "2025-07-23",
+    "tx_count": 1052,
+    "unique_buyers": 27,
+    "unique_sellers": 43,
+    "volume_usd": 33.040220688779385
+  },
+  {
+    "active_channels": 79,
+    "chain": "base",
+    "date": "2025-07-24",
+    "tx_count": 283,
+    "unique_buyers": 20,
+    "unique_sellers": 46,
+    "volume_usd": 23.354005287239325
+  },
+  {
+    "active_channels": 59,
+    "chain": "base",
+    "date": "2025-07-25",
+    "tx_count": 321,
+    "unique_buyers": 17,
+    "unique_sellers": 22,
+    "volume_usd": 17.9420598679145
+  },
+  {
+    "active_channels": 5,
+    "chain": "base",
+    "date": "2025-07-26",
+    "tx_count": 80,
+    "unique_buyers": 5,
+    "unique_sellers": 5,
+    "volume_usd": 3.80948721784717
+  },
+  {
+    "active_channels": 32,
+    "chain": "base",
+    "date": "2025-07-27",
+    "tx_count": 83,
+    "unique_buyers": 9,
+    "unique_sellers": 13,
+    "volume_usd": 3.0866963042784996
+  },
+  {
+    "active_channels": 69,
+    "chain": "base",
+    "date": "2025-07-28",
+    "tx_count": 198,
+    "unique_buyers": 23,
+    "unique_sellers": 29,
+    "volume_usd": 50.86756981298147
+  },
+  {
+    "active_channels": 73,
+    "chain": "base",
+    "date": "2025-07-29",
+    "tx_count": 184,
+    "unique_buyers": 21,
+    "unique_sellers": 43,
+    "volume_usd": 61.40685835072842
+  },
+  {
+    "active_channels": 76,
+    "chain": "base",
+    "date": "2025-07-30",
+    "tx_count": 309,
+    "unique_buyers": 24,
+    "unique_sellers": 45,
+    "volume_usd": 96.1408828403834
+  },
+  {
+    "active_channels": 106,
+    "chain": "base",
+    "date": "2025-07-31",
+    "tx_count": 564,
+    "unique_buyers": 35,
+    "unique_sellers": 32,
+    "volume_usd": 97.64972696277607
+  },
+  {
+    "active_channels": 1,
+    "chain": "solana",
+    "date": "2025-07-22",
+    "tx_count": 2,
+    "unique_buyers": 1,
+    "unique_sellers": 1,
+    "volume_usd": 0.001998554
+  },
+  {
+    "active_channels": 1,
+    "chain": "solana",
+    "date": "2025-07-31",
+    "tx_count": 3,
+    "unique_buyers": 1,
+    "unique_sellers": 1,
+    "volume_usd": 0.002999209
+  },
+  {
+    "active_channels": 105,
+    "chain": "base",
+    "date": "2025-08-01",
+    "tx_count": 327,
+    "unique_buyers": 29,
+    "unique_sellers": 67,
+    "volume_usd": 54.53925134231005
+  },
+  {
+    "active_channels": 20,
+    "chain": "base",
+    "date": "2025-08-02",
+    "tx_count": 260,
+    "unique_buyers": 11,
+    "unique_sellers": 12,
+    "volume_usd": 36.02041255521758
+  },
+  {
+    "active_channels": 24,
+    "chain": "base",
+    "date": "2025-08-03",
+    "tx_count": 175,
+    "unique_buyers": 10,
+    "unique_sellers": 14,
+    "volume_usd": 35.15787335717616
+  },
+  {
+    "active_channels": 65,
+    "chain": "base",
+    "date": "2025-08-04",
+    "tx_count": 420,
+    "unique_buyers": 22,
+    "unique_sellers": 26,
+    "volume_usd": 134.52455783108735
+  },
+  {
+    "active_channels": 47,
+    "chain": "base",
+    "date": "2025-08-05",
+    "tx_count": 258,
+    "unique_buyers": 19,
+    "unique_sellers": 29,
+    "volume_usd": 737.7339846845443
+  },
+  {
+    "active_channels": 61,
+    "chain": "base",
+    "date": "2025-08-06",
+    "tx_count": 375,
+    "unique_buyers": 27,
+    "unique_sellers": 31,
+    "volume_usd": 165.4390164565462
+  },
+  {
+    "active_channels": 56,
+    "chain": "base",
+    "date": "2025-08-07",
+    "tx_count": 666,
+    "unique_buyers": 24,
+    "unique_sellers": 26,
+    "volume_usd": 165.9948535820055
+  },
+  {
+    "active_channels": 44,
+    "chain": "base",
+    "date": "2025-08-08",
+    "tx_count": 903,
+    "unique_buyers": 27,
+    "unique_sellers": 20,
+    "volume_usd": 131.7835516575326
+  },
+  {
+    "active_channels": 29,
+    "chain": "base",
+    "date": "2025-08-09",
+    "tx_count": 666,
+    "unique_buyers": 26,
+    "unique_sellers": 13,
+    "volume_usd": 151.48482333859707
+  },
+  {
+    "active_channels": 43,
+    "chain": "base",
+    "date": "2025-08-10",
+    "tx_count": 580,
+    "unique_buyers": 24,
+    "unique_sellers": 22,
+    "volume_usd": 88.97962466984039
+  },
+  {
+    "active_channels": 31,
+    "chain": "base",
+    "date": "2025-08-11",
+    "tx_count": 739,
+    "unique_buyers": 13,
+    "unique_sellers": 16,
+    "volume_usd": 22.80442514050841
+  },
+  {
+    "active_channels": 27,
+    "chain": "base",
+    "date": "2025-08-12",
+    "tx_count": 469,
+    "unique_buyers": 13,
+    "unique_sellers": 17,
+    "volume_usd": 11.647732747034754
+  },
+  {
+    "active_channels": 44,
+    "chain": "base",
+    "date": "2025-08-13",
+    "tx_count": 244,
+    "unique_buyers": 18,
+    "unique_sellers": 24,
+    "volume_usd": 18.783507416243403
+  },
+  {
+    "active_channels": 32,
+    "chain": "base",
+    "date": "2025-08-14",
+    "tx_count": 320,
+    "unique_buyers": 19,
+    "unique_sellers": 17,
+    "volume_usd": 10.799112735097662
+  },
+  {
+    "active_channels": 57,
+    "chain": "base",
+    "date": "2025-08-15",
+    "tx_count": 392,
+    "unique_buyers": 19,
+    "unique_sellers": 46,
+    "volume_usd": 25.99740701691484
+  },
+  {
+    "active_channels": 17,
+    "chain": "base",
+    "date": "2025-08-16",
+    "tx_count": 581,
+    "unique_buyers": 9,
+    "unique_sellers": 11,
+    "volume_usd": 12.176361452993664
+  },
+  {
+    "active_channels": 23,
+    "chain": "base",
+    "date": "2025-08-17",
+    "tx_count": 372,
+    "unique_buyers": 9,
+    "unique_sellers": 14,
+    "volume_usd": 13.014241962052413
+  },
+  {
+    "active_channels": 85,
+    "chain": "base",
+    "date": "2025-08-18",
+    "tx_count": 254,
+    "unique_buyers": 16,
+    "unique_sellers": 69,
+    "volume_usd": 51.7492256124945
+  },
+  {
+    "active_channels": 61,
+    "chain": "base",
+    "date": "2025-08-19",
+    "tx_count": 257,
+    "unique_buyers": 18,
+    "unique_sellers": 42,
+    "volume_usd": 16.668423607812063
+  },
+  {
+    "active_channels": 42,
+    "chain": "base",
+    "date": "2025-08-20",
+    "tx_count": 369,
+    "unique_buyers": 15,
+    "unique_sellers": 19,
+    "volume_usd": 14.003211950420003
+  },
+  {
+    "active_channels": 81,
+    "chain": "base",
+    "date": "2025-08-21",
+    "tx_count": 307,
+    "unique_buyers": 32,
+    "unique_sellers": 26,
+    "volume_usd": 65.42528188411964
+  },
+  {
+    "active_channels": 75,
+    "chain": "base",
+    "date": "2025-08-22",
+    "tx_count": 546,
+    "unique_buyers": 24,
+    "unique_sellers": 24,
+    "volume_usd": 21.457768915853173
+  },
+  {
+    "active_channels": 35,
+    "chain": "base",
+    "date": "2025-08-23",
+    "tx_count": 419,
+    "unique_buyers": 12,
+    "unique_sellers": 17,
+    "volume_usd": 11.05041453787142
+  },
+  {
+    "active_channels": 47,
+    "chain": "base",
+    "date": "2025-08-24",
+    "tx_count": 344,
+    "unique_buyers": 18,
+    "unique_sellers": 23,
+    "volume_usd": 18.821572007267484
+  },
+  {
+    "active_channels": 87,
+    "chain": "base",
+    "date": "2025-08-25",
+    "tx_count": 684,
+    "unique_buyers": 22,
+    "unique_sellers": 32,
+    "volume_usd": 36.052145061579516
+  },
+  {
+    "active_channels": 80,
+    "chain": "base",
+    "date": "2025-08-26",
+    "tx_count": 408,
+    "unique_buyers": 23,
+    "unique_sellers": 22,
+    "volume_usd": 37.88003365520992
+  },
+  {
+    "active_channels": 58,
+    "chain": "base",
+    "date": "2025-08-27",
+    "tx_count": 665,
+    "unique_buyers": 21,
+    "unique_sellers": 24,
+    "volume_usd": 48.28341908281716
+  },
+  {
+    "active_channels": 81,
+    "chain": "base",
+    "date": "2025-08-28",
+    "tx_count": 588,
+    "unique_buyers": 30,
+    "unique_sellers": 34,
+    "volume_usd": 79.68826594813868
+  },
+  {
+    "active_channels": 71,
+    "chain": "base",
+    "date": "2025-08-29",
+    "tx_count": 290,
+    "unique_buyers": 48,
+    "unique_sellers": 18,
+    "volume_usd": 11.571050784916912
+  },
+  {
+    "active_channels": 48,
+    "chain": "base",
+    "date": "2025-08-30",
+    "tx_count": 373,
+    "unique_buyers": 22,
+    "unique_sellers": 19,
+    "volume_usd": 38.83784996625408
+  },
+  {
+    "active_channels": 67,
+    "chain": "base",
+    "date": "2025-08-31",
+    "tx_count": 559,
+    "unique_buyers": 20,
+    "unique_sellers": 19,
+    "volume_usd": 35.430406099495414
+  },
+  {
+    "active_channels": 1,
+    "chain": "solana",
+    "date": "2025-08-15",
+    "tx_count": 1,
+    "unique_buyers": 1,
+    "unique_sellers": 1,
+    "volume_usd": 0.0009997740000000001
+  },
+  {
+    "active_channels": 1,
+    "chain": "solana",
+    "date": "2025-08-21",
+    "tx_count": 1,
+    "unique_buyers": 1,
+    "unique_sellers": 1,
+    "volume_usd": 0.0010001690000000002
+  },
+  {
+    "active_channels": 1,
+    "chain": "solana",
+    "date": "2025-08-23",
+    "tx_count": 1,
+    "unique_buyers": 1,
+    "unique_sellers": 1,
+    "volume_usd": 0.000999983
+  },
+  {
+    "active_channels": 1,
+    "chain": "solana",
+    "date": "2025-08-24",
+    "tx_count": 63,
+    "unique_buyers": 1,
+    "unique_sellers": 1,
+    "volume_usd": 0.06301849999999996
+  },
+  {
+    "active_channels": 87,
+    "chain": "base",
+    "date": "2025-09-01",
+    "tx_count": 612,
+    "unique_buyers": 24,
+    "unique_sellers": 23,
+    "volume_usd": 29.61874236622002
+  },
+  {
+    "active_channels": 96,
+    "chain": "base",
+    "date": "2025-09-02",
+    "tx_count": 777,
+    "unique_buyers": 27,
+    "unique_sellers": 27,
+    "volume_usd": 37.75132251727772
+  },
+  {
+    "active_channels": 107,
+    "chain": "base",
+    "date": "2025-09-03",
+    "tx_count": 903,
+    "unique_buyers": 30,
+    "unique_sellers": 28,
+    "volume_usd": 55.16597057152342
+  },
+  {
+    "active_channels": 79,
+    "chain": "base",
+    "date": "2025-09-04",
+    "tx_count": 1675,
+    "unique_buyers": 26,
+    "unique_sellers": 35,
+    "volume_usd": 30.659975656584074
+  },
+  {
+    "active_channels": 87,
+    "chain": "base",
+    "date": "2025-09-05",
+    "tx_count": 1411,
+    "unique_buyers": 34,
+    "unique_sellers": 33,
+    "volume_usd": 82.48462579406632
+  },
+  {
+    "active_channels": 31,
+    "chain": "base",
+    "date": "2025-09-06",
+    "tx_count": 1061,
+    "unique_buyers": 15,
+    "unique_sellers": 16,
+    "volume_usd": 29.606929846924356
+  },
+  {
+    "active_channels": 13,
+    "chain": "base",
+    "date": "2025-09-07",
+    "tx_count": 1039,
+    "unique_buyers": 5,
+    "unique_sellers": 7,
+    "volume_usd": 12.258690690158419
+  },
+  {
+    "active_channels": 52,
+    "chain": "base",
+    "date": "2025-09-08",
+    "tx_count": 2245,
+    "unique_buyers": 17,
+    "unique_sellers": 25,
+    "volume_usd": 33.755668478520604
+  },
+  {
+    "active_channels": 63,
+    "chain": "base",
+    "date": "2025-09-09",
+    "tx_count": 1893,
+    "unique_buyers": 20,
+    "unique_sellers": 33,
+    "volume_usd": 20.26835518935508
+  },
+  {
+    "active_channels": 69,
+    "chain": "base",
+    "date": "2025-09-10",
+    "tx_count": 1085,
+    "unique_buyers": 22,
+    "unique_sellers": 32,
+    "volume_usd": 61.39140228468266
+  },
+  {
+    "active_channels": 77,
+    "chain": "base",
+    "date": "2025-09-11",
+    "tx_count": 652,
+    "unique_buyers": 22,
+    "unique_sellers": 34,
+    "volume_usd": 11.800069382757925
+  },
+  {
+    "active_channels": 61,
+    "chain": "base",
+    "date": "2025-09-12",
+    "tx_count": 351,
+    "unique_buyers": 19,
+    "unique_sellers": 23,
+    "volume_usd": 10.119084902800338
+  },
+  {
+    "active_channels": 35,
+    "chain": "base",
+    "date": "2025-09-13",
+    "tx_count": 135,
+    "unique_buyers": 11,
+    "unique_sellers": 21,
+    "volume_usd": 9.054019352852587
+  },
+  {
+    "active_channels": 66,
+    "chain": "base",
+    "date": "2025-09-14",
+    "tx_count": 306,
+    "unique_buyers": 20,
+    "unique_sellers": 29,
+    "volume_usd": 21.87789736060207
+  },
+  {
+    "active_channels": 70,
+    "chain": "base",
+    "date": "2025-09-15",
+    "tx_count": 1329,
+    "unique_buyers": 23,
+    "unique_sellers": 35,
+    "volume_usd": 111.76204655981488
+  },
+  {
+    "active_channels": 51,
+    "chain": "base",
+    "date": "2025-09-16",
+    "tx_count": 1323,
+    "unique_buyers": 19,
+    "unique_sellers": 33,
+    "volume_usd": 71.25053157610826
+  },
+  {
+    "active_channels": 122,
+    "chain": "base",
+    "date": "2025-09-17",
+    "tx_count": 1675,
+    "unique_buyers": 54,
+    "unique_sellers": 48,
+    "volume_usd": 100.36060118332364
+  },
+  {
+    "active_channels": 89,
+    "chain": "base",
+    "date": "2025-09-18",
+    "tx_count": 1143,
+    "unique_buyers": 38,
+    "unique_sellers": 35,
+    "volume_usd": 101.40830612063314
+  },
+  {
+    "active_channels": 97,
+    "chain": "base",
+    "date": "2025-09-19",
+    "tx_count": 1317,
+    "unique_buyers": 31,
+    "unique_sellers": 40,
+    "volume_usd": 38.13304392461976
+  },
+  {
+    "active_channels": 82,
+    "chain": "base",
+    "date": "2025-09-20",
+    "tx_count": 1047,
+    "unique_buyers": 26,
+    "unique_sellers": 39,
+    "volume_usd": 20.165568143404343
+  },
+  {
+    "active_channels": 43,
+    "chain": "base",
+    "date": "2025-09-21",
+    "tx_count": 1060,
+    "unique_buyers": 18,
+    "unique_sellers": 27,
+    "volume_usd": 22.21805814215224
+  },
+  {
+    "active_channels": 66,
+    "chain": "base",
+    "date": "2025-09-22",
+    "tx_count": 1197,
+    "unique_buyers": 20,
+    "unique_sellers": 34,
+    "volume_usd": 30.05155228153419
+  },
+  {
+    "active_channels": 68,
+    "chain": "base",
+    "date": "2025-09-23",
+    "tx_count": 1172,
+    "unique_buyers": 24,
+    "unique_sellers": 32,
+    "volume_usd": 18.80136480435201
+  },
+  {
+    "active_channels": 79,
+    "chain": "base",
+    "date": "2025-09-24",
+    "tx_count": 884,
+    "unique_buyers": 23,
+    "unique_sellers": 37,
+    "volume_usd": 37.0248699980495
+  },
+  {
+    "active_channels": 61,
+    "chain": "base",
+    "date": "2025-09-25",
+    "tx_count": 278,
+    "unique_buyers": 17,
+    "unique_sellers": 29,
+    "volume_usd": 18.150440951871992
+  },
+  {
+    "active_channels": 66,
+    "chain": "base",
+    "date": "2025-09-26",
+    "tx_count": 381,
+    "unique_buyers": 24,
+    "unique_sellers": 29,
+    "volume_usd": 19.34585910602224
+  },
+  {
+    "active_channels": 50,
+    "chain": "base",
+    "date": "2025-09-27",
+    "tx_count": 338,
+    "unique_buyers": 24,
+    "unique_sellers": 22,
+    "volume_usd": 16.62603584076891
+  },
+  {
+    "active_channels": 65,
+    "chain": "base",
+    "date": "2025-09-28",
+    "tx_count": 240,
+    "unique_buyers": 19,
+    "unique_sellers": 32,
+    "volume_usd": 9.970923869736087
+  },
+  {
+    "active_channels": 71,
+    "chain": "base",
+    "date": "2025-09-29",
+    "tx_count": 6051,
+    "unique_buyers": 30,
+    "unique_sellers": 36,
+    "volume_usd": 32.544029981353
+  },
+  {
+    "active_channels": 81,
+    "chain": "base",
+    "date": "2025-09-30",
+    "tx_count": 5920,
+    "unique_buyers": 34,
+    "unique_sellers": 42,
+    "volume_usd": 35.80894620813539
+  },
+  {
+    "active_channels": 8,
+    "chain": "polygon",
+    "date": "2025-09-28",
+    "tx_count": 11,
+    "unique_buyers": 8,
+    "unique_sellers": 1,
+    "volume_usd": 0.11027638266958331
+  },
+  {
+    "active_channels": 2,
+    "chain": "solana",
+    "date": "2025-09-09",
+    "tx_count": 2,
+    "unique_buyers": 2,
+    "unique_sellers": 1,
+    "volume_usd": 0.02000512
+  },
+  {
+    "active_channels": 1,
+    "chain": "solana",
+    "date": "2025-09-11",
+    "tx_count": 1,
+    "unique_buyers": 1,
+    "unique_sellers": 1,
+    "volume_usd": 0.00999749
+  },
+  {
+    "active_channels": 1,
+    "chain": "solana",
+    "date": "2025-09-12",
+    "tx_count": 4,
+    "unique_buyers": 1,
+    "unique_sellers": 1,
+    "volume_usd": 0.09997747
+  },
+  {
+    "active_channels": 1,
+    "chain": "solana",
+    "date": "2025-09-13",
+    "tx_count": 4,
+    "unique_buyers": 1,
+    "unique_sellers": 1,
+    "volume_usd": 0.31974148
+  },
+  {
+    "active_channels": 2,
+    "chain": "solana",
+    "date": "2025-09-14",
+    "tx_count": 15,
+    "unique_buyers": 2,
+    "unique_sellers": 2,
+    "volume_usd": 0.31485854999999996
+  },
+  {
+    "active_channels": 2,
+    "chain": "solana",
+    "date": "2025-09-15",
+    "tx_count": 4,
+    "unique_buyers": 2,
+    "unique_sellers": 2,
+    "volume_usd": 7.5107288599999995
+  },
+  {
+    "active_channels": 4,
+    "chain": "solana",
+    "date": "2025-09-16",
+    "tx_count": 5,
+    "unique_buyers": 4,
+    "unique_sellers": 3,
+    "volume_usd": 526.152109
+  },
+  {
+    "active_channels": 2,
+    "chain": "solana",
+    "date": "2025-09-19",
+    "tx_count": 9,
+    "unique_buyers": 2,
+    "unique_sellers": 2,
+    "volume_usd": 22.4952925
+  },
+  {
+    "active_channels": 1,
+    "chain": "solana",
+    "date": "2025-09-20",
+    "tx_count": 19,
+    "unique_buyers": 1,
+    "unique_sellers": 1,
+    "volume_usd": 47.51087999999999
+  },
+  {
+    "active_channels": 1,
+    "chain": "solana",
+    "date": "2025-09-21",
+    "tx_count": 1,
+    "unique_buyers": 1,
+    "unique_sellers": 1,
+    "volume_usd": 2.500325
+  },
+  {
+    "active_channels": 1,
+    "chain": "solana",
+    "date": "2025-09-22",
+    "tx_count": 2,
+    "unique_buyers": 1,
+    "unique_sellers": 1,
+    "volume_usd": 5.001340000000001
+  },
+  {
+    "active_channels": 2,
+    "chain": "solana",
+    "date": "2025-09-23",
+    "tx_count": 3,
+    "unique_buyers": 2,
+    "unique_sellers": 1,
+    "volume_usd": 7.5010275
+  },
+  {
+    "active_channels": 1,
+    "chain": "solana",
+    "date": "2025-09-24",
+    "tx_count": 3,
+    "unique_buyers": 1,
+    "unique_sellers": 1,
+    "volume_usd": 7.502565
+  },
+  {
+    "active_channels": 3,
+    "chain": "solana",
+    "date": "2025-09-25",
+    "tx_count": 20,
+    "unique_buyers": 3,
+    "unique_sellers": 2,
+    "volume_usd": 37.552013085999995
+  },
+  {
+    "active_channels": 2,
+    "chain": "solana",
+    "date": "2025-09-26",
+    "tx_count": 3,
+    "unique_buyers": 2,
+    "unique_sellers": 1,
+    "volume_usd": 7.5010125
+  },
+  {
+    "active_channels": 2,
+    "chain": "solana",
+    "date": "2025-09-27",
+    "tx_count": 3,
+    "unique_buyers": 2,
+    "unique_sellers": 1,
+    "volume_usd": 7.5036075
+  },
+  {
+    "active_channels": 1,
+    "chain": "solana",
+    "date": "2025-09-28",
+    "tx_count": 1,
+    "unique_buyers": 1,
+    "unique_sellers": 1,
+    "volume_usd": 2.50195
+  },
+  {
+    "active_channels": 55,
+    "chain": "base",
+    "date": "2025-10-01",
+    "tx_count": 357,
+    "unique_buyers": 22,
+    "unique_sellers": 28,
+    "volume_usd": 48277.213924065494
+  },
+  {
+    "active_channels": 69,
+    "chain": "base",
+    "date": "2025-10-02",
+    "tx_count": 2873,
+    "unique_buyers": 25,
+    "unique_sellers": 37,
+    "volume_usd": 263.9705831568602
+  },
+  {
+    "active_channels": 86,
+    "chain": "base",
+    "date": "2025-10-03",
+    "tx_count": 341,
+    "unique_buyers": 33,
+    "unique_sellers": 42,
+    "volume_usd": 26.116410919075328
+  },
+  {
+    "active_channels": 28,
+    "chain": "base",
+    "date": "2025-10-04",
+    "tx_count": 205,
+    "unique_buyers": 18,
+    "unique_sellers": 16,
+    "volume_usd": 127.87518956169677
+  },
+  {
+    "active_channels": 46,
+    "chain": "base",
+    "date": "2025-10-05",
+    "tx_count": 3257,
+    "unique_buyers": 15,
+    "unique_sellers": 25,
+    "volume_usd": 121.56236313231511
+  },
+  {
+    "active_channels": 76,
+    "chain": "base",
+    "date": "2025-10-06",
+    "tx_count": 1603,
+    "unique_buyers": 33,
+    "unique_sellers": 32,
+    "volume_usd": 202.13819136908336
+  },
+  {
+    "active_channels": 77,
+    "chain": "base",
+    "date": "2025-10-07",
+    "tx_count": 292,
+    "unique_buyers": 38,
+    "unique_sellers": 33,
+    "volume_usd": 55.30596920586719
+  },
+  {
+    "active_channels": 81,
+    "chain": "base",
+    "date": "2025-10-08",
+    "tx_count": 1769,
+    "unique_buyers": 31,
+    "unique_sellers": 38,
+    "volume_usd": 262.9396993925855
+  },
+  {
+    "active_channels": 70,
+    "chain": "base",
+    "date": "2025-10-09",
+    "tx_count": 273,
+    "unique_buyers": 36,
+    "unique_sellers": 38,
+    "volume_usd": 17.675018408182176
+  },
+  {
+    "active_channels": 157,
+    "chain": "base",
+    "date": "2025-10-10",
+    "tx_count": 493,
+    "unique_buyers": 56,
+    "unique_sellers": 50,
+    "volume_usd": 120.54208926892882
+  },
+  {
+    "active_channels": 89,
+    "chain": "base",
+    "date": "2025-10-11",
+    "tx_count": 362,
+    "unique_buyers": 30,
+    "unique_sellers": 36,
+    "volume_usd": 18.03846372171817
+  },
+  {
+    "active_channels": 112,
+    "chain": "base",
+    "date": "2025-10-12",
+    "tx_count": 539,
+    "unique_buyers": 28,
+    "unique_sellers": 46,
+    "volume_usd": 84.7378813578764
+  },
+  {
+    "active_channels": 123,
+    "chain": "base",
+    "date": "2025-10-13",
+    "tx_count": 4706,
+    "unique_buyers": 38,
+    "unique_sellers": 49,
+    "volume_usd": 286.07416743624555
+  },
+  {
+    "active_channels": 165,
+    "chain": "base",
+    "date": "2025-10-14",
+    "tx_count": 3093,
+    "unique_buyers": 49,
+    "unique_sellers": 58,
+    "volume_usd": 641.7553239318506
+  },
+  {
+    "active_channels": 155,
+    "chain": "base",
+    "date": "2025-10-15",
+    "tx_count": 3623,
+    "unique_buyers": 56,
+    "unique_sellers": 52,
+    "volume_usd": 142.2419023288066
+  },
+  {
+    "active_channels": 179,
+    "chain": "base",
+    "date": "2025-10-16",
+    "tx_count": 5483,
+    "unique_buyers": 62,
+    "unique_sellers": 60,
+    "volume_usd": 303.76848436915196
+  },
+  {
+    "active_channels": 123,
+    "chain": "base",
+    "date": "2025-10-17",
+    "tx_count": 1525,
+    "unique_buyers": 51,
+    "unique_sellers": 51,
+    "volume_usd": 108.1181203817703
+  },
+  {
+    "active_channels": 129,
+    "chain": "base",
+    "date": "2025-10-18",
+    "tx_count": 912,
+    "unique_buyers": 36,
+    "unique_sellers": 53,
+    "volume_usd": 47.78683568113559
+  },
+  {
+    "active_channels": 699,
+    "chain": "base",
+    "date": "2025-10-19",
+    "tx_count": 1637,
+    "unique_buyers": 635,
+    "unique_sellers": 44,
+    "volume_usd": 679.3333772255817
+  },
+  {
+    "active_channels": 207,
+    "chain": "base",
+    "date": "2025-10-20",
+    "tx_count": 1131,
+    "unique_buyers": 144,
+    "unique_sellers": 53,
+    "volume_usd": 82.15767724567597
+  },
+  {
+    "active_channels": 11080,
+    "chain": "base",
+    "date": "2025-10-21",
+    "tx_count": 25834,
+    "unique_buyers": 10989,
+    "unique_sellers": 66,
+    "volume_usd": 13814.598265978299
+  },
+  {
+    "active_channels": 19983,
+    "chain": "base",
+    "date": "2025-10-22",
+    "tx_count": 127761,
+    "unique_buyers": 19609,
+    "unique_sellers": 59,
+    "volume_usd": 124307.61302578452
+  },
+  {
+    "active_channels": 265,
+    "chain": "base",
+    "date": "2025-10-23",
+    "tx_count": 1721,
+    "unique_buyers": 107,
+    "unique_sellers": 59,
+    "volume_usd": 104.30088797654757
+  },
+  {
+    "active_channels": 11486,
+    "chain": "base",
+    "date": "2025-10-24",
+    "tx_count": 121250,
+    "unique_buyers": 8243,
+    "unique_sellers": 176,
+    "volume_usd": 332605.8176914642
+  },
+  {
+    "active_channels": 17012,
+    "chain": "base",
+    "date": "2025-10-25",
+    "tx_count": 403513,
+    "unique_buyers": 15139,
+    "unique_sellers": 269,
+    "volume_usd": 373894.50232714985
+  },
+  {
+    "active_channels": 33048,
+    "chain": "base",
+    "date": "2025-10-26",
+    "tx_count": 606435,
+    "unique_buyers": 27445,
+    "unique_sellers": 313,
+    "volume_usd": 592914.8695402662
+  },
+  {
+    "active_channels": 36795,
+    "chain": "base",
+    "date": "2025-10-27",
+    "tx_count": 484184,
+    "unique_buyers": 31090,
+    "unique_sellers": 1870,
+    "volume_usd": 807420.3227861209
+  },
+  {
+    "active_channels": 51982,
+    "chain": "base",
+    "date": "2025-10-28",
+    "tx_count": 363088,
+    "unique_buyers": 39764,
+    "unique_sellers": 13316,
+    "volume_usd": 351269.8181400998
+  },
+  {
+    "active_channels": 42657,
+    "chain": "base",
+    "date": "2025-10-29",
+    "tx_count": 560961,
+    "unique_buyers": 36798,
+    "unique_sellers": 11664,
+    "volume_usd": 639513.2994397854
+  },
+  {
+    "active_channels": 35713,
+    "chain": "base",
+    "date": "2025-10-30",
+    "tx_count": 386109,
+    "unique_buyers": 29517,
+    "unique_sellers": 12465,
+    "volume_usd": 331591.14055062796
+  },
+  {
+    "active_channels": 19577,
+    "chain": "base",
+    "date": "2025-10-31",
+    "tx_count": 757674,
+    "unique_buyers": 15470,
+    "unique_sellers": 4557,
+    "volume_usd": 340345.85640637757
+  },
+  {
+    "active_channels": 1,
+    "chain": "polygon",
+    "date": "2025-10-09",
+    "tx_count": 1,
+    "unique_buyers": 1,
+    "unique_sellers": 1,
+    "volume_usd": 0.010185076387500002
+  },
+  {
+    "active_channels": 3,
+    "chain": "polygon",
+    "date": "2025-10-20",
+    "tx_count": 6,
+    "unique_buyers": 2,
+    "unique_sellers": 3,
+    "volume_usd": 0.004001245333333334
+  },
+  {
+    "active_channels": 6,
+    "chain": "polygon",
+    "date": "2025-10-29",
+    "tx_count": 15,
+    "unique_buyers": 5,
+    "unique_sellers": 3,
+    "volume_usd": 0.010003037833333334
+  },
+  {
+    "active_channels": 3,
+    "chain": "solana",
+    "date": "2025-10-02",
+    "tx_count": 5,
+    "unique_buyers": 3,
+    "unique_sellers": 3,
+    "volume_usd": 8.501028852
+  },
+  {
+    "active_channels": 4,
+    "chain": "solana",
+    "date": "2025-10-03",
+    "tx_count": 6,
+    "unique_buyers": 3,
+    "unique_sellers": 3,
+    "volume_usd": 1.102758455
+  },
+  {
+    "active_channels": 5,
+    "chain": "solana",
+    "date": "2025-10-07",
+    "tx_count": 9,
+    "unique_buyers": 5,
+    "unique_sellers": 3,
+    "volume_usd": 2.565487061
+  },
+  {
+    "active_channels": 2,
+    "chain": "solana",
+    "date": "2025-10-08",
+    "tx_count": 5,
+    "unique_buyers": 2,
+    "unique_sellers": 2,
+    "volume_usd": 0.20300459800000004
+  },
+  {
+    "active_channels": 2,
+    "chain": "solana",
+    "date": "2025-10-09",
+    "tx_count": 2,
+    "unique_buyers": 2,
+    "unique_sellers": 2,
+    "volume_usd": 0.010999548000000001
+  },
+  {
+    "active_channels": 8,
+    "chain": "solana",
+    "date": "2025-10-10",
+    "tx_count": 26,
+    "unique_buyers": 4,
+    "unique_sellers": 6,
+    "volume_usd": 18.180042871999998
+  },
+  {
+    "active_channels": 5,
+    "chain": "solana",
+    "date": "2025-10-11",
+    "tx_count": 7,
+    "unique_buyers": 4,
+    "unique_sellers": 4,
+    "volume_usd": 7.4032778
+  },
+  {
+    "active_channels": 2,
+    "chain": "solana",
+    "date": "2025-10-12",
+    "tx_count": 4,
+    "unique_buyers": 2,
+    "unique_sellers": 2,
+    "volume_usd": 1.300855
+  },
+  {
+    "active_channels": 2,
+    "chain": "solana",
+    "date": "2025-10-13",
+    "tx_count": 10,
+    "unique_buyers": 2,
+    "unique_sellers": 2,
+    "volume_usd": 9.308616116
+  },
+  {
+    "active_channels": 2,
+    "chain": "solana",
+    "date": "2025-10-14",
+    "tx_count": 19,
+    "unique_buyers": 1,
+    "unique_sellers": 2,
+    "volume_usd": 4.6022967
+  },
+  {
+    "active_channels": 9,
+    "chain": "solana",
+    "date": "2025-10-15",
+    "tx_count": 118,
+    "unique_buyers": 4,
+    "unique_sellers": 9,
+    "volume_usd": 1.8102679300000006
+  },
+  {
+    "active_channels": 9,
+    "chain": "solana",
+    "date": "2025-10-16",
+    "tx_count": 304,
+    "unique_buyers": 4,
+    "unique_sellers": 8,
+    "volume_usd": 5.804232065999988
+  },
+  {
+    "active_channels": 10,
+    "chain": "solana",
+    "date": "2025-10-17",
+    "tx_count": 282,
+    "unique_buyers": 5,
+    "unique_sellers": 7,
+    "volume_usd": 3.7481072880000044
+  },
+  {
+    "active_channels": 10,
+    "chain": "solana",
+    "date": "2025-10-18",
+    "tx_count": 253,
+    "unique_buyers": 5,
+    "unique_sellers": 7,
+    "volume_usd": 1.441753882
+  },
+  {
+    "active_channels": 10,
+    "chain": "solana",
+    "date": "2025-10-19",
+    "tx_count": 281,
+    "unique_buyers": 4,
+    "unique_sellers": 8,
+    "volume_usd": 27.350617714999963
+  },
+  {
+    "active_channels": 12,
+    "chain": "solana",
+    "date": "2025-10-20",
+    "tx_count": 303,
+    "unique_buyers": 6,
+    "unique_sellers": 9,
+    "volume_usd": 15.791376996999986
+  },
+  {
+    "active_channels": 12,
+    "chain": "solana",
+    "date": "2025-10-21",
+    "tx_count": 269,
+    "unique_buyers": 7,
+    "unique_sellers": 10,
+    "volume_usd": 3.347600176999999
+  },
+  {
+    "active_channels": 9,
+    "chain": "solana",
+    "date": "2025-10-22",
+    "tx_count": 328,
+    "unique_buyers": 4,
+    "unique_sellers": 8,
+    "volume_usd": 63.49813498899999
+  },
+  {
+    "active_channels": 14,
+    "chain": "solana",
+    "date": "2025-10-23",
+    "tx_count": 351,
+    "unique_buyers": 8,
+    "unique_sellers": 11,
+    "volume_usd": 64.24755533199996
+  },
+  {
+    "active_channels": 22,
+    "chain": "solana",
+    "date": "2025-10-24",
+    "tx_count": 413,
+    "unique_buyers": 15,
+    "unique_sellers": 15,
+    "volume_usd": 468.105354678
+  },
+  {
+    "active_channels": 281,
+    "chain": "solana",
+    "date": "2025-10-25",
+    "tx_count": 1914,
+    "unique_buyers": 266,
+    "unique_sellers": 16,
+    "volume_usd": 15048.844209956542
+  },
+  {
+    "active_channels": 736,
+    "chain": "solana",
+    "date": "2025-10-26",
+    "tx_count": 2415,
+    "unique_buyers": 682,
+    "unique_sellers": 18,
+    "volume_usd": 14969.200423108065
+  },
+  {
+    "active_channels": 3649,
+    "chain": "solana",
+    "date": "2025-10-27",
+    "tx_count": 4221,
+    "unique_buyers": 260,
+    "unique_sellers": 3405,
+    "volume_usd": 1726.9835984088982
+  },
+  {
+    "active_channels": 2605,
+    "chain": "solana",
+    "date": "2025-10-28",
+    "tx_count": 3279,
+    "unique_buyers": 113,
+    "unique_sellers": 2517,
+    "volume_usd": 6906.558161964087
+  },
+  {
+    "active_channels": 5640,
+    "chain": "solana",
+    "date": "2025-10-29",
+    "tx_count": 6040,
+    "unique_buyers": 91,
+    "unique_sellers": 5568,
+    "volume_usd": 46.23207374510016
+  },
+  {
+    "active_channels": 1559,
+    "chain": "solana",
+    "date": "2025-10-30",
+    "tx_count": 2274,
+    "unique_buyers": 150,
+    "unique_sellers": 1431,
+    "volume_usd": 80.36888122899974
+  },
+  {
+    "active_channels": 1601,
+    "chain": "solana",
+    "date": "2025-10-31",
+    "tx_count": 2165,
+    "unique_buyers": 75,
+    "unique_sellers": 1546,
+    "volume_usd": 38.748975316759854
+  },
+  {
+    "active_channels": 11094,
+    "chain": "base",
+    "date": "2025-11-01",
+    "tx_count": 916233,
+    "unique_buyers": 10370,
+    "unique_sellers": 599,
+    "volume_usd": 528436.2664594895
+  },
+  {
+    "active_channels": 14520,
+    "chain": "base",
+    "date": "2025-11-02",
+    "tx_count": 2372150,
+    "unique_buyers": 13743,
+    "unique_sellers": 441,
+    "volume_usd": 1620661.447382833
+  },
+  {
+    "active_channels": 12477,
+    "chain": "base",
+    "date": "2025-11-03",
+    "tx_count": 3237054,
+    "unique_buyers": 8496,
+    "unique_sellers": 572,
+    "volume_usd": 3001530.531869327
+  },
+  {
+    "active_channels": 7579,
+    "chain": "base",
+    "date": "2025-11-04",
+    "tx_count": 1280018,
+    "unique_buyers": 6656,
+    "unique_sellers": 447,
+    "volume_usd": 923261.2162476456
+  },
+  {
+    "active_channels": 5448,
+    "chain": "base",
+    "date": "2025-11-05",
+    "tx_count": 520722,
+    "unique_buyers": 4609,
+    "unique_sellers": 240,
+    "volume_usd": 138352.72535219675
+  },
+  {
+    "active_channels": 9287,
+    "chain": "base",
+    "date": "2025-11-06",
+    "tx_count": 1203874,
+    "unique_buyers": 6825,
+    "unique_sellers": 1358,
+    "volume_usd": 383198.33921530395
+  },
+  {
+    "active_channels": 26156,
+    "chain": "base",
+    "date": "2025-11-07",
+    "tx_count": 691529,
+    "unique_buyers": 14676,
+    "unique_sellers": 9996,
+    "volume_usd": 152776.6522668484
+  },
+  {
+    "active_channels": 16541,
+    "chain": "base",
+    "date": "2025-11-08",
+    "tx_count": 723493,
+    "unique_buyers": 11257,
+    "unique_sellers": 1287,
+    "volume_usd": 121514.71817095716
+  },
+  {
+    "active_channels": 19001,
+    "chain": "base",
+    "date": "2025-11-09",
+    "tx_count": 1234749,
+    "unique_buyers": 13600,
+    "unique_sellers": 1664,
+    "volume_usd": 303170.214869488
+  },
+  {
+    "active_channels": 33854,
+    "chain": "base",
+    "date": "2025-11-10",
+    "tx_count": 1362153,
+    "unique_buyers": 27794,
+    "unique_sellers": 2477,
+    "volume_usd": 296377.8154751032
+  },
+  {
+    "active_channels": 35765,
+    "chain": "base",
+    "date": "2025-11-11",
+    "tx_count": 1274431,
+    "unique_buyers": 25092,
+    "unique_sellers": 5399,
+    "volume_usd": 199791.90413987084
+  },
+  {
+    "active_channels": 26221,
+    "chain": "base",
+    "date": "2025-11-12",
+    "tx_count": 1281549,
+    "unique_buyers": 17009,
+    "unique_sellers": 4136,
+    "volume_usd": 560482.8803799246
+  },
+  {
+    "active_channels": 27520,
+    "chain": "base",
+    "date": "2025-11-13",
+    "tx_count": 2143135,
+    "unique_buyers": 16333,
+    "unique_sellers": 5121,
+    "volume_usd": 1020878.6497297595
+  },
+  {
+    "active_channels": 20542,
+    "chain": "base",
+    "date": "2025-11-14",
+    "tx_count": 1754227,
+    "unique_buyers": 12903,
+    "unique_sellers": 3641,
+    "volume_usd": 1044691.8665384246
+  },
+  {
+    "active_channels": 22385,
+    "chain": "base",
+    "date": "2025-11-15",
+    "tx_count": 2278324,
+    "unique_buyers": 13123,
+    "unique_sellers": 4601,
+    "volume_usd": 1262171.4697009784
+  },
+  {
+    "active_channels": 18289,
+    "chain": "base",
+    "date": "2025-11-16",
+    "tx_count": 2279458,
+    "unique_buyers": 10463,
+    "unique_sellers": 3729,
+    "volume_usd": 1191068.4417926103
+  },
+  {
+    "active_channels": 15652,
+    "chain": "base",
+    "date": "2025-11-17",
+    "tx_count": 2085973,
+    "unique_buyers": 9825,
+    "unique_sellers": 2595,
+    "volume_usd": 1151498.2811906075
+  },
+  {
+    "active_channels": 20582,
+    "chain": "base",
+    "date": "2025-11-18",
+    "tx_count": 2014307,
+    "unique_buyers": 12509,
+    "unique_sellers": 3939,
+    "volume_usd": 1201030.231458841
+  },
+  {
+    "active_channels": 17802,
+    "chain": "base",
+    "date": "2025-11-19",
+    "tx_count": 2250652,
+    "unique_buyers": 11779,
+    "unique_sellers": 2697,
+    "volume_usd": 1285272.1176854875
+  },
+  {
+    "active_channels": 12378,
+    "chain": "base",
+    "date": "2025-11-20",
+    "tx_count": 1665208,
+    "unique_buyers": 8942,
+    "unique_sellers": 1181,
+    "volume_usd": 857096.4858112982
+  },
+  {
+    "active_channels": 11014,
+    "chain": "base",
+    "date": "2025-11-21",
+    "tx_count": 1192346,
+    "unique_buyers": 8273,
+    "unique_sellers": 826,
+    "volume_usd": 266288.3769550376
+  },
+  {
+    "active_channels": 12484,
+    "chain": "base",
+    "date": "2025-11-22",
+    "tx_count": 935068,
+    "unique_buyers": 9329,
+    "unique_sellers": 1254,
+    "volume_usd": 72812.05818179483
+  },
+  {
+    "active_channels": 22042,
+    "chain": "base",
+    "date": "2025-11-23",
+    "tx_count": 1248721,
+    "unique_buyers": 14219,
+    "unique_sellers": 4464,
+    "volume_usd": 77419.69057674918
+  },
+  {
+    "active_channels": 21306,
+    "chain": "base",
+    "date": "2025-11-24",
+    "tx_count": 1654363,
+    "unique_buyers": 13534,
+    "unique_sellers": 4136,
+    "volume_usd": 209154.05853521088
+  },
+  {
+    "active_channels": 18867,
+    "chain": "base",
+    "date": "2025-11-25",
+    "tx_count": 1829557,
+    "unique_buyers": 12551,
+    "unique_sellers": 3494,
+    "volume_usd": 307023.1957994453
+  },
+  {
+    "active_channels": 20690,
+    "chain": "base",
+    "date": "2025-11-26",
+    "tx_count": 2550734,
+    "unique_buyers": 13169,
+    "unique_sellers": 4201,
+    "volume_usd": 568115.1791611933
+  },
+  {
+    "active_channels": 18818,
+    "chain": "base",
+    "date": "2025-11-27",
+    "tx_count": 1879104,
+    "unique_buyers": 10796,
+    "unique_sellers": 4116,
+    "volume_usd": 413248.9427921343
+  },
+  {
+    "active_channels": 16359,
+    "chain": "base",
+    "date": "2025-11-28",
+    "tx_count": 854305,
+    "unique_buyers": 9582,
+    "unique_sellers": 3720,
+    "volume_usd": 141419.00992013016
+  },
+  {
+    "active_channels": 14559,
+    "chain": "base",
+    "date": "2025-11-29",
+    "tx_count": 879561,
+    "unique_buyers": 9140,
+    "unique_sellers": 2418,
+    "volume_usd": 21557.911201460247
+  },
+  {
+    "active_channels": 19435,
+    "chain": "base",
+    "date": "2025-11-30",
+    "tx_count": 927876,
+    "unique_buyers": 11218,
+    "unique_sellers": 4463,
+    "volume_usd": 31485.184172596935
+  },
+  {
+    "active_channels": 4,
+    "chain": "polygon",
+    "date": "2025-11-01",
+    "tx_count": 2774,
+    "unique_buyers": 4,
+    "unique_sellers": 1,
+    "volume_usd": 0.2776309986999998
+  },
+  {
+    "active_channels": 4,
+    "chain": "polygon",
+    "date": "2025-11-02",
+    "tx_count": 2141,
+    "unique_buyers": 4,
+    "unique_sellers": 1,
+    "volume_usd": 0.21424868794166663
+  },
+  {
+    "active_channels": 7,
+    "chain": "polygon",
+    "date": "2025-11-03",
+    "tx_count": 802,
+    "unique_buyers": 6,
+    "unique_sellers": 4,
+    "volume_usd": 0.6975316629083329
+  },
+  {
+    "active_channels": 9,
+    "chain": "polygon",
+    "date": "2025-11-04",
+    "tx_count": 3923,
+    "unique_buyers": 7,
+    "unique_sellers": 5,
+    "volume_usd": 103.93384944540833
+  },
+  {
+    "active_channels": 7,
+    "chain": "polygon",
+    "date": "2025-11-05",
+    "tx_count": 5693,
+    "unique_buyers": 6,
+    "unique_sellers": 4,
+    "volume_usd": 0.579631541141667
+  },
+  {
+    "active_channels": 12,
+    "chain": "polygon",
+    "date": "2025-11-06",
+    "tx_count": 6269,
+    "unique_buyers": 8,
+    "unique_sellers": 7,
+    "volume_usd": 100.71043691586662
+  },
+  {
+    "active_channels": 7,
+    "chain": "polygon",
+    "date": "2025-11-07",
+    "tx_count": 6871,
+    "unique_buyers": 6,
+    "unique_sellers": 3,
+    "volume_usd": 0.7120002806333339
+  },
+  {
+    "active_channels": 8,
+    "chain": "polygon",
+    "date": "2025-11-08",
+    "tx_count": 7275,
+    "unique_buyers": 7,
+    "unique_sellers": 4,
+    "volume_usd": 1.766485708541666
+  },
+  {
+    "active_channels": 5,
+    "chain": "polygon",
+    "date": "2025-11-09",
+    "tx_count": 7525,
+    "unique_buyers": 5,
+    "unique_sellers": 2,
+    "volume_usd": 8.251207278475
+  },
+  {
+    "active_channels": 13,
+    "chain": "polygon",
+    "date": "2025-11-10",
+    "tx_count": 11373,
+    "unique_buyers": 11,
+    "unique_sellers": 6,
+    "volume_usd": 6.752950838133336
+  },
+  {
+    "active_channels": 10,
+    "chain": "polygon",
+    "date": "2025-11-11",
+    "tx_count": 22882,
+    "unique_buyers": 8,
+    "unique_sellers": 6,
+    "volume_usd": 2.294422654216667
+  },
+  {
+    "active_channels": 18,
+    "chain": "polygon",
+    "date": "2025-11-12",
+    "tx_count": 9853,
+    "unique_buyers": 17,
+    "unique_sellers": 5,
+    "volume_usd": 1.1497059795416669
+  },
+  {
+    "active_channels": 14,
+    "chain": "polygon",
+    "date": "2025-11-13",
+    "tx_count": 6979,
+    "unique_buyers": 14,
+    "unique_sellers": 3,
+    "volume_usd": 1.7492281463750003
+  },
+  {
+    "active_channels": 15,
+    "chain": "polygon",
+    "date": "2025-11-14",
+    "tx_count": 9721,
+    "unique_buyers": 15,
+    "unique_sellers": 4,
+    "volume_usd": 63.0848462239667
+  },
+  {
+    "active_channels": 8,
+    "chain": "polygon",
+    "date": "2025-11-15",
+    "tx_count": 19074,
+    "unique_buyers": 8,
+    "unique_sellers": 3,
+    "volume_usd": 138.28840497384158
+  },
+  {
+    "active_channels": 15,
+    "chain": "polygon",
+    "date": "2025-11-16",
+    "tx_count": 25120,
+    "unique_buyers": 15,
+    "unique_sellers": 4,
+    "volume_usd": 157.91212065959164
+  },
+  {
+    "active_channels": 15,
+    "chain": "polygon",
+    "date": "2025-11-17",
+    "tx_count": 28205,
+    "unique_buyers": 15,
+    "unique_sellers": 4,
+    "volume_usd": 200.61249352384988
+  },
+  {
+    "active_channels": 7,
+    "chain": "polygon",
+    "date": "2025-11-18",
+    "tx_count": 21074,
+    "unique_buyers": 7,
+    "unique_sellers": 3,
+    "volume_usd": 117.56549473606667
+  },
+  {
+    "active_channels": 15,
+    "chain": "polygon",
+    "date": "2025-11-19",
+    "tx_count": 20926,
+    "unique_buyers": 15,
+    "unique_sellers": 4,
+    "volume_usd": 114.82742948375831
+  },
+  {
+    "active_channels": 6,
+    "chain": "polygon",
+    "date": "2025-11-20",
+    "tx_count": 20113,
+    "unique_buyers": 6,
+    "unique_sellers": 3,
+    "volume_usd": 108.57231088389163
+  },
+  {
+    "active_channels": 8,
+    "chain": "polygon",
+    "date": "2025-11-21",
+    "tx_count": 11994,
+    "unique_buyers": 7,
+    "unique_sellers": 5,
+    "volume_usd": 74.43912061535839
+  },
+  {
+    "active_channels": 15,
+    "chain": "polygon",
+    "date": "2025-11-22",
+    "tx_count": 11934,
+    "unique_buyers": 15,
+    "unique_sellers": 3,
+    "volume_usd": 3.297252320458333
+  },
+  {
+    "active_channels": 11,
+    "chain": "polygon",
+    "date": "2025-11-23",
+    "tx_count": 13005,
+    "unique_buyers": 11,
+    "unique_sellers": 3,
+    "volume_usd": 24.437793299900004
+  },
+  {
+    "active_channels": 5,
+    "chain": "polygon",
+    "date": "2025-11-24",
+    "tx_count": 23190,
+    "unique_buyers": 5,
+    "unique_sellers": 2,
+    "volume_usd": 112.89497009686666
+  },
+  {
+    "active_channels": 6,
+    "chain": "polygon",
+    "date": "2025-11-25",
+    "tx_count": 20097,
+    "unique_buyers": 6,
+    "unique_sellers": 3,
+    "volume_usd": 112.38265713322917
+  },
+  {
+    "active_channels": 4,
+    "chain": "polygon",
+    "date": "2025-11-26",
+    "tx_count": 14043,
+    "unique_buyers": 4,
+    "unique_sellers": 3,
+    "volume_usd": 116.20577784597575
+  },
+  {
+    "active_channels": 9,
+    "chain": "polygon",
+    "date": "2025-11-27",
+    "tx_count": 12175,
+    "unique_buyers": 9,
+    "unique_sellers": 4,
+    "volume_usd": 50.02807397910833
+  },
+  {
+    "active_channels": 6,
+    "chain": "polygon",
+    "date": "2025-11-28",
+    "tx_count": 10142,
+    "unique_buyers": 6,
+    "unique_sellers": 3,
+    "volume_usd": 10.207651285891664
+  },
+  {
+    "active_channels": 5,
+    "chain": "polygon",
+    "date": "2025-11-29",
+    "tx_count": 10226,
+    "unique_buyers": 5,
+    "unique_sellers": 2,
+    "volume_usd": 10.566397662383329
+  },
+  {
+    "active_channels": 5,
+    "chain": "polygon",
+    "date": "2025-11-30",
+    "tx_count": 10323,
+    "unique_buyers": 5,
+    "unique_sellers": 2,
+    "volume_usd": 10.386977238200004
+  },
+  {
+    "active_channels": 1518,
+    "chain": "solana",
+    "date": "2025-11-01",
+    "tx_count": 2301,
+    "unique_buyers": 32,
+    "unique_sellers": 1499,
+    "volume_usd": 130.40339837330134
+  },
+  {
+    "active_channels": 2536,
+    "chain": "solana",
+    "date": "2025-11-02",
+    "tx_count": 2579,
+    "unique_buyers": 34,
+    "unique_sellers": 2514,
+    "volume_usd": 1115.7828102323904
+  },
+  {
+    "active_channels": 710,
+    "chain": "solana",
+    "date": "2025-11-03",
+    "tx_count": 5014,
+    "unique_buyers": 481,
+    "unique_sellers": 43,
+    "volume_usd": 9771.96130954814
+  },
+  {
+    "active_channels": 377,
+    "chain": "solana",
+    "date": "2025-11-04",
+    "tx_count": 9177,
+    "unique_buyers": 152,
+    "unique_sellers": 38,
+    "volume_usd": 18700.30499427633
+  },
+  {
+    "active_channels": 318,
+    "chain": "solana",
+    "date": "2025-11-05",
+    "tx_count": 2091,
+    "unique_buyers": 94,
+    "unique_sellers": 34,
+    "volume_usd": 6138.329699107739
+  },
+  {
+    "active_channels": 423,
+    "chain": "solana",
+    "date": "2025-11-06",
+    "tx_count": 5473,
+    "unique_buyers": 191,
+    "unique_sellers": 38,
+    "volume_usd": 18322.20962078305
+  },
+  {
+    "active_channels": 339,
+    "chain": "solana",
+    "date": "2025-11-07",
+    "tx_count": 3534,
+    "unique_buyers": 111,
+    "unique_sellers": 52,
+    "volume_usd": 2633.400472759798
+  },
+  {
+    "active_channels": 325,
+    "chain": "solana",
+    "date": "2025-11-08",
+    "tx_count": 2419,
+    "unique_buyers": 92,
+    "unique_sellers": 45,
+    "volume_usd": 3175.525256668141
+  },
+  {
+    "active_channels": 311,
+    "chain": "solana",
+    "date": "2025-11-09",
+    "tx_count": 8679,
+    "unique_buyers": 85,
+    "unique_sellers": 56,
+    "volume_usd": 1910.6904599430197
+  },
+  {
+    "active_channels": 1641,
+    "chain": "solana",
+    "date": "2025-11-10",
+    "tx_count": 23892,
+    "unique_buyers": 1395,
+    "unique_sellers": 58,
+    "volume_usd": 27458.77684765017
+  },
+  {
+    "active_channels": 3287,
+    "chain": "solana",
+    "date": "2025-11-11",
+    "tx_count": 4258,
+    "unique_buyers": 3123,
+    "unique_sellers": 89,
+    "volume_usd": 150672.8178944737
+  },
+  {
+    "active_channels": 464,
+    "chain": "solana",
+    "date": "2025-11-12",
+    "tx_count": 10079,
+    "unique_buyers": 199,
+    "unique_sellers": 70,
+    "volume_usd": 12889.890461365354
+  },
+  {
+    "active_channels": 364,
+    "chain": "solana",
+    "date": "2025-11-13",
+    "tx_count": 5123,
+    "unique_buyers": 118,
+    "unique_sellers": 59,
+    "volume_usd": 5515.4821633268475
+  },
+  {
+    "active_channels": 453,
+    "chain": "solana",
+    "date": "2025-11-14",
+    "tx_count": 56212,
+    "unique_buyers": 197,
+    "unique_sellers": 66,
+    "volume_usd": 8943.257240644954
+  },
+  {
+    "active_channels": 298,
+    "chain": "solana",
+    "date": "2025-11-15",
+    "tx_count": 51663,
+    "unique_buyers": 141,
+    "unique_sellers": 47,
+    "volume_usd": 9013.987316025215
+  },
+  {
+    "active_channels": 385,
+    "chain": "solana",
+    "date": "2025-11-16",
+    "tx_count": 55139,
+    "unique_buyers": 151,
+    "unique_sellers": 50,
+    "volume_usd": 17324.561791912314
+  },
+  {
+    "active_channels": 176,
+    "chain": "solana",
+    "date": "2025-11-17",
+    "tx_count": 34207,
+    "unique_buyers": 141,
+    "unique_sellers": 50,
+    "volume_usd": 1573.7974253276575
+  },
+  {
+    "active_channels": 325,
+    "chain": "solana",
+    "date": "2025-11-18",
+    "tx_count": 82751,
+    "unique_buyers": 195,
+    "unique_sellers": 61,
+    "volume_usd": 2138.7334132315673
+  },
+  {
+    "active_channels": 178,
+    "chain": "solana",
+    "date": "2025-11-19",
+    "tx_count": 94269,
+    "unique_buyers": 145,
+    "unique_sellers": 47,
+    "volume_usd": 4452.08950425102
+  },
+  {
+    "active_channels": 300,
+    "chain": "solana",
+    "date": "2025-11-20",
+    "tx_count": 183852,
+    "unique_buyers": 265,
+    "unique_sellers": 43,
+    "volume_usd": 5560.001818339869
+  },
+  {
+    "active_channels": 231,
+    "chain": "solana",
+    "date": "2025-11-21",
+    "tx_count": 272043,
+    "unique_buyers": 196,
+    "unique_sellers": 41,
+    "volume_usd": 36119.33670058869
+  },
+  {
+    "active_channels": 248,
+    "chain": "solana",
+    "date": "2025-11-22",
+    "tx_count": 222336,
+    "unique_buyers": 228,
+    "unique_sellers": 32,
+    "volume_usd": 51495.02540299729
+  },
+  {
+    "active_channels": 300,
+    "chain": "solana",
+    "date": "2025-11-23",
+    "tx_count": 386695,
+    "unique_buyers": 291,
+    "unique_sellers": 20,
+    "volume_usd": 53007.00988090721
+  },
+  {
+    "active_channels": 426,
+    "chain": "solana",
+    "date": "2025-11-24",
+    "tx_count": 532602,
+    "unique_buyers": 354,
+    "unique_sellers": 34,
+    "volume_usd": 40751.400843683165
+  },
+  {
+    "active_channels": 551,
+    "chain": "solana",
+    "date": "2025-11-25",
+    "tx_count": 758482,
+    "unique_buyers": 370,
+    "unique_sellers": 40,
+    "volume_usd": 46643.37659909805
+  },
+  {
+    "active_channels": 527,
+    "chain": "solana",
+    "date": "2025-11-26",
+    "tx_count": 770787,
+    "unique_buyers": 409,
+    "unique_sellers": 31,
+    "volume_usd": 44840.016067997145
+  },
+  {
+    "active_channels": 509,
+    "chain": "solana",
+    "date": "2025-11-27",
+    "tx_count": 535717,
+    "unique_buyers": 486,
+    "unique_sellers": 34,
+    "volume_usd": 43582.851904137155
+  },
+  {
+    "active_channels": 528,
+    "chain": "solana",
+    "date": "2025-11-28",
+    "tx_count": 270988,
+    "unique_buyers": 415,
+    "unique_sellers": 46,
+    "volume_usd": 41706.88642532114
+  },
+  {
+    "active_channels": 377,
+    "chain": "solana",
+    "date": "2025-11-29",
+    "tx_count": 244340,
+    "unique_buyers": 362,
+    "unique_sellers": 23,
+    "volume_usd": 37456.09119555756
+  },
+  {
+    "active_channels": 570,
+    "chain": "solana",
+    "date": "2025-11-30",
+    "tx_count": 474716,
+    "unique_buyers": 520,
+    "unique_sellers": 29,
+    "volume_usd": 382997.7933655294
+  },
+  {
+    "active_channels": 18257,
+    "chain": "base",
+    "date": "2025-12-01",
+    "tx_count": 811772,
+    "unique_buyers": 10498,
+    "unique_sellers": 4224,
+    "volume_usd": 39146.315289338614
+  },
+  {
+    "active_channels": 23528,
+    "chain": "base",
+    "date": "2025-12-02",
+    "tx_count": 805440,
+    "unique_buyers": 13637,
+    "unique_sellers": 4881,
+    "volume_usd": 48440.13383241795
+  },
+  {
+    "active_channels": 17307,
+    "chain": "base",
+    "date": "2025-12-03",
+    "tx_count": 970785,
+    "unique_buyers": 10753,
+    "unique_sellers": 2760,
+    "volume_usd": 28803.276599518966
+  },
+  {
+    "active_channels": 21874,
+    "chain": "base",
+    "date": "2025-12-04",
+    "tx_count": 951392,
+    "unique_buyers": 12561,
+    "unique_sellers": 3688,
+    "volume_usd": 69080.54714052218
+  },
+  {
+    "active_channels": 14492,
+    "chain": "base",
+    "date": "2025-12-05",
+    "tx_count": 971221,
+    "unique_buyers": 9915,
+    "unique_sellers": 281,
+    "volume_usd": 88580.44618386366
+  },
+  {
+    "active_channels": 14215,
+    "chain": "base",
+    "date": "2025-12-06",
+    "tx_count": 978829,
+    "unique_buyers": 9549,
+    "unique_sellers": 220,
+    "volume_usd": 73516.93408087234
+  },
+  {
+    "active_channels": 7298,
+    "chain": "base",
+    "date": "2025-12-07",
+    "tx_count": 860445,
+    "unique_buyers": 5622,
+    "unique_sellers": 198,
+    "volume_usd": 42259.01291593982
+  },
+  {
+    "active_channels": 17716,
+    "chain": "base",
+    "date": "2025-12-08",
+    "tx_count": 934263,
+    "unique_buyers": 11307,
+    "unique_sellers": 495,
+    "volume_usd": 44947.96450739276
+  },
+  {
+    "active_channels": 14649,
+    "chain": "base",
+    "date": "2025-12-09",
+    "tx_count": 1035831,
+    "unique_buyers": 9779,
+    "unique_sellers": 1259,
+    "volume_usd": 58083.70761551351
+  },
+  {
+    "active_channels": 13766,
+    "chain": "base",
+    "date": "2025-12-10",
+    "tx_count": 1204790,
+    "unique_buyers": 9183,
+    "unique_sellers": 1257,
+    "volume_usd": 116044.90610147108
+  },
+  {
+    "active_channels": 14925,
+    "chain": "base",
+    "date": "2025-12-11",
+    "tx_count": 1099188,
+    "unique_buyers": 10055,
+    "unique_sellers": 1276,
+    "volume_usd": 101349.19974128137
+  },
+  {
+    "active_channels": 13467,
+    "chain": "base",
+    "date": "2025-12-12",
+    "tx_count": 945110,
+    "unique_buyers": 9059,
+    "unique_sellers": 1230,
+    "volume_usd": 107482.52878624489
+  },
+  {
+    "active_channels": 10690,
+    "chain": "base",
+    "date": "2025-12-13",
+    "tx_count": 833071,
+    "unique_buyers": 6777,
+    "unique_sellers": 1090,
+    "volume_usd": 47197.87078431366
+  },
+  {
+    "active_channels": 12733,
+    "chain": "base",
+    "date": "2025-12-14",
+    "tx_count": 1013672,
+    "unique_buyers": 8149,
+    "unique_sellers": 1113,
+    "volume_usd": 50846.79787584166
+  },
+  {
+    "active_channels": 13006,
+    "chain": "base",
+    "date": "2025-12-15",
+    "tx_count": 763114,
+    "unique_buyers": 8720,
+    "unique_sellers": 936,
+    "volume_usd": 242664.88573212654
+  },
+  {
+    "active_channels": 11872,
+    "chain": "base",
+    "date": "2025-12-16",
+    "tx_count": 813562,
+    "unique_buyers": 8190,
+    "unique_sellers": 717,
+    "volume_usd": 294411.4154371673
+  },
+  {
+    "active_channels": 12098,
+    "chain": "base",
+    "date": "2025-12-17",
+    "tx_count": 872282,
+    "unique_buyers": 8892,
+    "unique_sellers": 537,
+    "volume_usd": 58902.34684236736
+  },
+  {
+    "active_channels": 12356,
+    "chain": "base",
+    "date": "2025-12-18",
+    "tx_count": 863402,
+    "unique_buyers": 8695,
+    "unique_sellers": 498,
+    "volume_usd": 20872.53573764479
+  },
+  {
+    "active_channels": 11407,
+    "chain": "base",
+    "date": "2025-12-19",
+    "tx_count": 906635,
+    "unique_buyers": 8434,
+    "unique_sellers": 467,
+    "volume_usd": 20586.67393492628
+  },
+  {
+    "active_channels": 9917,
+    "chain": "base",
+    "date": "2025-12-20",
+    "tx_count": 929444,
+    "unique_buyers": 7418,
+    "unique_sellers": 395,
+    "volume_usd": 34687.724585367454
+  },
+  {
+    "active_channels": 11386,
+    "chain": "base",
+    "date": "2025-12-21",
+    "tx_count": 857790,
+    "unique_buyers": 7730,
+    "unique_sellers": 509,
+    "volume_usd": 44584.54647772841
+  },
+  {
+    "active_channels": 10288,
+    "chain": "base",
+    "date": "2025-12-22",
+    "tx_count": 807852,
+    "unique_buyers": 7282,
+    "unique_sellers": 557,
+    "volume_usd": 25138.730852749006
+  },
+  {
+    "active_channels": 11480,
+    "chain": "base",
+    "date": "2025-12-23",
+    "tx_count": 876733,
+    "unique_buyers": 8235,
+    "unique_sellers": 409,
+    "volume_usd": 22770.263573177752
+  },
+  {
+    "active_channels": 8929,
+    "chain": "base",
+    "date": "2025-12-24",
+    "tx_count": 773836,
+    "unique_buyers": 6003,
+    "unique_sellers": 381,
+    "volume_usd": 19899.467511097333
+  },
+  {
+    "active_channels": 8840,
+    "chain": "base",
+    "date": "2025-12-25",
+    "tx_count": 787017,
+    "unique_buyers": 5781,
+    "unique_sellers": 340,
+    "volume_usd": 24599.795094283585
+  },
+  {
+    "active_channels": 12162,
+    "chain": "base",
+    "date": "2025-12-26",
+    "tx_count": 800804,
+    "unique_buyers": 9582,
+    "unique_sellers": 325,
+    "volume_usd": 21354.931296925577
+  },
+  {
+    "active_channels": 13949,
+    "chain": "base",
+    "date": "2025-12-27",
+    "tx_count": 664479,
+    "unique_buyers": 9998,
+    "unique_sellers": 314,
+    "volume_usd": 19501.831452753395
+  },
+  {
+    "active_channels": 8832,
+    "chain": "base",
+    "date": "2025-12-28",
+    "tx_count": 756730,
+    "unique_buyers": 6449,
+    "unique_sellers": 304,
+    "volume_usd": 21037.80600861701
+  },
+  {
+    "active_channels": 8634,
+    "chain": "base",
+    "date": "2025-12-29",
+    "tx_count": 682610,
+    "unique_buyers": 5928,
+    "unique_sellers": 324,
+    "volume_usd": 23667.954201279474
+  },
+  {
+    "active_channels": 8663,
+    "chain": "base",
+    "date": "2025-12-30",
+    "tx_count": 643746,
+    "unique_buyers": 5754,
+    "unique_sellers": 290,
+    "volume_usd": 23990.424981145534
+  },
+  {
+    "active_channels": 5632,
+    "chain": "base",
+    "date": "2025-12-31",
+    "tx_count": 633252,
+    "unique_buyers": 3881,
+    "unique_sellers": 287,
+    "volume_usd": 23261.402804217378
+  },
+  {
+    "active_channels": 13,
+    "chain": "polygon",
+    "date": "2025-12-01",
+    "tx_count": 10859,
+    "unique_buyers": 13,
+    "unique_sellers": 3,
+    "volume_usd": 11.957288386058337
+  },
+  {
+    "active_channels": 14,
+    "chain": "polygon",
+    "date": "2025-12-02",
+    "tx_count": 10776,
+    "unique_buyers": 14,
+    "unique_sellers": 4,
+    "volume_usd": 10.261142641558331
+  },
+  {
+    "active_channels": 12,
+    "chain": "polygon",
+    "date": "2025-12-03",
+    "tx_count": 10740,
+    "unique_buyers": 12,
+    "unique_sellers": 3,
+    "volume_usd": 10.162615877991666
+  },
+  {
+    "active_channels": 5,
+    "chain": "polygon",
+    "date": "2025-12-04",
+    "tx_count": 10730,
+    "unique_buyers": 5,
+    "unique_sellers": 3,
+    "volume_usd": 10.143802070249997
+  },
+  {
+    "active_channels": 7,
+    "chain": "polygon",
+    "date": "2025-12-05",
+    "tx_count": 10515,
+    "unique_buyers": 7,
+    "unique_sellers": 4,
+    "volume_usd": 12.292904478185836
+  },
+  {
+    "active_channels": 4,
+    "chain": "polygon",
+    "date": "2025-12-06",
+    "tx_count": 10705,
+    "unique_buyers": 4,
+    "unique_sellers": 2,
+    "volume_usd": 10.112321738800006
+  },
+  {
+    "active_channels": 4,
+    "chain": "polygon",
+    "date": "2025-12-07",
+    "tx_count": 10619,
+    "unique_buyers": 4,
+    "unique_sellers": 2,
+    "volume_usd": 10.195245859324997
+  },
+  {
+    "active_channels": 5,
+    "chain": "polygon",
+    "date": "2025-12-08",
+    "tx_count": 11903,
+    "unique_buyers": 5,
+    "unique_sellers": 2,
+    "volume_usd": 10.1823904513
+  },
+  {
+    "active_channels": 17,
+    "chain": "polygon",
+    "date": "2025-12-09",
+    "tx_count": 12650,
+    "unique_buyers": 17,
+    "unique_sellers": 3,
+    "volume_usd": 10.384969294041671
+  },
+  {
+    "active_channels": 5,
+    "chain": "polygon",
+    "date": "2025-12-10",
+    "tx_count": 12854,
+    "unique_buyers": 5,
+    "unique_sellers": 2,
+    "volume_usd": 10.414476994433334
+  },
+  {
+    "active_channels": 13,
+    "chain": "polygon",
+    "date": "2025-12-11",
+    "tx_count": 13041,
+    "unique_buyers": 13,
+    "unique_sellers": 3,
+    "volume_usd": 10.097208949791666
+  },
+  {
+    "active_channels": 5,
+    "chain": "polygon",
+    "date": "2025-12-12",
+    "tx_count": 14383,
+    "unique_buyers": 5,
+    "unique_sellers": 2,
+    "volume_usd": 10.508352571899996
+  },
+  {
+    "active_channels": 5,
+    "chain": "polygon",
+    "date": "2025-12-13",
+    "tx_count": 12040,
+    "unique_buyers": 5,
+    "unique_sellers": 2,
+    "volume_usd": 10.117048390049996
+  },
+  {
+    "active_channels": 5,
+    "chain": "polygon",
+    "date": "2025-12-14",
+    "tx_count": 12391,
+    "unique_buyers": 5,
+    "unique_sellers": 2,
+    "volume_usd": 10.410268205433331
+  },
+  {
+    "active_channels": 6,
+    "chain": "polygon",
+    "date": "2025-12-15",
+    "tx_count": 12572,
+    "unique_buyers": 6,
+    "unique_sellers": 3,
+    "volume_usd": 13.129532347066673
+  },
+  {
+    "active_channels": 14,
+    "chain": "polygon",
+    "date": "2025-12-16",
+    "tx_count": 12816,
+    "unique_buyers": 14,
+    "unique_sellers": 4,
+    "volume_usd": 20.42479060023333
+  },
+  {
+    "active_channels": 13,
+    "chain": "polygon",
+    "date": "2025-12-17",
+    "tx_count": 10302,
+    "unique_buyers": 13,
+    "unique_sellers": 3,
+    "volume_usd": 8.655982736650005
+  },
+  {
+    "active_channels": 13,
+    "chain": "polygon",
+    "date": "2025-12-18",
+    "tx_count": 13741,
+    "unique_buyers": 13,
+    "unique_sellers": 3,
+    "volume_usd": 10.435844719858336
+  },
+  {
+    "active_channels": 5,
+    "chain": "polygon",
+    "date": "2025-12-19",
+    "tx_count": 12822,
+    "unique_buyers": 5,
+    "unique_sellers": 2,
+    "volume_usd": 10.313853427575005
+  },
+  {
+    "active_channels": 5,
+    "chain": "polygon",
+    "date": "2025-12-20",
+    "tx_count": 12801,
+    "unique_buyers": 5,
+    "unique_sellers": 2,
+    "volume_usd": 10.51154552576666
+  },
+  {
+    "active_channels": 5,
+    "chain": "polygon",
+    "date": "2025-12-21",
+    "tx_count": 12867,
+    "unique_buyers": 5,
+    "unique_sellers": 2,
+    "volume_usd": 10.470315438358332
+  },
+  {
+    "active_channels": 5,
+    "chain": "polygon",
+    "date": "2025-12-22",
+    "tx_count": 12813,
+    "unique_buyers": 5,
+    "unique_sellers": 2,
+    "volume_usd": 10.36169573674168
+  },
+  {
+    "active_channels": 5,
+    "chain": "polygon",
+    "date": "2025-12-23",
+    "tx_count": 12796,
+    "unique_buyers": 5,
+    "unique_sellers": 2,
+    "volume_usd": 10.389437083974995
+  },
+  {
+    "active_channels": 5,
+    "chain": "polygon",
+    "date": "2025-12-24",
+    "tx_count": 12903,
+    "unique_buyers": 5,
+    "unique_sellers": 2,
+    "volume_usd": 10.558904707974994
+  },
+  {
+    "active_channels": 5,
+    "chain": "polygon",
+    "date": "2025-12-25",
+    "tx_count": 12929,
+    "unique_buyers": 5,
+    "unique_sellers": 2,
+    "volume_usd": 10.394568056441663
+  },
+  {
+    "active_channels": 5,
+    "chain": "polygon",
+    "date": "2025-12-26",
+    "tx_count": 11140,
+    "unique_buyers": 5,
+    "unique_sellers": 2,
+    "volume_usd": 10.255175893525
+  },
+  {
+    "active_channels": 5,
+    "chain": "polygon",
+    "date": "2025-12-27",
+    "tx_count": 12843,
+    "unique_buyers": 5,
+    "unique_sellers": 2,
+    "volume_usd": 10.416484567750002
+  },
+  {
+    "active_channels": 5,
+    "chain": "polygon",
+    "date": "2025-12-28",
+    "tx_count": 12861,
+    "unique_buyers": 5,
+    "unique_sellers": 2,
+    "volume_usd": 10.449841053474996
+  },
+  {
+    "active_channels": 5,
+    "chain": "polygon",
+    "date": "2025-12-29",
+    "tx_count": 12708,
+    "unique_buyers": 5,
+    "unique_sellers": 2,
+    "volume_usd": 10.390961281125003
+  },
+  {
+    "active_channels": 9,
+    "chain": "polygon",
+    "date": "2025-12-30",
+    "tx_count": 12653,
+    "unique_buyers": 5,
+    "unique_sellers": 3,
+    "volume_usd": 10.356008669391667
+  },
+  {
+    "active_channels": 6,
+    "chain": "polygon",
+    "date": "2025-12-31",
+    "tx_count": 12393,
+    "unique_buyers": 6,
+    "unique_sellers": 3,
+    "volume_usd": 10.190980750983345
+  },
+  {
+    "active_channels": 452,
+    "chain": "solana",
+    "date": "2025-12-01",
+    "tx_count": 603222,
+    "unique_buyers": 412,
+    "unique_sellers": 42,
+    "volume_usd": 144659.112618765
+  },
+  {
+    "active_channels": 699,
+    "chain": "solana",
+    "date": "2025-12-02",
+    "tx_count": 742043,
+    "unique_buyers": 537,
+    "unique_sellers": 146,
+    "volume_usd": 384458.87188199355
+  },
+  {
+    "active_channels": 1120,
+    "chain": "solana",
+    "date": "2025-12-03",
+    "tx_count": 915505,
+    "unique_buyers": 788,
+    "unique_sellers": 159,
+    "volume_usd": 854703.3797368725
+  },
+  {
+    "active_channels": 1224,
+    "chain": "solana",
+    "date": "2025-12-04",
+    "tx_count": 1054562,
+    "unique_buyers": 824,
+    "unique_sellers": 165,
+    "volume_usd": 361424.6272552452
+  },
+  {
+    "active_channels": 968,
+    "chain": "solana",
+    "date": "2025-12-05",
+    "tx_count": 775842,
+    "unique_buyers": 704,
+    "unique_sellers": 141,
+    "volume_usd": 182483.2319816201
+  },
+  {
+    "active_channels": 660,
+    "chain": "solana",
+    "date": "2025-12-06",
+    "tx_count": 661683,
+    "unique_buyers": 397,
+    "unique_sellers": 142,
+    "volume_usd": 131659.48921968657
+  },
+  {
+    "active_channels": 661,
+    "chain": "solana",
+    "date": "2025-12-07",
+    "tx_count": 724210,
+    "unique_buyers": 434,
+    "unique_sellers": 144,
+    "volume_usd": 191560.65785360066
+  },
+  {
+    "active_channels": 679,
+    "chain": "solana",
+    "date": "2025-12-08",
+    "tx_count": 681372,
+    "unique_buyers": 451,
+    "unique_sellers": 149,
+    "volume_usd": 157497.9225832444
+  },
+  {
+    "active_channels": 679,
+    "chain": "solana",
+    "date": "2025-12-09",
+    "tx_count": 767961,
+    "unique_buyers": 438,
+    "unique_sellers": 154,
+    "volume_usd": 207874.81290853853
+  },
+  {
+    "active_channels": 680,
+    "chain": "solana",
+    "date": "2025-12-10",
+    "tx_count": 817444,
+    "unique_buyers": 432,
+    "unique_sellers": 146,
+    "volume_usd": 213875.8312764355
+  },
+  {
+    "active_channels": 673,
+    "chain": "solana",
+    "date": "2025-12-11",
+    "tx_count": 790180,
+    "unique_buyers": 439,
+    "unique_sellers": 143,
+    "volume_usd": 239225.35780223063
+  },
+  {
+    "active_channels": 702,
+    "chain": "solana",
+    "date": "2025-12-12",
+    "tx_count": 786600,
+    "unique_buyers": 457,
+    "unique_sellers": 140,
+    "volume_usd": 224471.89055974685
+  },
+  {
+    "active_channels": 588,
+    "chain": "solana",
+    "date": "2025-12-13",
+    "tx_count": 937331,
+    "unique_buyers": 449,
+    "unique_sellers": 127,
+    "volume_usd": 349425.37539691647
+  },
+  {
+    "active_channels": 687,
+    "chain": "solana",
+    "date": "2025-12-14",
+    "tx_count": 1036450,
+    "unique_buyers": 459,
+    "unique_sellers": 130,
+    "volume_usd": 346803.69749986636
+  },
+  {
+    "active_channels": 667,
+    "chain": "solana",
+    "date": "2025-12-15",
+    "tx_count": 842287,
+    "unique_buyers": 434,
+    "unique_sellers": 128,
+    "volume_usd": 245648.0233595972
+  },
+  {
+    "active_channels": 661,
+    "chain": "solana",
+    "date": "2025-12-16",
+    "tx_count": 1006435,
+    "unique_buyers": 432,
+    "unique_sellers": 126,
+    "volume_usd": 328535.8782008484
+  },
+  {
+    "active_channels": 969,
+    "chain": "solana",
+    "date": "2025-12-17",
+    "tx_count": 960904,
+    "unique_buyers": 750,
+    "unique_sellers": 133,
+    "volume_usd": 336905.2670659912
+  },
+  {
+    "active_channels": 954,
+    "chain": "solana",
+    "date": "2025-12-18",
+    "tx_count": 942129,
+    "unique_buyers": 739,
+    "unique_sellers": 133,
+    "volume_usd": 315487.9540388611
+  },
+  {
+    "active_channels": 985,
+    "chain": "solana",
+    "date": "2025-12-19",
+    "tx_count": 973646,
+    "unique_buyers": 752,
+    "unique_sellers": 141,
+    "volume_usd": 165028.150379069
+  },
+  {
+    "active_channels": 1094,
+    "chain": "solana",
+    "date": "2025-12-20",
+    "tx_count": 947335,
+    "unique_buyers": 825,
+    "unique_sellers": 147,
+    "volume_usd": 120281.4430445129
+  },
+  {
+    "active_channels": 1016,
+    "chain": "solana",
+    "date": "2025-12-21",
+    "tx_count": 911262,
+    "unique_buyers": 857,
+    "unique_sellers": 137,
+    "volume_usd": 115798.30210670788
+  },
+  {
+    "active_channels": 1146,
+    "chain": "solana",
+    "date": "2025-12-22",
+    "tx_count": 935792,
+    "unique_buyers": 918,
+    "unique_sellers": 136,
+    "volume_usd": 73256.64679398389
+  },
+  {
+    "active_channels": 1247,
+    "chain": "solana",
+    "date": "2025-12-23",
+    "tx_count": 998456,
+    "unique_buyers": 1008,
+    "unique_sellers": 137,
+    "volume_usd": 78256.8653509319
+  },
+  {
+    "active_channels": 1331,
+    "chain": "solana",
+    "date": "2025-12-24",
+    "tx_count": 1076051,
+    "unique_buyers": 1096,
+    "unique_sellers": 131,
+    "volume_usd": 82973.5366303655
+  },
+  {
+    "active_channels": 1429,
+    "chain": "solana",
+    "date": "2025-12-25",
+    "tx_count": 1061854,
+    "unique_buyers": 1180,
+    "unique_sellers": 84,
+    "volume_usd": 97256.5108851324
+  },
+  {
+    "active_channels": 1509,
+    "chain": "solana",
+    "date": "2025-12-26",
+    "tx_count": 991220,
+    "unique_buyers": 1271,
+    "unique_sellers": 131,
+    "volume_usd": 89094.87082084351
+  },
+  {
+    "active_channels": 1579,
+    "chain": "solana",
+    "date": "2025-12-27",
+    "tx_count": 1102580,
+    "unique_buyers": 1346,
+    "unique_sellers": 132,
+    "volume_usd": 97184.50845495082
+  },
+  {
+    "active_channels": 1491,
+    "chain": "solana",
+    "date": "2025-12-28",
+    "tx_count": 657763,
+    "unique_buyers": 1357,
+    "unique_sellers": 132,
+    "volume_usd": 53814.93433753163
+  },
+  {
+    "active_channels": 1482,
+    "chain": "solana",
+    "date": "2025-12-29",
+    "tx_count": 679556,
+    "unique_buyers": 1339,
+    "unique_sellers": 140,
+    "volume_usd": 52094.88218314732
+  },
+  {
+    "active_channels": 1490,
+    "chain": "solana",
+    "date": "2025-12-30",
+    "tx_count": 786149,
+    "unique_buyers": 1345,
+    "unique_sellers": 142,
+    "volume_usd": 65139.976494181414
+  },
+  {
+    "active_channels": 1087,
+    "chain": "solana",
+    "date": "2025-12-31",
+    "tx_count": 517369,
+    "unique_buyers": 943,
+    "unique_sellers": 129,
+    "volume_usd": 22438.30788817482
+  },
+  {
+    "active_channels": 6193,
+    "chain": "base",
+    "date": "2026-01-01",
+    "tx_count": 408606,
+    "unique_buyers": 4246,
+    "unique_sellers": 312,
+    "volume_usd": 26333.685703133862
+  },
+  {
+    "active_channels": 3496,
+    "chain": "base",
+    "date": "2026-01-02",
+    "tx_count": 259275,
+    "unique_buyers": 1937,
+    "unique_sellers": 191,
+    "volume_usd": 15070.562243927854
+  },
+  {
+    "active_channels": 8842,
+    "chain": "base",
+    "date": "2026-01-03",
+    "tx_count": 185612,
+    "unique_buyers": 6296,
+    "unique_sellers": 129,
+    "volume_usd": 22016.19376203517
+  },
+  {
+    "active_channels": 6560,
+    "chain": "base",
+    "date": "2026-01-04",
+    "tx_count": 379009,
+    "unique_buyers": 4961,
+    "unique_sellers": 145,
+    "volume_usd": 39677.439352108326
+  },
+  {
+    "active_channels": 8573,
+    "chain": "base",
+    "date": "2026-01-05",
+    "tx_count": 381679,
+    "unique_buyers": 5890,
+    "unique_sellers": 160,
+    "volume_usd": 13214.850182417622
+  },
+  {
+    "active_channels": 5613,
+    "chain": "base",
+    "date": "2026-01-06",
+    "tx_count": 234356,
+    "unique_buyers": 4116,
+    "unique_sellers": 126,
+    "volume_usd": 7986.002497955679
+  },
+  {
+    "active_channels": 6482,
+    "chain": "base",
+    "date": "2026-01-07",
+    "tx_count": 234927,
+    "unique_buyers": 4141,
+    "unique_sellers": 119,
+    "volume_usd": 10966.773714146271
+  },
+  {
+    "active_channels": 3306,
+    "chain": "base",
+    "date": "2026-01-08",
+    "tx_count": 216237,
+    "unique_buyers": 1927,
+    "unique_sellers": 128,
+    "volume_usd": 8162.120530007818
+  },
+  {
+    "active_channels": 3643,
+    "chain": "base",
+    "date": "2026-01-09",
+    "tx_count": 229141,
+    "unique_buyers": 2290,
+    "unique_sellers": 96,
+    "volume_usd": 12018.413222358537
+  },
+  {
+    "active_channels": 3645,
+    "chain": "base",
+    "date": "2026-01-10",
+    "tx_count": 195314,
+    "unique_buyers": 2237,
+    "unique_sellers": 34,
+    "volume_usd": 4150.204633249302
+  },
+  {
+    "active_channels": 3700,
+    "chain": "base",
+    "date": "2026-01-11",
+    "tx_count": 151245,
+    "unique_buyers": 2342,
+    "unique_sellers": 34,
+    "volume_usd": 6884.902122829979
+  },
+  {
+    "active_channels": 3245,
+    "chain": "base",
+    "date": "2026-01-12",
+    "tx_count": 149605,
+    "unique_buyers": 1779,
+    "unique_sellers": 45,
+    "volume_usd": 2388.3688042963163
+  },
+  {
+    "active_channels": 2702,
+    "chain": "base",
+    "date": "2026-01-13",
+    "tx_count": 163072,
+    "unique_buyers": 1428,
+    "unique_sellers": 36,
+    "volume_usd": 10066.639709189589
+  },
+  {
+    "active_channels": 4715,
+    "chain": "base",
+    "date": "2026-01-14",
+    "tx_count": 153810,
+    "unique_buyers": 2724,
+    "unique_sellers": 37,
+    "volume_usd": 3321.1418179727207
+  },
+  {
+    "active_channels": 3631,
+    "chain": "base",
+    "date": "2026-01-15",
+    "tx_count": 157020,
+    "unique_buyers": 2224,
+    "unique_sellers": 41,
+    "volume_usd": 11224.97384341696
+  },
+  {
+    "active_channels": 3897,
+    "chain": "base",
+    "date": "2026-01-16",
+    "tx_count": 229382,
+    "unique_buyers": 2533,
+    "unique_sellers": 42,
+    "volume_usd": 15370.371755193783
+  },
+  {
+    "active_channels": 3248,
+    "chain": "base",
+    "date": "2026-01-17",
+    "tx_count": 441163,
+    "unique_buyers": 1957,
+    "unique_sellers": 42,
+    "volume_usd": 9571.925643263688
+  },
+  {
+    "active_channels": 4759,
+    "chain": "base",
+    "date": "2026-01-18",
+    "tx_count": 451268,
+    "unique_buyers": 2774,
+    "unique_sellers": 39,
+    "volume_usd": 8411.85256742297
+  },
+  {
+    "active_channels": 2833,
+    "chain": "base",
+    "date": "2026-01-19",
+    "tx_count": 430425,
+    "unique_buyers": 1554,
+    "unique_sellers": 44,
+    "volume_usd": 2665.5281932723706
+  },
+  {
+    "active_channels": 2824,
+    "chain": "base",
+    "date": "2026-01-20",
+    "tx_count": 302611,
+    "unique_buyers": 1549,
+    "unique_sellers": 35,
+    "volume_usd": 2389.6169644103343
+  },
+  {
+    "active_channels": 2865,
+    "chain": "base",
+    "date": "2026-01-21",
+    "tx_count": 333586,
+    "unique_buyers": 1577,
+    "unique_sellers": 42,
+    "volume_usd": 2757.484644844285
+  },
+  {
+    "active_channels": 2807,
+    "chain": "base",
+    "date": "2026-01-22",
+    "tx_count": 310953,
+    "unique_buyers": 1533,
+    "unique_sellers": 41,
+    "volume_usd": 3366.908358343147
+  },
+  {
+    "active_channels": 4433,
+    "chain": "base",
+    "date": "2026-01-23",
+    "tx_count": 56125,
+    "unique_buyers": 2516,
+    "unique_sellers": 44,
+    "volume_usd": 5703.313122730508
+  },
+  {
+    "active_channels": 2997,
+    "chain": "base",
+    "date": "2026-01-24",
+    "tx_count": 64598,
+    "unique_buyers": 1733,
+    "unique_sellers": 28,
+    "volume_usd": 10850.493451319177
+  },
+  {
+    "active_channels": 3272,
+    "chain": "base",
+    "date": "2026-01-25",
+    "tx_count": 82627,
+    "unique_buyers": 2006,
+    "unique_sellers": 24,
+    "volume_usd": 22438.269164567067
+  },
+  {
+    "active_channels": 3072,
+    "chain": "base",
+    "date": "2026-01-26",
+    "tx_count": 58855,
+    "unique_buyers": 1802,
+    "unique_sellers": 35,
+    "volume_usd": 17185.717902928165
+  },
+  {
+    "active_channels": 2912,
+    "chain": "base",
+    "date": "2026-01-27",
+    "tx_count": 45860,
+    "unique_buyers": 1647,
+    "unique_sellers": 30,
+    "volume_usd": 8423.923025325817
+  },
+  {
+    "active_channels": 2868,
+    "chain": "base",
+    "date": "2026-01-28",
+    "tx_count": 47805,
+    "unique_buyers": 1590,
+    "unique_sellers": 42,
+    "volume_usd": 767.6585674156912
+  },
+  {
+    "active_channels": 2808,
+    "chain": "base",
+    "date": "2026-01-29",
+    "tx_count": 45390,
+    "unique_buyers": 1535,
+    "unique_sellers": 37,
+    "volume_usd": 15438.256055892547
+  },
+  {
+    "active_channels": 2667,
+    "chain": "base",
+    "date": "2026-01-30",
+    "tx_count": 20979,
+    "unique_buyers": 1405,
+    "unique_sellers": 29,
+    "volume_usd": 12346.226704087514
+  },
+  {
+    "active_channels": 155,
+    "chain": "base",
+    "date": "2026-01-31",
+    "tx_count": 4813,
+    "unique_buyers": 149,
+    "unique_sellers": 24,
+    "volume_usd": 9061.514752861853
+  },
+  {
+    "active_channels": 5,
+    "chain": "polygon",
+    "date": "2026-01-01",
+    "tx_count": 12924,
+    "unique_buyers": 5,
+    "unique_sellers": 2,
+    "volume_usd": 10.630799130608334
+  },
+  {
+    "active_channels": 5,
+    "chain": "polygon",
+    "date": "2026-01-02",
+    "tx_count": 12922,
+    "unique_buyers": 5,
+    "unique_sellers": 2,
+    "volume_usd": 10.312558371091667
+  },
+  {
+    "active_channels": 5,
+    "chain": "polygon",
+    "date": "2026-01-03",
+    "tx_count": 12948,
+    "unique_buyers": 5,
+    "unique_sellers": 2,
+    "volume_usd": 10.462982333516662
+  },
+  {
+    "active_channels": 5,
+    "chain": "polygon",
+    "date": "2026-01-04",
+    "tx_count": 6236,
+    "unique_buyers": 5,
+    "unique_sellers": 2,
+    "volume_usd": 8.871554654441667
+  },
+  {
+    "active_channels": 5,
+    "chain": "polygon",
+    "date": "2026-01-05",
+    "tx_count": 8993,
+    "unique_buyers": 5,
+    "unique_sellers": 2,
+    "volume_usd": 8.799899223750005
+  },
+  {
+    "active_channels": 6,
+    "chain": "polygon",
+    "date": "2026-01-06",
+    "tx_count": 10818,
+    "unique_buyers": 6,
+    "unique_sellers": 3,
+    "volume_usd": 711.0278292451169
+  },
+  {
+    "active_channels": 5,
+    "chain": "polygon",
+    "date": "2026-01-07",
+    "tx_count": 14405,
+    "unique_buyers": 5,
+    "unique_sellers": 2,
+    "volume_usd": 46.464467432158365
+  },
+  {
+    "active_channels": 5,
+    "chain": "polygon",
+    "date": "2026-01-08",
+    "tx_count": 15012,
+    "unique_buyers": 5,
+    "unique_sellers": 2,
+    "volume_usd": 46.47278050620832
+  },
+  {
+    "active_channels": 5,
+    "chain": "polygon",
+    "date": "2026-01-09",
+    "tx_count": 14885,
+    "unique_buyers": 5,
+    "unique_sellers": 2,
+    "volume_usd": 47.08576262314164
+  },
+  {
+    "active_channels": 5,
+    "chain": "polygon",
+    "date": "2026-01-10",
+    "tx_count": 15005,
+    "unique_buyers": 5,
+    "unique_sellers": 2,
+    "volume_usd": 46.12739350431663
+  },
+  {
+    "active_channels": 5,
+    "chain": "polygon",
+    "date": "2026-01-11",
+    "tx_count": 15013,
+    "unique_buyers": 5,
+    "unique_sellers": 2,
+    "volume_usd": 46.8960273634
+  },
+  {
+    "active_channels": 6,
+    "chain": "polygon",
+    "date": "2026-01-12",
+    "tx_count": 14953,
+    "unique_buyers": 6,
+    "unique_sellers": 3,
+    "volume_usd": 47.02753479176665
+  },
+  {
+    "active_channels": 6,
+    "chain": "polygon",
+    "date": "2026-01-13",
+    "tx_count": 15103,
+    "unique_buyers": 6,
+    "unique_sellers": 3,
+    "volume_usd": 47.75079641720003
+  },
+  {
+    "active_channels": 5,
+    "chain": "polygon",
+    "date": "2026-01-14",
+    "tx_count": 15154,
+    "unique_buyers": 5,
+    "unique_sellers": 2,
+    "volume_usd": 46.99470964260003
+  },
+  {
+    "active_channels": 6,
+    "chain": "polygon",
+    "date": "2026-01-15",
+    "tx_count": 20578,
+    "unique_buyers": 6,
+    "unique_sellers": 3,
+    "volume_usd": 467.79594425774997
+  },
+  {
+    "active_channels": 5,
+    "chain": "polygon",
+    "date": "2026-01-16",
+    "tx_count": 20947,
+    "unique_buyers": 5,
+    "unique_sellers": 2,
+    "volume_usd": 90.59171551168343
+  },
+  {
+    "active_channels": 5,
+    "chain": "polygon",
+    "date": "2026-01-17",
+    "tx_count": 20983,
+    "unique_buyers": 5,
+    "unique_sellers": 2,
+    "volume_usd": 90.47000328622495
+  },
+  {
+    "active_channels": 66,
+    "chain": "polygon",
+    "date": "2026-01-18",
+    "tx_count": 135664,
+    "unique_buyers": 36,
+    "unique_sellers": 33,
+    "volume_usd": 4738.864843172033
+  },
+  {
+    "active_channels": 35,
+    "chain": "polygon",
+    "date": "2026-01-19",
+    "tx_count": 174626,
+    "unique_buyers": 35,
+    "unique_sellers": 2,
+    "volume_usd": 1630.5910089329523
+  },
+  {
+    "active_channels": 65,
+    "chain": "polygon",
+    "date": "2026-01-20",
+    "tx_count": 134402,
+    "unique_buyers": 36,
+    "unique_sellers": 33,
+    "volume_usd": 7280.027136347974
+  },
+  {
+    "active_channels": 65,
+    "chain": "polygon",
+    "date": "2026-01-21",
+    "tx_count": 172759,
+    "unique_buyers": 36,
+    "unique_sellers": 33,
+    "volume_usd": 7661.89849641481
+  },
+  {
+    "active_channels": 35,
+    "chain": "polygon",
+    "date": "2026-01-22",
+    "tx_count": 173157,
+    "unique_buyers": 35,
+    "unique_sellers": 3,
+    "volume_usd": 1614.2738238138243
+  },
+  {
+    "active_channels": 65,
+    "chain": "polygon",
+    "date": "2026-01-23",
+    "tx_count": 173439,
+    "unique_buyers": 36,
+    "unique_sellers": 33,
+    "volume_usd": 7668.44903489515
+  },
+  {
+    "active_channels": 34,
+    "chain": "polygon",
+    "date": "2026-01-24",
+    "tx_count": 173304,
+    "unique_buyers": 34,
+    "unique_sellers": 2,
+    "volume_usd": 1617.8747124240679
+  },
+  {
+    "active_channels": 65,
+    "chain": "polygon",
+    "date": "2026-01-25",
+    "tx_count": 170915,
+    "unique_buyers": 36,
+    "unique_sellers": 33,
+    "volume_usd": 7646.9863390915625
+  },
+  {
+    "active_channels": 34,
+    "chain": "polygon",
+    "date": "2026-01-26",
+    "tx_count": 143960,
+    "unique_buyers": 34,
+    "unique_sellers": 2,
+    "volume_usd": 1345.0076874456622
+  },
+  {
+    "active_channels": 63,
+    "chain": "polygon",
+    "date": "2026-01-27",
+    "tx_count": 162414,
+    "unique_buyers": 36,
+    "unique_sellers": 31,
+    "volume_usd": 7368.364224740953
+  },
+  {
+    "active_channels": 34,
+    "chain": "polygon",
+    "date": "2026-01-28",
+    "tx_count": 140510,
+    "unique_buyers": 34,
+    "unique_sellers": 2,
+    "volume_usd": 1313.4836455695095
+  },
+  {
+    "active_channels": 32,
+    "chain": "polygon",
+    "date": "2026-01-29",
+    "tx_count": 158818,
+    "unique_buyers": 32,
+    "unique_sellers": 2,
+    "volume_usd": 1474.9013402337675
+  },
+  {
+    "active_channels": 65,
+    "chain": "polygon",
+    "date": "2026-01-30",
+    "tx_count": 171398,
+    "unique_buyers": 36,
+    "unique_sellers": 33,
+    "volume_usd": 7653.366411389426
+  },
+  {
+    "active_channels": 34,
+    "chain": "polygon",
+    "date": "2026-01-31",
+    "tx_count": 152451,
+    "unique_buyers": 34,
+    "unique_sellers": 2,
+    "volume_usd": 1424.5246932445982
+  },
+  {
+    "active_channels": 1118,
+    "chain": "solana",
+    "date": "2026-01-01",
+    "tx_count": 648017,
+    "unique_buyers": 969,
+    "unique_sellers": 130,
+    "volume_usd": 31446.095633047218
+  },
+  {
+    "active_channels": 1124,
+    "chain": "solana",
+    "date": "2026-01-02",
+    "tx_count": 566407,
+    "unique_buyers": 958,
+    "unique_sellers": 131,
+    "volume_usd": 34081.21072361725
+  },
+  {
+    "active_channels": 1100,
+    "chain": "solana",
+    "date": "2026-01-03",
+    "tx_count": 551042,
+    "unique_buyers": 963,
+    "unique_sellers": 130,
+    "volume_usd": 33910.80326662169
+  },
+  {
+    "active_channels": 940,
+    "chain": "solana",
+    "date": "2026-01-04",
+    "tx_count": 543867,
+    "unique_buyers": 904,
+    "unique_sellers": 45,
+    "volume_usd": 34150.819951715566
+  },
+  {
+    "active_channels": 951,
+    "chain": "solana",
+    "date": "2026-01-05",
+    "tx_count": 543162,
+    "unique_buyers": 915,
+    "unique_sellers": 39,
+    "volume_usd": 36088.97468178725
+  },
+  {
+    "active_channels": 932,
+    "chain": "solana",
+    "date": "2026-01-06",
+    "tx_count": 531366,
+    "unique_buyers": 909,
+    "unique_sellers": 35,
+    "volume_usd": 35620.1851741174
+  },
+  {
+    "active_channels": 926,
+    "chain": "solana",
+    "date": "2026-01-07",
+    "tx_count": 532964,
+    "unique_buyers": 909,
+    "unique_sellers": 39,
+    "volume_usd": 33875.248225030606
+  },
+  {
+    "active_channels": 937,
+    "chain": "solana",
+    "date": "2026-01-08",
+    "tx_count": 541613,
+    "unique_buyers": 899,
+    "unique_sellers": 41,
+    "volume_usd": 40955.4139482623
+  },
+  {
+    "active_channels": 1012,
+    "chain": "solana",
+    "date": "2026-01-09",
+    "tx_count": 381504,
+    "unique_buyers": 995,
+    "unique_sellers": 34,
+    "volume_usd": 22705.18719133255
+  },
+  {
+    "active_channels": 878,
+    "chain": "solana",
+    "date": "2026-01-10",
+    "tx_count": 340027,
+    "unique_buyers": 861,
+    "unique_sellers": 30,
+    "volume_usd": 22336.335836901246
+  },
+  {
+    "active_channels": 898,
+    "chain": "solana",
+    "date": "2026-01-11",
+    "tx_count": 517619,
+    "unique_buyers": 876,
+    "unique_sellers": 36,
+    "volume_usd": 32662.000366304343
+  },
+  {
+    "active_channels": 906,
+    "chain": "solana",
+    "date": "2026-01-12",
+    "tx_count": 330393,
+    "unique_buyers": 881,
+    "unique_sellers": 46,
+    "volume_usd": 27791.118119102946
+  },
+  {
+    "active_channels": 914,
+    "chain": "solana",
+    "date": "2026-01-13",
+    "tx_count": 256604,
+    "unique_buyers": 880,
+    "unique_sellers": 51,
+    "volume_usd": 18158.907183246
+  },
+  {
+    "active_channels": 920,
+    "chain": "solana",
+    "date": "2026-01-14",
+    "tx_count": 283673,
+    "unique_buyers": 893,
+    "unique_sellers": 51,
+    "volume_usd": 20267.12094642787
+  },
+  {
+    "active_channels": 935,
+    "chain": "solana",
+    "date": "2026-01-15",
+    "tx_count": 300521,
+    "unique_buyers": 895,
+    "unique_sellers": 53,
+    "volume_usd": 20980.501708760952
+  },
+  {
+    "active_channels": 893,
+    "chain": "solana",
+    "date": "2026-01-16",
+    "tx_count": 279878,
+    "unique_buyers": 859,
+    "unique_sellers": 48,
+    "volume_usd": 19837.82102723027
+  },
+  {
+    "active_channels": 874,
+    "chain": "solana",
+    "date": "2026-01-17",
+    "tx_count": 279043,
+    "unique_buyers": 849,
+    "unique_sellers": 41,
+    "volume_usd": 19931.666151362406
+  },
+  {
+    "active_channels": 877,
+    "chain": "solana",
+    "date": "2026-01-18",
+    "tx_count": 272168,
+    "unique_buyers": 852,
+    "unique_sellers": 44,
+    "volume_usd": 19447.91781626046
+  },
+  {
+    "active_channels": 939,
+    "chain": "solana",
+    "date": "2026-01-19",
+    "tx_count": 266433,
+    "unique_buyers": 915,
+    "unique_sellers": 44,
+    "volume_usd": 19556.60773591986
+  },
+  {
+    "active_channels": 965,
+    "chain": "solana",
+    "date": "2026-01-20",
+    "tx_count": 266657,
+    "unique_buyers": 927,
+    "unique_sellers": 52,
+    "volume_usd": 18948.553802893988
+  },
+  {
+    "active_channels": 924,
+    "chain": "solana",
+    "date": "2026-01-21",
+    "tx_count": 275324,
+    "unique_buyers": 881,
+    "unique_sellers": 61,
+    "volume_usd": 19364.09151352403
+  },
+  {
+    "active_channels": 923,
+    "chain": "solana",
+    "date": "2026-01-22",
+    "tx_count": 461790,
+    "unique_buyers": 873,
+    "unique_sellers": 68,
+    "volume_usd": 28714.40458039759
+  },
+  {
+    "active_channels": 907,
+    "chain": "solana",
+    "date": "2026-01-23",
+    "tx_count": 518462,
+    "unique_buyers": 878,
+    "unique_sellers": 51,
+    "volume_usd": 31742.31692746887
+  },
+  {
+    "active_channels": 907,
+    "chain": "solana",
+    "date": "2026-01-24",
+    "tx_count": 346488,
+    "unique_buyers": 883,
+    "unique_sellers": 42,
+    "volume_usd": 14169.216351336303
+  },
+  {
+    "active_channels": 930,
+    "chain": "solana",
+    "date": "2026-01-25",
+    "tx_count": 348088,
+    "unique_buyers": 898,
+    "unique_sellers": 54,
+    "volume_usd": 14119.072628513206
+  },
+  {
+    "active_channels": 941,
+    "chain": "solana",
+    "date": "2026-01-26",
+    "tx_count": 338122,
+    "unique_buyers": 909,
+    "unique_sellers": 72,
+    "volume_usd": 13661.920982973927
+  },
+  {
+    "active_channels": 964,
+    "chain": "solana",
+    "date": "2026-01-27",
+    "tx_count": 331929,
+    "unique_buyers": 931,
+    "unique_sellers": 70,
+    "volume_usd": 13785.94640118673
+  },
+  {
+    "active_channels": 898,
+    "chain": "solana",
+    "date": "2026-01-28",
+    "tx_count": 348878,
+    "unique_buyers": 871,
+    "unique_sellers": 43,
+    "volume_usd": 14051.935972814124
+  },
+  {
+    "active_channels": 920,
+    "chain": "solana",
+    "date": "2026-01-29",
+    "tx_count": 347401,
+    "unique_buyers": 890,
+    "unique_sellers": 45,
+    "volume_usd": 14997.247321235938
+  },
+  {
+    "active_channels": 17661,
+    "chain": "solana",
+    "date": "2026-01-30",
+    "tx_count": 149701,
+    "unique_buyers": 923,
+    "unique_sellers": 65,
+    "volume_usd": 7512.487254834828
+  },
+  {
+    "active_channels": 3629,
+    "chain": "solana",
+    "date": "2026-01-31",
+    "tx_count": 42163,
+    "unique_buyers": 973,
+    "unique_sellers": 56,
+    "volume_usd": 1946.8080219557903
+  },
+  {
+    "active_channels": 372,
+    "chain": "base",
+    "date": "2026-02-01",
+    "tx_count": 14613,
+    "unique_buyers": 369,
+    "unique_sellers": 22,
+    "volume_usd": 26513.93981619319
+  },
+  {
+    "active_channels": 276,
+    "chain": "base",
+    "date": "2026-02-02",
+    "tx_count": 6954,
+    "unique_buyers": 265,
+    "unique_sellers": 42,
+    "volume_usd": 5052.096404210274
+  },
+  {
+    "active_channels": 222,
+    "chain": "base",
+    "date": "2026-02-03",
+    "tx_count": 2810,
+    "unique_buyers": 193,
+    "unique_sellers": 54,
+    "volume_usd": 3025.419147625081
+  },
+  {
+    "active_channels": 236,
+    "chain": "base",
+    "date": "2026-02-04",
+    "tx_count": 2218,
+    "unique_buyers": 211,
+    "unique_sellers": 45,
+    "volume_usd": 1518.3935889685833
+  },
+  {
+    "active_channels": 200,
+    "chain": "base",
+    "date": "2026-02-05",
+    "tx_count": 1151,
+    "unique_buyers": 178,
+    "unique_sellers": 47,
+    "volume_usd": 581.6354816948194
+  },
+  {
+    "active_channels": 350,
+    "chain": "base",
+    "date": "2026-02-06",
+    "tx_count": 2354,
+    "unique_buyers": 329,
+    "unique_sellers": 48,
+    "volume_usd": 2074.437715684566
+  },
+  {
+    "active_channels": 379,
+    "chain": "base",
+    "date": "2026-02-07",
+    "tx_count": 6872,
+    "unique_buyers": 371,
+    "unique_sellers": 34,
+    "volume_usd": 6175.189237579982
+  },
+  {
+    "active_channels": 737,
+    "chain": "base",
+    "date": "2026-02-08",
+    "tx_count": 34236,
+    "unique_buyers": 732,
+    "unique_sellers": 24,
+    "volume_usd": 62838.69787154787
+  },
+  {
+    "active_channels": 663,
+    "chain": "base",
+    "date": "2026-02-09",
+    "tx_count": 9429,
+    "unique_buyers": 649,
+    "unique_sellers": 41,
+    "volume_usd": 36009.504287685624
+  },
+  {
+    "active_channels": 385,
+    "chain": "base",
+    "date": "2026-02-10",
+    "tx_count": 5343,
+    "unique_buyers": 373,
+    "unique_sellers": 34,
+    "volume_usd": 37989.77280043479
+  },
+  {
+    "active_channels": 859,
+    "chain": "base",
+    "date": "2026-02-11",
+    "tx_count": 8937,
+    "unique_buyers": 844,
+    "unique_sellers": 42,
+    "volume_usd": 4216.4913108396895
+  },
+  {
+    "active_channels": 2335,
+    "chain": "base",
+    "date": "2026-02-12",
+    "tx_count": 41177,
+    "unique_buyers": 2317,
+    "unique_sellers": 48,
+    "volume_usd": 7950.592898551327
+  },
+  {
+    "active_channels": 884,
+    "chain": "base",
+    "date": "2026-02-13",
+    "tx_count": 9896,
+    "unique_buyers": 862,
+    "unique_sellers": 51,
+    "volume_usd": 7943.227893100623
+  },
+  {
+    "active_channels": 844,
+    "chain": "base",
+    "date": "2026-02-14",
+    "tx_count": 14088,
+    "unique_buyers": 838,
+    "unique_sellers": 31,
+    "volume_usd": 19825.52225629718
+  },
+  {
+    "active_channels": 907,
+    "chain": "base",
+    "date": "2026-02-15",
+    "tx_count": 23119,
+    "unique_buyers": 900,
+    "unique_sellers": 31,
+    "volume_usd": 44578.332102796696
+  },
+  {
+    "active_channels": 652,
+    "chain": "base",
+    "date": "2026-02-16",
+    "tx_count": 30084,
+    "unique_buyers": 636,
+    "unique_sellers": 43,
+    "volume_usd": 60708.74793827526
+  },
+  {
+    "active_channels": 459,
+    "chain": "base",
+    "date": "2026-02-17",
+    "tx_count": 51171,
+    "unique_buyers": 450,
+    "unique_sellers": 36,
+    "volume_usd": 31936.268456622052
+  },
+  {
+    "active_channels": 1232,
+    "chain": "base",
+    "date": "2026-02-18",
+    "tx_count": 18073,
+    "unique_buyers": 1202,
+    "unique_sellers": 49,
+    "volume_usd": 54237.47837810443
+  },
+  {
+    "active_channels": 1339,
+    "chain": "base",
+    "date": "2026-02-19",
+    "tx_count": 32628,
+    "unique_buyers": 1321,
+    "unique_sellers": 47,
+    "volume_usd": 65337.67251483421
+  },
+  {
+    "active_channels": 1008,
+    "chain": "base",
+    "date": "2026-02-20",
+    "tx_count": 23867,
+    "unique_buyers": 992,
+    "unique_sellers": 44,
+    "volume_usd": 47733.267693514004
+  },
+  {
+    "active_channels": 1225,
+    "chain": "base",
+    "date": "2026-02-21",
+    "tx_count": 72033,
+    "unique_buyers": 1209,
+    "unique_sellers": 39,
+    "volume_usd": 77365.10560142975
+  },
+  {
+    "active_channels": 1477,
+    "chain": "base",
+    "date": "2026-02-22",
+    "tx_count": 76284,
+    "unique_buyers": 1462,
+    "unique_sellers": 40,
+    "volume_usd": 226767.24760532173
+  },
+  {
+    "active_channels": 1297,
+    "chain": "base",
+    "date": "2026-02-23",
+    "tx_count": 35160,
+    "unique_buyers": 1274,
+    "unique_sellers": 46,
+    "volume_usd": 371956.8928437776
+  },
+  {
+    "active_channels": 1885,
+    "chain": "base",
+    "date": "2026-02-24",
+    "tx_count": 27617,
+    "unique_buyers": 1868,
+    "unique_sellers": 45,
+    "volume_usd": 19962.84771787926
+  },
+  {
+    "active_channels": 1796,
+    "chain": "base",
+    "date": "2026-02-25",
+    "tx_count": 23366,
+    "unique_buyers": 1761,
+    "unique_sellers": 76,
+    "volume_usd": 34286.81453202417
+  },
+  {
+    "active_channels": 2103,
+    "chain": "base",
+    "date": "2026-02-26",
+    "tx_count": 20333,
+    "unique_buyers": 2078,
+    "unique_sellers": 67,
+    "volume_usd": 31464.495456654902
+  },
+  {
+    "active_channels": 2541,
+    "chain": "base",
+    "date": "2026-02-27",
+    "tx_count": 23024,
+    "unique_buyers": 2383,
+    "unique_sellers": 197,
+    "volume_usd": 75204.5625124937
+  },
+  {
+    "active_channels": 2330,
+    "chain": "base",
+    "date": "2026-02-28",
+    "tx_count": 54262,
+    "unique_buyers": 2314,
+    "unique_sellers": 56,
+    "volume_usd": 105805.8535574595
+  },
+  {
+    "active_channels": 36,
+    "chain": "polygon",
+    "date": "2026-02-01",
+    "tx_count": 14281,
+    "unique_buyers": 36,
+    "unique_sellers": 4,
+    "volume_usd": 3286.6245868440164
+  },
+  {
+    "active_channels": 32,
+    "chain": "polygon",
+    "date": "2026-02-02",
+    "tx_count": 12198,
+    "unique_buyers": 32,
+    "unique_sellers": 2,
+    "volume_usd": 76.16047712310002
+  },
+  {
+    "active_channels": 5,
+    "chain": "polygon",
+    "date": "2026-02-03",
+    "tx_count": 17319,
+    "unique_buyers": 5,
+    "unique_sellers": 2,
+    "volume_usd": 55.114057106791655
+  },
+  {
+    "active_channels": 5,
+    "chain": "polygon",
+    "date": "2026-02-04",
+    "tx_count": 14141,
+    "unique_buyers": 5,
+    "unique_sellers": 2,
+    "volume_usd": 27.706751538716656
+  },
+  {
+    "active_channels": 4,
+    "chain": "polygon",
+    "date": "2026-02-05",
+    "tx_count": 11782,
+    "unique_buyers": 4,
+    "unique_sellers": 1,
+    "volume_usd": 1.1786894888666661
+  },
+  {
+    "active_channels": 4,
+    "chain": "polygon",
+    "date": "2026-02-06",
+    "tx_count": 11776,
+    "unique_buyers": 4,
+    "unique_sellers": 1,
+    "volume_usd": 1.1779996198833325
+  },
+  {
+    "active_channels": 5,
+    "chain": "polygon",
+    "date": "2026-02-07",
+    "tx_count": 11797,
+    "unique_buyers": 5,
+    "unique_sellers": 2,
+    "volume_usd": 3.180708174491668
+  },
+  {
+    "active_channels": 5,
+    "chain": "polygon",
+    "date": "2026-02-08",
+    "tx_count": 11961,
+    "unique_buyers": 5,
+    "unique_sellers": 2,
+    "volume_usd": 2.1968743834666644
+  },
+  {
+    "active_channels": 4,
+    "chain": "polygon",
+    "date": "2026-02-09",
+    "tx_count": 11899,
+    "unique_buyers": 4,
+    "unique_sellers": 1,
+    "volume_usd": 1.1902303917333328
+  },
+  {
+    "active_channels": 4,
+    "chain": "polygon",
+    "date": "2026-02-10",
+    "tx_count": 11975,
+    "unique_buyers": 4,
+    "unique_sellers": 1,
+    "volume_usd": 1.197917079350001
+  },
+  {
+    "active_channels": 4,
+    "chain": "polygon",
+    "date": "2026-02-11",
+    "tx_count": 12022,
+    "unique_buyers": 4,
+    "unique_sellers": 1,
+    "volume_usd": 1.2026290500416656
+  },
+  {
+    "active_channels": 4,
+    "chain": "polygon",
+    "date": "2026-02-12",
+    "tx_count": 11567,
+    "unique_buyers": 4,
+    "unique_sellers": 1,
+    "volume_usd": 1.1571144622916663
+  },
+  {
+    "active_channels": 64,
+    "chain": "polygon",
+    "date": "2026-02-13",
+    "tx_count": 107212,
+    "unique_buyers": 35,
+    "unique_sellers": 32,
+    "volume_usd": 3958.581708366219
+  },
+  {
+    "active_channels": 34,
+    "chain": "polygon",
+    "date": "2026-02-14",
+    "tx_count": 173594,
+    "unique_buyers": 34,
+    "unique_sellers": 2,
+    "volume_usd": 1619.8629192496107
+  },
+  {
+    "active_channels": 64,
+    "chain": "polygon",
+    "date": "2026-02-15",
+    "tx_count": 86582,
+    "unique_buyers": 36,
+    "unique_sellers": 32,
+    "volume_usd": 6758.543179804055
+  },
+  {
+    "active_channels": 7,
+    "chain": "polygon",
+    "date": "2026-02-16",
+    "tx_count": 9,
+    "unique_buyers": 7,
+    "unique_sellers": 1,
+    "volume_usd": 0.090025605
+  },
+  {
+    "active_channels": 7,
+    "chain": "polygon",
+    "date": "2026-02-17",
+    "tx_count": 7,
+    "unique_buyers": 7,
+    "unique_sellers": 1,
+    "volume_usd": 0.07002304750000003
+  },
+  {
+    "active_channels": 33,
+    "chain": "polygon",
+    "date": "2026-02-18",
+    "tx_count": 70154,
+    "unique_buyers": 33,
+    "unique_sellers": 2,
+    "volume_usd": 652.2653279223925
+  },
+  {
+    "active_channels": 33,
+    "chain": "polygon",
+    "date": "2026-02-19",
+    "tx_count": 162129,
+    "unique_buyers": 33,
+    "unique_sellers": 2,
+    "volume_usd": 1537.1085226881664
+  },
+  {
+    "active_channels": 33,
+    "chain": "polygon",
+    "date": "2026-02-20",
+    "tx_count": 42300,
+    "unique_buyers": 33,
+    "unique_sellers": 2,
+    "volume_usd": 332.6514578375334
+  },
+  {
+    "active_channels": 4,
+    "chain": "polygon",
+    "date": "2026-02-21",
+    "tx_count": 5988,
+    "unique_buyers": 4,
+    "unique_sellers": 1,
+    "volume_usd": 0.5990311321916668
+  },
+  {
+    "active_channels": 4,
+    "chain": "polygon",
+    "date": "2026-02-22",
+    "tx_count": 11900,
+    "unique_buyers": 4,
+    "unique_sellers": 1,
+    "volume_usd": 1.1905755585333333
+  },
+  {
+    "active_channels": 4,
+    "chain": "polygon",
+    "date": "2026-02-23",
+    "tx_count": 6567,
+    "unique_buyers": 4,
+    "unique_sellers": 1,
+    "volume_usd": 0.6570520436916667
+  },
+  {
+    "active_channels": 4,
+    "chain": "polygon",
+    "date": "2026-02-24",
+    "tx_count": 4589,
+    "unique_buyers": 4,
+    "unique_sellers": 1,
+    "volume_usd": 0.4590933168250004
+  },
+  {
+    "active_channels": 66,
+    "chain": "polygon",
+    "date": "2026-02-25",
+    "tx_count": 16569,
+    "unique_buyers": 36,
+    "unique_sellers": 33,
+    "volume_usd": 6747.2098406406885
+  },
+  {
+    "active_channels": 34,
+    "chain": "polygon",
+    "date": "2026-02-26",
+    "tx_count": 25389,
+    "unique_buyers": 34,
+    "unique_sellers": 2,
+    "volume_usd": 414.59902219716656
+  },
+  {
+    "active_channels": 34,
+    "chain": "polygon",
+    "date": "2026-02-27",
+    "tx_count": 23686,
+    "unique_buyers": 34,
+    "unique_sellers": 2,
+    "volume_usd": 407.1320084834916
+  },
+  {
+    "active_channels": 34,
+    "chain": "polygon",
+    "date": "2026-02-28",
+    "tx_count": 24371,
+    "unique_buyers": 34,
+    "unique_sellers": 2,
+    "volume_usd": 402.28480687363367
+  },
+  {
+    "active_channels": 2669,
+    "chain": "solana",
+    "date": "2026-02-01",
+    "tx_count": 26113,
+    "unique_buyers": 918,
+    "unique_sellers": 57,
+    "volume_usd": 1074.7477806270258
+  },
+  {
+    "active_channels": 3732,
+    "chain": "solana",
+    "date": "2026-02-02",
+    "tx_count": 146932,
+    "unique_buyers": 924,
+    "unique_sellers": 60,
+    "volume_usd": 3349.1737380624336
+  },
+  {
+    "active_channels": 1151,
+    "chain": "solana",
+    "date": "2026-02-03",
+    "tx_count": 282130,
+    "unique_buyers": 1117,
+    "unique_sellers": 82,
+    "volume_usd": 4826.493680848725
+  },
+  {
+    "active_channels": 1089,
+    "chain": "solana",
+    "date": "2026-02-04",
+    "tx_count": 271100,
+    "unique_buyers": 1059,
+    "unique_sellers": 47,
+    "volume_usd": 4758.678341750272
+  },
+  {
+    "active_channels": 1219,
+    "chain": "solana",
+    "date": "2026-02-05",
+    "tx_count": 347004,
+    "unique_buyers": 1190,
+    "unique_sellers": 47,
+    "volume_usd": 24476.199449770214
+  },
+  {
+    "active_channels": 1144,
+    "chain": "solana",
+    "date": "2026-02-06",
+    "tx_count": 97148,
+    "unique_buyers": 1115,
+    "unique_sellers": 43,
+    "volume_usd": 6009.202540708176
+  },
+  {
+    "active_channels": 1566,
+    "chain": "solana",
+    "date": "2026-02-07",
+    "tx_count": 83825,
+    "unique_buyers": 1536,
+    "unique_sellers": 439,
+    "volume_usd": 3674.035197920708
+  },
+  {
+    "active_channels": 1908,
+    "chain": "solana",
+    "date": "2026-02-08",
+    "tx_count": 122947,
+    "unique_buyers": 1873,
+    "unique_sellers": 934,
+    "volume_usd": 4320.954427823213
+  },
+  {
+    "active_channels": 2129,
+    "chain": "solana",
+    "date": "2026-02-09",
+    "tx_count": 133173,
+    "unique_buyers": 2086,
+    "unique_sellers": 1008,
+    "volume_usd": 4790.0846106901645
+  },
+  {
+    "active_channels": 1115,
+    "chain": "solana",
+    "date": "2026-02-10",
+    "tx_count": 72648,
+    "unique_buyers": 1097,
+    "unique_sellers": 28,
+    "volume_usd": 3548.0392403816986
+  },
+  {
+    "active_channels": 986,
+    "chain": "solana",
+    "date": "2026-02-11",
+    "tx_count": 61035,
+    "unique_buyers": 937,
+    "unique_sellers": 68,
+    "volume_usd": 1771.2341529610035
+  },
+  {
+    "active_channels": 1258,
+    "chain": "solana",
+    "date": "2026-02-12",
+    "tx_count": 58314,
+    "unique_buyers": 1204,
+    "unique_sellers": 69,
+    "volume_usd": 2949.6694211041527
+  },
+  {
+    "active_channels": 972,
+    "chain": "solana",
+    "date": "2026-02-13",
+    "tx_count": 64769,
+    "unique_buyers": 904,
+    "unique_sellers": 84,
+    "volume_usd": 3153.830935683605
+  },
+  {
+    "active_channels": 752,
+    "chain": "solana",
+    "date": "2026-02-14",
+    "tx_count": 44413,
+    "unique_buyers": 670,
+    "unique_sellers": 101,
+    "volume_usd": 2232.854661826206
+  },
+  {
+    "active_channels": 1048,
+    "chain": "solana",
+    "date": "2026-02-15",
+    "tx_count": 62984,
+    "unique_buyers": 956,
+    "unique_sellers": 100,
+    "volume_usd": 3015.2481543951735
+  },
+  {
+    "active_channels": 1220,
+    "chain": "solana",
+    "date": "2026-02-16",
+    "tx_count": 73653,
+    "unique_buyers": 1096,
+    "unique_sellers": 135,
+    "volume_usd": 3619.399488578085
+  },
+  {
+    "active_channels": 1082,
+    "chain": "solana",
+    "date": "2026-02-17",
+    "tx_count": 38805,
+    "unique_buyers": 993,
+    "unique_sellers": 103,
+    "volume_usd": 1959.930527610845
+  },
+  {
+    "active_channels": 1002,
+    "chain": "solana",
+    "date": "2026-02-18",
+    "tx_count": 63503,
+    "unique_buyers": 884,
+    "unique_sellers": 133,
+    "volume_usd": 3104.700190258734
+  },
+  {
+    "active_channels": 806,
+    "chain": "solana",
+    "date": "2026-02-19",
+    "tx_count": 44350,
+    "unique_buyers": 679,
+    "unique_sellers": 156,
+    "volume_usd": 2326.8775607657003
+  },
+  {
+    "active_channels": 1053,
+    "chain": "solana",
+    "date": "2026-02-20",
+    "tx_count": 31927,
+    "unique_buyers": 933,
+    "unique_sellers": 138,
+    "volume_usd": 1547.898931996991
+  },
+  {
+    "active_channels": 1072,
+    "chain": "solana",
+    "date": "2026-02-21",
+    "tx_count": 53472,
+    "unique_buyers": 941,
+    "unique_sellers": 143,
+    "volume_usd": 2596.4326349202643
+  },
+  {
+    "active_channels": 937,
+    "chain": "solana",
+    "date": "2026-02-22",
+    "tx_count": 43010,
+    "unique_buyers": 757,
+    "unique_sellers": 196,
+    "volume_usd": 2080.223142658051
+  },
+  {
+    "active_channels": 1058,
+    "chain": "solana",
+    "date": "2026-02-23",
+    "tx_count": 28176,
+    "unique_buyers": 931,
+    "unique_sellers": 144,
+    "volume_usd": 1368.6957507389252
+  },
+  {
+    "active_channels": 1015,
+    "chain": "solana",
+    "date": "2026-02-24",
+    "tx_count": 19572,
+    "unique_buyers": 875,
+    "unique_sellers": 158,
+    "volume_usd": 1087.4888679825049
+  },
+  {
+    "active_channels": 1028,
+    "chain": "solana",
+    "date": "2026-02-25",
+    "tx_count": 52555,
+    "unique_buyers": 972,
+    "unique_sellers": 71,
+    "volume_usd": 2620.9749815266277
+  },
+  {
+    "active_channels": 1103,
+    "chain": "solana",
+    "date": "2026-02-26",
+    "tx_count": 45982,
+    "unique_buyers": 894,
+    "unique_sellers": 221,
+    "volume_usd": 2194.276790258985
+  },
+  {
+    "active_channels": 988,
+    "chain": "solana",
+    "date": "2026-02-27",
+    "tx_count": 39690,
+    "unique_buyers": 830,
+    "unique_sellers": 180,
+    "volume_usd": 1883.8159284152284
+  },
+  {
+    "active_channels": 768,
+    "chain": "solana",
+    "date": "2026-02-28",
+    "tx_count": 35942,
+    "unique_buyers": 681,
+    "unique_sellers": 107,
+    "volume_usd": 1645.885866262631
+  },
+  {
+    "active_channels": 3121,
+    "chain": "base",
+    "date": "2026-03-01",
+    "tx_count": 42697,
+    "unique_buyers": 3113,
+    "unique_sellers": 37,
+    "volume_usd": 165315.24857177184
+  },
+  {
+    "active_channels": 3020,
+    "chain": "base",
+    "date": "2026-03-02",
+    "tx_count": 25848,
+    "unique_buyers": 2946,
+    "unique_sellers": 111,
+    "volume_usd": 131828.73744468065
+  },
+  {
+    "active_channels": 1647,
+    "chain": "base",
+    "date": "2026-03-03",
+    "tx_count": 18272,
+    "unique_buyers": 1616,
+    "unique_sellers": 61,
+    "volume_usd": 22065.243306843684
+  },
+  {
+    "active_channels": 1290,
+    "chain": "base",
+    "date": "2026-03-04",
+    "tx_count": 26132,
+    "unique_buyers": 1262,
+    "unique_sellers": 53,
+    "volume_usd": 12794.1124241928
+  },
+  {
+    "active_channels": 1733,
+    "chain": "base",
+    "date": "2026-03-05",
+    "tx_count": 31722,
+    "unique_buyers": 1678,
+    "unique_sellers": 87,
+    "volume_usd": 238317.60535244687
+  },
+  {
+    "active_channels": 2731,
+    "chain": "base",
+    "date": "2026-03-06",
+    "tx_count": 46982,
+    "unique_buyers": 2708,
+    "unique_sellers": 59,
+    "volume_usd": 58271.222037795545
+  },
+  {
+    "active_channels": 2790,
+    "chain": "base",
+    "date": "2026-03-07",
+    "tx_count": 53408,
+    "unique_buyers": 2782,
+    "unique_sellers": 32,
+    "volume_usd": 66873.51820059188
+  },
+  {
+    "active_channels": 2592,
+    "chain": "base",
+    "date": "2026-03-08",
+    "tx_count": 37586,
+    "unique_buyers": 2573,
+    "unique_sellers": 51,
+    "volume_usd": 59673.07350327799
+  },
+  {
+    "active_channels": 3095,
+    "chain": "base",
+    "date": "2026-03-09",
+    "tx_count": 31861,
+    "unique_buyers": 3084,
+    "unique_sellers": 47,
+    "volume_usd": 88123.86241978349
+  },
+  {
+    "active_channels": 2211,
+    "chain": "base",
+    "date": "2026-03-10",
+    "tx_count": 45137,
+    "unique_buyers": 2195,
+    "unique_sellers": 48,
+    "volume_usd": 27493.33218165712
+  },
+  {
+    "active_channels": 2427,
+    "chain": "base",
+    "date": "2026-03-11",
+    "tx_count": 41285,
+    "unique_buyers": 2407,
+    "unique_sellers": 52,
+    "volume_usd": 28929.85944660708
+  },
+  {
+    "active_channels": 2463,
+    "chain": "base",
+    "date": "2026-03-12",
+    "tx_count": 40101,
+    "unique_buyers": 2384,
+    "unique_sellers": 117,
+    "volume_usd": 24244.41377257944
+  },
+  {
+    "active_channels": 1958,
+    "chain": "base",
+    "date": "2026-03-13",
+    "tx_count": 24583,
+    "unique_buyers": 1730,
+    "unique_sellers": 189,
+    "volume_usd": 32259.044397738526
+  },
+  {
+    "active_channels": 2321,
+    "chain": "base",
+    "date": "2026-03-14",
+    "tx_count": 38579,
+    "unique_buyers": 2170,
+    "unique_sellers": 170,
+    "volume_usd": 70613.81183231375
+  },
+  {
+    "active_channels": 2597,
+    "chain": "base",
+    "date": "2026-03-15",
+    "tx_count": 37787,
+    "unique_buyers": 2456,
+    "unique_sellers": 150,
+    "volume_usd": 147370.90777201156
+  },
+  {
+    "active_channels": 2188,
+    "chain": "base",
+    "date": "2026-03-16",
+    "tx_count": 36039,
+    "unique_buyers": 2066,
+    "unique_sellers": 156,
+    "volume_usd": 99464.58729073041
+  },
+  {
+    "active_channels": 1409,
+    "chain": "base",
+    "date": "2026-03-17",
+    "tx_count": 13928,
+    "unique_buyers": 1303,
+    "unique_sellers": 140,
+    "volume_usd": 27338.694225994037
+  },
+  {
+    "active_channels": 1676,
+    "chain": "base",
+    "date": "2026-03-18",
+    "tx_count": 31908,
+    "unique_buyers": 1524,
+    "unique_sellers": 158,
+    "volume_usd": 32303.755870910758
+  },
+  {
+    "active_channels": 2174,
+    "chain": "base",
+    "date": "2026-03-19",
+    "tx_count": 32794,
+    "unique_buyers": 2021,
+    "unique_sellers": 155,
+    "volume_usd": 50234.70906206233
+  },
+  {
+    "active_channels": 1897,
+    "chain": "base",
+    "date": "2026-03-20",
+    "tx_count": 33536,
+    "unique_buyers": 1805,
+    "unique_sellers": 126,
+    "volume_usd": 43998.54768175361
+  },
+  {
+    "active_channels": 2041,
+    "chain": "base",
+    "date": "2026-03-21",
+    "tx_count": 23956,
+    "unique_buyers": 1989,
+    "unique_sellers": 77,
+    "volume_usd": 43758.67471917967
+  },
+  {
+    "active_channels": 1271,
+    "chain": "base",
+    "date": "2026-03-22",
+    "tx_count": 17895,
+    "unique_buyers": 1260,
+    "unique_sellers": 42,
+    "volume_usd": 79901.15096305439
+  },
+  {
+    "active_channels": 640,
+    "chain": "base",
+    "date": "2026-03-23",
+    "tx_count": 13495,
+    "unique_buyers": 582,
+    "unique_sellers": 99,
+    "volume_usd": 3715.291730046437
+  },
+  {
+    "active_channels": 603,
+    "chain": "base",
+    "date": "2026-03-24",
+    "tx_count": 8773,
+    "unique_buyers": 536,
+    "unique_sellers": 96,
+    "volume_usd": 811.334815445858
+  },
+  {
+    "active_channels": 628,
+    "chain": "base",
+    "date": "2026-03-25",
+    "tx_count": 8247,
+    "unique_buyers": 563,
+    "unique_sellers": 98,
+    "volume_usd": 2032.1771023006006
+  },
+  {
+    "active_channels": 617,
+    "chain": "base",
+    "date": "2026-03-26",
+    "tx_count": 15135,
+    "unique_buyers": 547,
+    "unique_sellers": 98,
+    "volume_usd": 406.3879565814262
+  },
+  {
+    "active_channels": 698,
+    "chain": "base",
+    "date": "2026-03-27",
+    "tx_count": 12911,
+    "unique_buyers": 599,
+    "unique_sellers": 113,
+    "volume_usd": 2066.3055307841582
+  },
+  {
+    "active_channels": 598,
+    "chain": "base",
+    "date": "2026-03-28",
+    "tx_count": 9847,
+    "unique_buyers": 563,
+    "unique_sellers": 66,
+    "volume_usd": 4439.367260501957
+  },
+  {
+    "active_channels": 591,
+    "chain": "base",
+    "date": "2026-03-29",
+    "tx_count": 15335,
+    "unique_buyers": 567,
+    "unique_sellers": 44,
+    "volume_usd": 11575.724348535603
+  },
+  {
+    "active_channels": 657,
+    "chain": "base",
+    "date": "2026-03-30",
+    "tx_count": 13004,
+    "unique_buyers": 614,
+    "unique_sellers": 69,
+    "volume_usd": 11600.378828582325
+  },
+  {
+    "active_channels": 839,
+    "chain": "base",
+    "date": "2026-03-31",
+    "tx_count": 13295,
+    "unique_buyers": 601,
+    "unique_sellers": 257,
+    "volume_usd": 680.7477020403812
+  },
+  {
+    "active_channels": 34,
+    "chain": "polygon",
+    "date": "2026-03-01",
+    "tx_count": 25242,
+    "unique_buyers": 34,
+    "unique_sellers": 2,
+    "volume_usd": 415.68513088324147
+  },
+  {
+    "active_channels": 34,
+    "chain": "polygon",
+    "date": "2026-03-02",
+    "tx_count": 20555,
+    "unique_buyers": 34,
+    "unique_sellers": 2,
+    "volume_usd": 413.6124593111583
+  },
+  {
+    "active_channels": 65,
+    "chain": "polygon",
+    "date": "2026-03-03",
+    "tx_count": 22845,
+    "unique_buyers": 36,
+    "unique_sellers": 33,
+    "volume_usd": 6463.933117420169
+  },
+  {
+    "active_channels": 34,
+    "chain": "polygon",
+    "date": "2026-03-04",
+    "tx_count": 25070,
+    "unique_buyers": 34,
+    "unique_sellers": 2,
+    "volume_usd": 413.0817340391586
+  },
+  {
+    "active_channels": 35,
+    "chain": "polygon",
+    "date": "2026-03-05",
+    "tx_count": 150124,
+    "unique_buyers": 35,
+    "unique_sellers": 2,
+    "volume_usd": 1415.6053160740248
+  },
+  {
+    "active_channels": 66,
+    "chain": "polygon",
+    "date": "2026-03-06",
+    "tx_count": 163189,
+    "unique_buyers": 37,
+    "unique_sellers": 33,
+    "volume_usd": 7586.36840680503
+  },
+  {
+    "active_channels": 35,
+    "chain": "polygon",
+    "date": "2026-03-07",
+    "tx_count": 134859,
+    "unique_buyers": 35,
+    "unique_sellers": 2,
+    "volume_usd": 1256.996191673059
+  },
+  {
+    "active_channels": 65,
+    "chain": "polygon",
+    "date": "2026-03-08",
+    "tx_count": 156643,
+    "unique_buyers": 36,
+    "unique_sellers": 33,
+    "volume_usd": 7508.044982827289
+  },
+  {
+    "active_channels": 35,
+    "chain": "polygon",
+    "date": "2026-03-09",
+    "tx_count": 154943,
+    "unique_buyers": 35,
+    "unique_sellers": 2,
+    "volume_usd": 1485.7844065285442
+  },
+  {
+    "active_channels": 35,
+    "chain": "polygon",
+    "date": "2026-03-10",
+    "tx_count": 156464,
+    "unique_buyers": 35,
+    "unique_sellers": 2,
+    "volume_usd": 1488.8641360457734
+  },
+  {
+    "active_channels": 66,
+    "chain": "polygon",
+    "date": "2026-03-11",
+    "tx_count": 158586,
+    "unique_buyers": 37,
+    "unique_sellers": 33,
+    "volume_usd": 7534.114973464882
+  },
+  {
+    "active_channels": 34,
+    "chain": "polygon",
+    "date": "2026-03-12",
+    "tx_count": 163249,
+    "unique_buyers": 34,
+    "unique_sellers": 2,
+    "volume_usd": 1518.250771312592
+  },
+  {
+    "active_channels": 67,
+    "chain": "polygon",
+    "date": "2026-03-13",
+    "tx_count": 163388,
+    "unique_buyers": 38,
+    "unique_sellers": 34,
+    "volume_usd": 7574.506645825101
+  },
+  {
+    "active_channels": 35,
+    "chain": "polygon",
+    "date": "2026-03-14",
+    "tx_count": 143407,
+    "unique_buyers": 35,
+    "unique_sellers": 3,
+    "volume_usd": 1332.8009081577247
+  },
+  {
+    "active_channels": 67,
+    "chain": "polygon",
+    "date": "2026-03-15",
+    "tx_count": 159220,
+    "unique_buyers": 38,
+    "unique_sellers": 34,
+    "volume_usd": 7527.210376726745
+  },
+  {
+    "active_channels": 35,
+    "chain": "polygon",
+    "date": "2026-03-16",
+    "tx_count": 154245,
+    "unique_buyers": 35,
+    "unique_sellers": 3,
+    "volume_usd": 1438.0592538569827
+  },
+  {
+    "active_channels": 66,
+    "chain": "polygon",
+    "date": "2026-03-17",
+    "tx_count": 140465,
+    "unique_buyers": 37,
+    "unique_sellers": 33,
+    "volume_usd": 7387.105621689803
+  },
+  {
+    "active_channels": 34,
+    "chain": "polygon",
+    "date": "2026-03-18",
+    "tx_count": 154659,
+    "unique_buyers": 34,
+    "unique_sellers": 2,
+    "volume_usd": 1439.7600843559735
+  },
+  {
+    "active_channels": 66,
+    "chain": "polygon",
+    "date": "2026-03-19",
+    "tx_count": 162890,
+    "unique_buyers": 37,
+    "unique_sellers": 33,
+    "volume_usd": 7590.1521084077585
+  },
+  {
+    "active_channels": 35,
+    "chain": "polygon",
+    "date": "2026-03-20",
+    "tx_count": 164599,
+    "unique_buyers": 35,
+    "unique_sellers": 2,
+    "volume_usd": 1531.2677832412332
+  },
+  {
+    "active_channels": 65,
+    "chain": "polygon",
+    "date": "2026-03-21",
+    "tx_count": 166621,
+    "unique_buyers": 36,
+    "unique_sellers": 33,
+    "volume_usd": 7603.945974910742
+  },
+  {
+    "active_channels": 35,
+    "chain": "polygon",
+    "date": "2026-03-22",
+    "tx_count": 165853,
+    "unique_buyers": 35,
+    "unique_sellers": 3,
+    "volume_usd": 1543.253191612335
+  },
+  {
+    "active_channels": 34,
+    "chain": "polygon",
+    "date": "2026-03-23",
+    "tx_count": 65221,
+    "unique_buyers": 34,
+    "unique_sellers": 2,
+    "volume_usd": 587.3100037537403
+  },
+  {
+    "active_channels": 4,
+    "chain": "polygon",
+    "date": "2026-03-24",
+    "tx_count": 4261,
+    "unique_buyers": 4,
+    "unique_sellers": 1,
+    "volume_usd": 0.4260988597999997
+  },
+  {
+    "active_channels": 4,
+    "chain": "polygon",
+    "date": "2026-03-25",
+    "tx_count": 11452,
+    "unique_buyers": 4,
+    "unique_sellers": 1,
+    "volume_usd": 1.1450461315416667
+  },
+  {
+    "active_channels": 5,
+    "chain": "polygon",
+    "date": "2026-03-26",
+    "tx_count": 9748,
+    "unique_buyers": 5,
+    "unique_sellers": 2,
+    "volume_usd": 1.1293758987416678
+  },
+  {
+    "active_channels": 4,
+    "chain": "polygon",
+    "date": "2026-03-27",
+    "tx_count": 11547,
+    "unique_buyers": 4,
+    "unique_sellers": 1,
+    "volume_usd": 1.1548153319499996
+  },
+  {
+    "active_channels": 4,
+    "chain": "polygon",
+    "date": "2026-03-28",
+    "tx_count": 4663,
+    "unique_buyers": 4,
+    "unique_sellers": 1,
+    "volume_usd": 0.4664046150250002
+  },
+  {
+    "active_channels": 1,
+    "chain": "polygon",
+    "date": "2026-03-30",
+    "tx_count": 22,
+    "unique_buyers": 1,
+    "unique_sellers": 1,
+    "volume_usd": 0.35496767416666664
+  },
+  {
+    "active_channels": 2192,
+    "chain": "solana",
+    "date": "2026-03-01",
+    "tx_count": 46764,
+    "unique_buyers": 994,
+    "unique_sellers": 61,
+    "volume_usd": 2204.0163351084257
+  },
+  {
+    "active_channels": 18332,
+    "chain": "solana",
+    "date": "2026-03-02",
+    "tx_count": 40160,
+    "unique_buyers": 929,
+    "unique_sellers": 171,
+    "volume_usd": 1849.711421628161
+  },
+  {
+    "active_channels": 16992,
+    "chain": "solana",
+    "date": "2026-03-03",
+    "tx_count": 46440,
+    "unique_buyers": 558,
+    "unique_sellers": 103,
+    "volume_usd": 2323.915280784911
+  },
+  {
+    "active_channels": 20364,
+    "chain": "solana",
+    "date": "2026-03-04",
+    "tx_count": 45385,
+    "unique_buyers": 1000,
+    "unique_sellers": 183,
+    "volume_usd": 2203.6597669873145
+  },
+  {
+    "active_channels": 27446,
+    "chain": "solana",
+    "date": "2026-03-05",
+    "tx_count": 68942,
+    "unique_buyers": 1003,
+    "unique_sellers": 172,
+    "volume_usd": 3319.295616260005
+  },
+  {
+    "active_channels": 23139,
+    "chain": "solana",
+    "date": "2026-03-06",
+    "tx_count": 55910,
+    "unique_buyers": 970,
+    "unique_sellers": 122,
+    "volume_usd": 2882.504977318397
+  },
+  {
+    "active_channels": 13456,
+    "chain": "solana",
+    "date": "2026-03-07",
+    "tx_count": 32081,
+    "unique_buyers": 647,
+    "unique_sellers": 90,
+    "volume_usd": 1639.1173851998742
+  },
+  {
+    "active_channels": 32565,
+    "chain": "solana",
+    "date": "2026-03-08",
+    "tx_count": 65413,
+    "unique_buyers": 950,
+    "unique_sellers": 283,
+    "volume_usd": 3386.0115187474903
+  },
+  {
+    "active_channels": 45959,
+    "chain": "solana",
+    "date": "2026-03-09",
+    "tx_count": 95929,
+    "unique_buyers": 1006,
+    "unique_sellers": 261,
+    "volume_usd": 5044.581378074781
+  },
+  {
+    "active_channels": 46594,
+    "chain": "solana",
+    "date": "2026-03-10",
+    "tx_count": 94606,
+    "unique_buyers": 1024,
+    "unique_sellers": 257,
+    "volume_usd": 4946.212220505034
+  },
+  {
+    "active_channels": 48363,
+    "chain": "solana",
+    "date": "2026-03-11",
+    "tx_count": 98240,
+    "unique_buyers": 1013,
+    "unique_sellers": 255,
+    "volume_usd": 5197.45715274125
+  },
+  {
+    "active_channels": 42176,
+    "chain": "solana",
+    "date": "2026-03-12",
+    "tx_count": 84810,
+    "unique_buyers": 1038,
+    "unique_sellers": 317,
+    "volume_usd": 4378.495805699827
+  },
+  {
+    "active_channels": 41657,
+    "chain": "solana",
+    "date": "2026-03-13",
+    "tx_count": 85166,
+    "unique_buyers": 1074,
+    "unique_sellers": 248,
+    "volume_usd": 4443.869044207825
+  },
+  {
+    "active_channels": 1386,
+    "chain": "solana",
+    "date": "2026-03-14",
+    "tx_count": 8548,
+    "unique_buyers": 222,
+    "unique_sellers": 238,
+    "volume_usd": 278.97945771524513
+  },
+  {
+    "active_channels": 1283,
+    "chain": "solana",
+    "date": "2026-03-15",
+    "tx_count": 8324,
+    "unique_buyers": 176,
+    "unique_sellers": 157,
+    "volume_usd": 255.5031387920473
+  },
+  {
+    "active_channels": 3211,
+    "chain": "solana",
+    "date": "2026-03-16",
+    "tx_count": 12017,
+    "unique_buyers": 268,
+    "unique_sellers": 169,
+    "volume_usd": 463.2895367008487
+  },
+  {
+    "active_channels": 6402,
+    "chain": "solana",
+    "date": "2026-03-17",
+    "tx_count": 18007,
+    "unique_buyers": 331,
+    "unique_sellers": 193,
+    "volume_usd": 1129.846942751529
+  },
+  {
+    "active_channels": 6943,
+    "chain": "solana",
+    "date": "2026-03-18",
+    "tx_count": 19228,
+    "unique_buyers": 351,
+    "unique_sellers": 219,
+    "volume_usd": 998.6481820920036
+  },
+  {
+    "active_channels": 6254,
+    "chain": "solana",
+    "date": "2026-03-19",
+    "tx_count": 17501,
+    "unique_buyers": 294,
+    "unique_sellers": 243,
+    "volume_usd": 859.205629234048
+  },
+  {
+    "active_channels": 6043,
+    "chain": "solana",
+    "date": "2026-03-20",
+    "tx_count": 16654,
+    "unique_buyers": 277,
+    "unique_sellers": 165,
+    "volume_usd": 702.4050027728479
+  },
+  {
+    "active_channels": 6095,
+    "chain": "solana",
+    "date": "2026-03-21",
+    "tx_count": 17046,
+    "unique_buyers": 264,
+    "unique_sellers": 162,
+    "volume_usd": 736.2282743972135
+  },
+  {
+    "active_channels": 6017,
+    "chain": "solana",
+    "date": "2026-03-22",
+    "tx_count": 16826,
+    "unique_buyers": 273,
+    "unique_sellers": 166,
+    "volume_usd": 745.1127051901615
+  },
+  {
+    "active_channels": 5866,
+    "chain": "solana",
+    "date": "2026-03-23",
+    "tx_count": 16858,
+    "unique_buyers": 281,
+    "unique_sellers": 164,
+    "volume_usd": 737.5481406645673
+  },
+  {
+    "active_channels": 5890,
+    "chain": "solana",
+    "date": "2026-03-24",
+    "tx_count": 16312,
+    "unique_buyers": 294,
+    "unique_sellers": 164,
+    "volume_usd": 722.6814222485997
+  },
+  {
+    "active_channels": 5666,
+    "chain": "solana",
+    "date": "2026-03-25",
+    "tx_count": 16127,
+    "unique_buyers": 250,
+    "unique_sellers": 180,
+    "volume_usd": 696.3659336511349
+  },
+  {
+    "active_channels": 5367,
+    "chain": "solana",
+    "date": "2026-03-26",
+    "tx_count": 15822,
+    "unique_buyers": 229,
+    "unique_sellers": 168,
+    "volume_usd": 764.1582514191497
+  },
+  {
+    "active_channels": 5343,
+    "chain": "solana",
+    "date": "2026-03-27",
+    "tx_count": 15833,
+    "unique_buyers": 248,
+    "unique_sellers": 163,
+    "volume_usd": 646.0258734801048
+  },
+  {
+    "active_channels": 4844,
+    "chain": "solana",
+    "date": "2026-03-28",
+    "tx_count": 14518,
+    "unique_buyers": 217,
+    "unique_sellers": 159,
+    "volume_usd": 607.1625758748762
+  },
+  {
+    "active_channels": 5041,
+    "chain": "solana",
+    "date": "2026-03-29",
+    "tx_count": 15352,
+    "unique_buyers": 231,
+    "unique_sellers": 158,
+    "volume_usd": 628.681259919469
+  },
+  {
+    "active_channels": 5063,
+    "chain": "solana",
+    "date": "2026-03-30",
+    "tx_count": 15554,
+    "unique_buyers": 244,
+    "unique_sellers": 155,
+    "volume_usd": 641.6468494397345
+  },
+  {
+    "active_channels": 2291,
+    "chain": "solana",
+    "date": "2026-03-31",
+    "tx_count": 7892,
+    "unique_buyers": 160,
+    "unique_sellers": 89,
+    "volume_usd": 319.84993399761174
+  },
+  {
+    "active_channels": 917,
+    "chain": "base",
+    "date": "2026-04-01",
+    "tx_count": 16315,
+    "unique_buyers": 596,
+    "unique_sellers": 323,
+    "volume_usd": 658.4296108436258
+  },
+  {
+    "active_channels": 895,
+    "chain": "base",
+    "date": "2026-04-02",
+    "tx_count": 5891,
+    "unique_buyers": 527,
+    "unique_sellers": 401,
+    "volume_usd": 1202.3241201565836
+  },
+  {
+    "active_channels": 765,
+    "chain": "base",
+    "date": "2026-04-03",
+    "tx_count": 3058,
+    "unique_buyers": 196,
+    "unique_sellers": 596,
+    "volume_usd": 928.4187284062954
+  },
+  {
+    "active_channels": 700,
+    "chain": "base",
+    "date": "2026-04-04",
+    "tx_count": 6850,
+    "unique_buyers": 408,
+    "unique_sellers": 319,
+    "volume_usd": 2705.0921434897723
+  },
+  {
+    "active_channels": 698,
+    "chain": "base",
+    "date": "2026-04-05",
+    "tx_count": 7538,
+    "unique_buyers": 449,
+    "unique_sellers": 273,
+    "volume_usd": 20946.93172506457
+  },
+  {
+    "active_channels": 707,
+    "chain": "base",
+    "date": "2026-04-06",
+    "tx_count": 9884,
+    "unique_buyers": 550,
+    "unique_sellers": 186,
+    "volume_usd": 929.11802557161
+  },
+  {
+    "active_channels": 519,
+    "chain": "base",
+    "date": "2026-04-07",
+    "tx_count": 8858,
+    "unique_buyers": 486,
+    "unique_sellers": 54,
+    "volume_usd": 1539.0376290847876
+  },
+  {
+    "active_channels": 593,
+    "chain": "base",
+    "date": "2026-04-08",
+    "tx_count": 8037,
+    "unique_buyers": 409,
+    "unique_sellers": 214,
+    "volume_usd": 1626.6892037275409
+  },
+  {
+    "active_channels": 473,
+    "chain": "base",
+    "date": "2026-04-09",
+    "tx_count": 7881,
+    "unique_buyers": 416,
+    "unique_sellers": 92,
+    "volume_usd": 3770.788286878307
+  },
+  {
+    "active_channels": 479,
+    "chain": "base",
+    "date": "2026-04-10",
+    "tx_count": 7227,
+    "unique_buyers": 464,
+    "unique_sellers": 55,
+    "volume_usd": 428552.5298754379
+  },
+  {
+    "active_channels": 452,
+    "chain": "base",
+    "date": "2026-04-11",
+    "tx_count": 6851,
+    "unique_buyers": 447,
+    "unique_sellers": 27,
+    "volume_usd": 200.19541320176538
+  },
+  {
+    "active_channels": 771,
+    "chain": "base",
+    "date": "2026-04-12",
+    "tx_count": 7868,
+    "unique_buyers": 739,
+    "unique_sellers": 52,
+    "volume_usd": 651.1434903748374
+  },
+  {
+    "active_channels": 818,
+    "chain": "base",
+    "date": "2026-04-13",
+    "tx_count": 12629,
+    "unique_buyers": 807,
+    "unique_sellers": 45,
+    "volume_usd": 1153.7477020078634
+  },
+  {
+    "active_channels": 593,
+    "chain": "base",
+    "date": "2026-04-14",
+    "tx_count": 7676,
+    "unique_buyers": 588,
+    "unique_sellers": 33,
+    "volume_usd": 612.1013558593655
+  },
+  {
+    "active_channels": 480,
+    "chain": "base",
+    "date": "2026-04-15",
+    "tx_count": 4476,
+    "unique_buyers": 467,
+    "unique_sellers": 42,
+    "volume_usd": 473.99489202262714
+  },
+  {
+    "active_channels": 450,
+    "chain": "base",
+    "date": "2026-04-16",
+    "tx_count": 6238,
+    "unique_buyers": 409,
+    "unique_sellers": 66,
+    "volume_usd": 798.4795831929843
+  },
+  {
+    "active_channels": 419,
+    "chain": "base",
+    "date": "2026-04-17",
+    "tx_count": 4382,
+    "unique_buyers": 403,
+    "unique_sellers": 42,
+    "volume_usd": 370.09862976041177
+  },
+  {
+    "active_channels": 427,
+    "chain": "base",
+    "date": "2026-04-18",
+    "tx_count": 4572,
+    "unique_buyers": 417,
+    "unique_sellers": 33,
+    "volume_usd": 234.72700165072578
+  },
+  {
+    "active_channels": 588,
+    "chain": "base",
+    "date": "2026-04-19",
+    "tx_count": 5290,
+    "unique_buyers": 578,
+    "unique_sellers": 42,
+    "volume_usd": 193863.34609324875
+  },
+  {
+    "active_channels": 997,
+    "chain": "base",
+    "date": "2026-04-20",
+    "tx_count": 5842,
+    "unique_buyers": 983,
+    "unique_sellers": 58,
+    "volume_usd": 407507.4691296698
+  },
+  {
+    "active_channels": 478,
+    "chain": "base",
+    "date": "2026-04-21",
+    "tx_count": 8285,
+    "unique_buyers": 466,
+    "unique_sellers": 44,
+    "volume_usd": 407625.45560486394
+  },
+  {
+    "active_channels": 445,
+    "chain": "base",
+    "date": "2026-04-22",
+    "tx_count": 9412,
+    "unique_buyers": 435,
+    "unique_sellers": 48,
+    "volume_usd": 211.29850295427656
+  },
+  {
+    "active_channels": 469,
+    "chain": "base",
+    "date": "2026-04-23",
+    "tx_count": 9861,
+    "unique_buyers": 455,
+    "unique_sellers": 47,
+    "volume_usd": 202.13752287992227
+  },
+  {
+    "active_channels": 453,
+    "chain": "base",
+    "date": "2026-04-24",
+    "tx_count": 8599,
+    "unique_buyers": 431,
+    "unique_sellers": 56,
+    "volume_usd": 220.86234733466915
+  },
+  {
+    "active_channels": 474,
+    "chain": "base",
+    "date": "2026-04-25",
+    "tx_count": 8535,
+    "unique_buyers": 465,
+    "unique_sellers": 40,
+    "volume_usd": 229.96051547677595
+  },
+  {
+    "active_channels": 428,
+    "chain": "base",
+    "date": "2026-04-26",
+    "tx_count": 4965,
+    "unique_buyers": 413,
+    "unique_sellers": 42,
+    "volume_usd": 757.4707945023445
+  },
+  {
+    "active_channels": 449,
+    "chain": "base",
+    "date": "2026-04-27",
+    "tx_count": 8686,
+    "unique_buyers": 429,
+    "unique_sellers": 53,
+    "volume_usd": 594.9188327535136
+  },
+  {
+    "active_channels": 414,
+    "chain": "base",
+    "date": "2026-04-28",
+    "tx_count": 9492,
+    "unique_buyers": 391,
+    "unique_sellers": 55,
+    "volume_usd": 1387.611319465654
+  },
+  {
+    "active_channels": 440,
+    "chain": "base",
+    "date": "2026-04-29",
+    "tx_count": 4419,
+    "unique_buyers": 415,
+    "unique_sellers": 60,
+    "volume_usd": 1068.879572145677
+  },
+  {
+    "active_channels": 460,
+    "chain": "base",
+    "date": "2026-04-30",
+    "tx_count": 7046,
+    "unique_buyers": 423,
+    "unique_sellers": 57,
+    "volume_usd": 768.7692304325774
+  },
+  {
+    "active_channels": 8,
+    "chain": "polygon",
+    "date": "2026-04-02",
+    "tx_count": 340,
+    "unique_buyers": 8,
+    "unique_sellers": 1,
+    "volume_usd": 0.0340077293333334
+  },
+  {
+    "active_channels": 62,
+    "chain": "polygon",
+    "date": "2026-04-04",
+    "tx_count": 117339,
+    "unique_buyers": 32,
+    "unique_sellers": 32,
+    "volume_usd": 8223.147647088246
+  },
+  {
+    "active_channels": 61,
+    "chain": "polygon",
+    "date": "2026-04-05",
+    "tx_count": 154694,
+    "unique_buyers": 32,
+    "unique_sellers": 32,
+    "volume_usd": 7598.599410876226
+  },
+  {
+    "active_channels": 31,
+    "chain": "polygon",
+    "date": "2026-04-06",
+    "tx_count": 152125,
+    "unique_buyers": 31,
+    "unique_sellers": 2,
+    "volume_usd": 1521.1457256870494
+  },
+  {
+    "active_channels": 61,
+    "chain": "polygon",
+    "date": "2026-04-07",
+    "tx_count": 148898,
+    "unique_buyers": 32,
+    "unique_sellers": 32,
+    "volume_usd": 7539.489098165224
+  },
+  {
+    "active_channels": 30,
+    "chain": "polygon",
+    "date": "2026-04-08",
+    "tx_count": 148813,
+    "unique_buyers": 30,
+    "unique_sellers": 1,
+    "volume_usd": 1488.1794902742583
+  },
+  {
+    "active_channels": 61,
+    "chain": "polygon",
+    "date": "2026-04-09",
+    "tx_count": 148028,
+    "unique_buyers": 32,
+    "unique_sellers": 32,
+    "volume_usd": 7529.900166898232
+  },
+  {
+    "active_channels": 31,
+    "chain": "polygon",
+    "date": "2026-04-10",
+    "tx_count": 151519,
+    "unique_buyers": 31,
+    "unique_sellers": 2,
+    "volume_usd": 1515.154717142568
+  },
+  {
+    "active_channels": 61,
+    "chain": "polygon",
+    "date": "2026-04-11",
+    "tx_count": 156565,
+    "unique_buyers": 32,
+    "unique_sellers": 32,
+    "volume_usd": 7615.6326280316125
+  },
+  {
+    "active_channels": 31,
+    "chain": "polygon",
+    "date": "2026-04-12",
+    "tx_count": 147975,
+    "unique_buyers": 31,
+    "unique_sellers": 2,
+    "volume_usd": 1479.9778845162684
+  },
+  {
+    "active_channels": 61,
+    "chain": "polygon",
+    "date": "2026-04-13",
+    "tx_count": 150915,
+    "unique_buyers": 32,
+    "unique_sellers": 32,
+    "volume_usd": 7558.706136234291
+  },
+  {
+    "active_channels": 30,
+    "chain": "polygon",
+    "date": "2026-04-14",
+    "tx_count": 149927,
+    "unique_buyers": 30,
+    "unique_sellers": 1,
+    "volume_usd": 1499.069318062471
+  },
+  {
+    "active_channels": 61,
+    "chain": "polygon",
+    "date": "2026-04-15",
+    "tx_count": 153122,
+    "unique_buyers": 32,
+    "unique_sellers": 32,
+    "volume_usd": 7580.301218913481
+  },
+  {
+    "active_channels": 30,
+    "chain": "polygon",
+    "date": "2026-04-16",
+    "tx_count": 156100,
+    "unique_buyers": 30,
+    "unique_sellers": 1,
+    "volume_usd": 1560.8420074732576
+  },
+  {
+    "active_channels": 61,
+    "chain": "polygon",
+    "date": "2026-04-17",
+    "tx_count": 158262,
+    "unique_buyers": 32,
+    "unique_sellers": 32,
+    "volume_usd": 7632.729145549007
+  },
+  {
+    "active_channels": 30,
+    "chain": "polygon",
+    "date": "2026-04-18",
+    "tx_count": 157198,
+    "unique_buyers": 30,
+    "unique_sellers": 1,
+    "volume_usd": 1572.0275806134114
+  },
+  {
+    "active_channels": 61,
+    "chain": "polygon",
+    "date": "2026-04-19",
+    "tx_count": 157403,
+    "unique_buyers": 32,
+    "unique_sellers": 32,
+    "volume_usd": 7624.110341094512
+  },
+  {
+    "active_channels": 30,
+    "chain": "polygon",
+    "date": "2026-04-20",
+    "tx_count": 157621,
+    "unique_buyers": 30,
+    "unique_sellers": 1,
+    "volume_usd": 1576.2544708649166
+  },
+  {
+    "active_channels": 61,
+    "chain": "polygon",
+    "date": "2026-04-21",
+    "tx_count": 154632,
+    "unique_buyers": 32,
+    "unique_sellers": 32,
+    "volume_usd": 7595.775129864516
+  },
+  {
+    "active_channels": 30,
+    "chain": "polygon",
+    "date": "2026-04-22",
+    "tx_count": 156539,
+    "unique_buyers": 30,
+    "unique_sellers": 1,
+    "volume_usd": 1565.0740771066075
+  },
+  {
+    "active_channels": 61,
+    "chain": "polygon",
+    "date": "2026-04-23",
+    "tx_count": 157132,
+    "unique_buyers": 32,
+    "unique_sellers": 32,
+    "volume_usd": 7621.088681049635
+  },
+  {
+    "active_channels": 30,
+    "chain": "polygon",
+    "date": "2026-04-24",
+    "tx_count": 159200,
+    "unique_buyers": 30,
+    "unique_sellers": 1,
+    "volume_usd": 1592.0596889567546
+  },
+  {
+    "active_channels": 61,
+    "chain": "polygon",
+    "date": "2026-04-25",
+    "tx_count": 156661,
+    "unique_buyers": 32,
+    "unique_sellers": 32,
+    "volume_usd": 7617.914103989561
+  },
+  {
+    "active_channels": 30,
+    "chain": "polygon",
+    "date": "2026-04-26",
+    "tx_count": 154682,
+    "unique_buyers": 30,
+    "unique_sellers": 1,
+    "volume_usd": 1547.2029268249569
+  },
+  {
+    "active_channels": 61,
+    "chain": "polygon",
+    "date": "2026-04-27",
+    "tx_count": 155486,
+    "unique_buyers": 32,
+    "unique_sellers": 32,
+    "volume_usd": 7606.386677589223
+  },
+  {
+    "active_channels": 30,
+    "chain": "polygon",
+    "date": "2026-04-28",
+    "tx_count": 156659,
+    "unique_buyers": 30,
+    "unique_sellers": 1,
+    "volume_usd": 1566.811237874336
+  },
+  {
+    "active_channels": 61,
+    "chain": "polygon",
+    "date": "2026-04-29",
+    "tx_count": 154923,
+    "unique_buyers": 32,
+    "unique_sellers": 32,
+    "volume_usd": 7598.81247524433
+  },
+  {
+    "active_channels": 30,
+    "chain": "polygon",
+    "date": "2026-04-30",
+    "tx_count": 152781,
+    "unique_buyers": 30,
+    "unique_sellers": 1,
+    "volume_usd": 1527.960337374594
+  },
+  {
+    "active_channels": 4503,
+    "chain": "solana",
+    "date": "2026-04-01",
+    "tx_count": 13786,
+    "unique_buyers": 225,
+    "unique_sellers": 173,
+    "volume_usd": 853.5638565340455
+  },
+  {
+    "active_channels": 2782,
+    "chain": "solana",
+    "date": "2026-04-02",
+    "tx_count": 10938,
+    "unique_buyers": 170,
+    "unique_sellers": 134,
+    "volume_usd": 392.5306280484815
+  },
+  {
+    "active_channels": 1085,
+    "chain": "solana",
+    "date": "2026-04-03",
+    "tx_count": 9033,
+    "unique_buyers": 103,
+    "unique_sellers": 132,
+    "volume_usd": 381.7001314719249
+  },
+  {
+    "active_channels": 451,
+    "chain": "solana",
+    "date": "2026-04-04",
+    "tx_count": 7738,
+    "unique_buyers": 71,
+    "unique_sellers": 115,
+    "volume_usd": 237.57814007828324
+  },
+  {
+    "active_channels": 133,
+    "chain": "solana",
+    "date": "2026-04-05",
+    "tx_count": 7819,
+    "unique_buyers": 52,
+    "unique_sellers": 76,
+    "volume_usd": 182.34439815423914
+  },
+  {
+    "active_channels": 1600,
+    "chain": "solana",
+    "date": "2026-04-06",
+    "tx_count": 10475,
+    "unique_buyers": 202,
+    "unique_sellers": 129,
+    "volume_usd": 269.8647755346047
+  },
+  {
+    "active_channels": 629,
+    "chain": "solana",
+    "date": "2026-04-07",
+    "tx_count": 8634,
+    "unique_buyers": 100,
+    "unique_sellers": 129,
+    "volume_usd": 217.97204547499342
+  },
+  {
+    "active_channels": 855,
+    "chain": "solana",
+    "date": "2026-04-08",
+    "tx_count": 8156,
+    "unique_buyers": 113,
+    "unique_sellers": 131,
+    "volume_usd": 213.73164270590863
+  },
+  {
+    "active_channels": 170,
+    "chain": "solana",
+    "date": "2026-04-09",
+    "tx_count": 5581,
+    "unique_buyers": 79,
+    "unique_sellers": 63,
+    "volume_usd": 97.77635035793338
+  },
+  {
+    "active_channels": 74,
+    "chain": "solana",
+    "date": "2026-04-10",
+    "tx_count": 4666,
+    "unique_buyers": 69,
+    "unique_sellers": 19,
+    "volume_usd": 124.0745847634139
+  },
+  {
+    "active_channels": 30,
+    "chain": "solana",
+    "date": "2026-04-11",
+    "tx_count": 375,
+    "unique_buyers": 22,
+    "unique_sellers": 19,
+    "volume_usd": 15.323260988109983
+  },
+  {
+    "active_channels": 42,
+    "chain": "solana",
+    "date": "2026-04-12",
+    "tx_count": 650,
+    "unique_buyers": 34,
+    "unique_sellers": 18,
+    "volume_usd": 55.65157939200198
+  },
+  {
+    "active_channels": 73,
+    "chain": "solana",
+    "date": "2026-04-13",
+    "tx_count": 726,
+    "unique_buyers": 64,
+    "unique_sellers": 28,
+    "volume_usd": 225.48263225811795
+  },
+  {
+    "active_channels": 31,
+    "chain": "solana",
+    "date": "2026-04-14",
+    "tx_count": 493,
+    "unique_buyers": 26,
+    "unique_sellers": 18,
+    "volume_usd": 34.66563493944198
+  },
+  {
+    "active_channels": 42,
+    "chain": "solana",
+    "date": "2026-04-15",
+    "tx_count": 1936,
+    "unique_buyers": 37,
+    "unique_sellers": 22,
+    "volume_usd": 31.90365393310494
+  },
+  {
+    "active_channels": 45,
+    "chain": "solana",
+    "date": "2026-04-16",
+    "tx_count": 2838,
+    "unique_buyers": 32,
+    "unique_sellers": 28,
+    "volume_usd": 56.73566751099776
+  },
+  {
+    "active_channels": 47,
+    "chain": "solana",
+    "date": "2026-04-17",
+    "tx_count": 2888,
+    "unique_buyers": 32,
+    "unique_sellers": 29,
+    "volume_usd": 26.414553691522062
+  },
+  {
+    "active_channels": 19,
+    "chain": "solana",
+    "date": "2026-04-18",
+    "tx_count": 1832,
+    "unique_buyers": 18,
+    "unique_sellers": 12,
+    "volume_usd": 42.91039668133801
+  },
+  {
+    "active_channels": 23,
+    "chain": "solana",
+    "date": "2026-04-19",
+    "tx_count": 462,
+    "unique_buyers": 19,
+    "unique_sellers": 14,
+    "volume_usd": 29.208305535769995
+  },
+  {
+    "active_channels": 42,
+    "chain": "solana",
+    "date": "2026-04-20",
+    "tx_count": 590,
+    "unique_buyers": 39,
+    "unique_sellers": 19,
+    "volume_usd": 44.640572264189
+  },
+  {
+    "active_channels": 48,
+    "chain": "solana",
+    "date": "2026-04-21",
+    "tx_count": 2006,
+    "unique_buyers": 28,
+    "unique_sellers": 27,
+    "volume_usd": 100.64701767397017
+  },
+  {
+    "active_channels": 61,
+    "chain": "solana",
+    "date": "2026-04-22",
+    "tx_count": 624,
+    "unique_buyers": 56,
+    "unique_sellers": 19,
+    "volume_usd": 22.010838896834027
+  },
+  {
+    "active_channels": 41,
+    "chain": "solana",
+    "date": "2026-04-23",
+    "tx_count": 249,
+    "unique_buyers": 31,
+    "unique_sellers": 19,
+    "volume_usd": 60.78701800848299
+  },
+  {
+    "active_channels": 43,
+    "chain": "solana",
+    "date": "2026-04-24",
+    "tx_count": 1960,
+    "unique_buyers": 43,
+    "unique_sellers": 11,
+    "volume_usd": 436.1485058059624
+  },
+  {
+    "active_channels": 31,
+    "chain": "solana",
+    "date": "2026-04-25",
+    "tx_count": 349,
+    "unique_buyers": 29,
+    "unique_sellers": 11,
+    "volume_usd": 25.615663060232023
+  },
+  {
+    "active_channels": 26,
+    "chain": "solana",
+    "date": "2026-04-26",
+    "tx_count": 770,
+    "unique_buyers": 25,
+    "unique_sellers": 13,
+    "volume_usd": 62.72836841586105
+  },
+  {
+    "active_channels": 46,
+    "chain": "solana",
+    "date": "2026-04-27",
+    "tx_count": 524,
+    "unique_buyers": 39,
+    "unique_sellers": 21,
+    "volume_usd": 120.29915084429702
+  },
+  {
+    "active_channels": 57,
+    "chain": "solana",
+    "date": "2026-04-28",
+    "tx_count": 361,
+    "unique_buyers": 55,
+    "unique_sellers": 19,
+    "volume_usd": 216.48700143062894
+  },
+  {
+    "active_channels": 78,
+    "chain": "solana",
+    "date": "2026-04-29",
+    "tx_count": 2461,
+    "unique_buyers": 78,
+    "unique_sellers": 15,
+    "volume_usd": 809.3674418761505
+  },
+  {
+    "active_channels": 61,
+    "chain": "solana",
+    "date": "2026-04-30",
+    "tx_count": 3779,
+    "unique_buyers": 49,
+    "unique_sellers": 29,
+    "volume_usd": 159.832458003569
+  },
+  {
+    "active_channels": 429,
+    "chain": "base",
+    "date": "2026-05-01",
+    "tx_count": 7688,
+    "unique_buyers": 415,
+    "unique_sellers": 40,
+    "volume_usd": 222.9839223776853
+  },
+  {
+    "active_channels": 395,
+    "chain": "base",
+    "date": "2026-05-02",
+    "tx_count": 7744,
+    "unique_buyers": 378,
+    "unique_sellers": 46,
+    "volume_usd": 92.90700249075272
+  },
+  {
+    "active_channels": 383,
+    "chain": "base",
+    "date": "2026-05-03",
+    "tx_count": 7881,
+    "unique_buyers": 369,
+    "unique_sellers": 36,
+    "volume_usd": 391.7606395131486
+  },
+  {
+    "active_channels": 443,
+    "chain": "base",
+    "date": "2026-05-04",
+    "tx_count": 7778,
+    "unique_buyers": 417,
+    "unique_sellers": 54,
+    "volume_usd": 187.11713419680794
+  },
+  {
+    "active_channels": 451,
+    "chain": "base",
+    "date": "2026-05-05",
+    "tx_count": 4757,
+    "unique_buyers": 399,
+    "unique_sellers": 81,
+    "volume_usd": 138.18236953239025
+  },
+  {
+    "active_channels": 130,
+    "chain": "base",
+    "date": "2026-05-06",
+    "tx_count": 16726,
+    "unique_buyers": 73,
+    "unique_sellers": 79,
+    "volume_usd": 903.3638962986663
+  },
+  {
+    "active_channels": 440,
+    "chain": "base",
+    "date": "2026-05-07",
+    "tx_count": 5135,
+    "unique_buyers": 405,
+    "unique_sellers": 73,
+    "volume_usd": 1054.2233676265166
+  },
+  {
+    "active_channels": 433,
+    "chain": "base",
+    "date": "2026-05-08",
+    "tx_count": 5956,
+    "unique_buyers": 390,
+    "unique_sellers": 75,
+    "volume_usd": 238.70702021526927
+  },
+  {
+    "active_channels": 329,
+    "chain": "base",
+    "date": "2026-05-09",
+    "tx_count": 1087,
+    "unique_buyers": 308,
+    "unique_sellers": 35,
+    "volume_usd": 105.94848113017872
+  },
+  {
+    "active_channels": 61,
+    "chain": "polygon",
+    "date": "2026-05-01",
+    "tx_count": 148225,
+    "unique_buyers": 32,
+    "unique_sellers": 32,
+    "volume_usd": 7732.080437701569
+  },
+  {
+    "active_channels": 30,
+    "chain": "polygon",
+    "date": "2026-05-02",
+    "tx_count": 151469,
+    "unique_buyers": 30,
+    "unique_sellers": 1,
+    "volume_usd": 1514.8335868789493
+  },
+  {
+    "active_channels": 61,
+    "chain": "polygon",
+    "date": "2026-05-03",
+    "tx_count": 151498,
+    "unique_buyers": 32,
+    "unique_sellers": 32,
+    "volume_usd": 7565.797447775633
+  },
+  {
+    "active_channels": 30,
+    "chain": "polygon",
+    "date": "2026-05-04",
+    "tx_count": 150898,
+    "unique_buyers": 30,
+    "unique_sellers": 1,
+    "volume_usd": 1509.0015976983939
+  },
+  {
+    "active_channels": 61,
+    "chain": "polygon",
+    "date": "2026-05-05",
+    "tx_count": 156079,
+    "unique_buyers": 32,
+    "unique_sellers": 32,
+    "volume_usd": 7610.335143358178
+  },
+  {
+    "active_channels": 30,
+    "chain": "polygon",
+    "date": "2026-05-06",
+    "tx_count": 152370,
+    "unique_buyers": 30,
+    "unique_sellers": 1,
+    "volume_usd": 1523.8090784099672
+  },
+  {
+    "active_channels": 62,
+    "chain": "polygon",
+    "date": "2026-05-07",
+    "tx_count": 156488,
+    "unique_buyers": 33,
+    "unique_sellers": 33,
+    "volume_usd": 7615.433932468241
+  },
+  {
+    "active_channels": 30,
+    "chain": "polygon",
+    "date": "2026-05-08",
+    "tx_count": 156562,
+    "unique_buyers": 30,
+    "unique_sellers": 1,
+    "volume_usd": 1566.0486781608936
+  },
+  {
+    "active_channels": 61,
+    "chain": "polygon",
+    "date": "2026-05-09",
+    "tx_count": 79483,
+    "unique_buyers": 32,
+    "unique_sellers": 32,
+    "volume_usd": 6784.9696678615755
+  },
+  {
+    "active_channels": 66,
+    "chain": "solana",
+    "date": "2026-05-01",
+    "tx_count": 2473,
+    "unique_buyers": 53,
+    "unique_sellers": 27,
+    "volume_usd": 249.23393676174965
+  },
+  {
+    "active_channels": 36,
+    "chain": "solana",
+    "date": "2026-05-02",
+    "tx_count": 5303,
+    "unique_buyers": 27,
+    "unique_sellers": 22,
+    "volume_usd": 41.23036806174544
+  },
+  {
+    "active_channels": 32,
+    "chain": "solana",
+    "date": "2026-05-03",
+    "tx_count": 5307,
+    "unique_buyers": 18,
+    "unique_sellers": 22,
+    "volume_usd": 48.577557348083566
+  },
+  {
+    "active_channels": 55,
+    "chain": "solana",
+    "date": "2026-05-04",
+    "tx_count": 5532,
+    "unique_buyers": 35,
+    "unique_sellers": 33,
+    "volume_usd": 70.53895287811302
+  },
+  {
+    "active_channels": 85,
+    "chain": "solana",
+    "date": "2026-05-05",
+    "tx_count": 5403,
+    "unique_buyers": 66,
+    "unique_sellers": 35,
+    "volume_usd": 248.77040068544753
+  },
+  {
+    "active_channels": 179,
+    "chain": "solana",
+    "date": "2026-05-06",
+    "tx_count": 1702,
+    "unique_buyers": 148,
+    "unique_sellers": 49,
+    "volume_usd": 108.99454277658889
+  },
+  {
+    "active_channels": 96,
+    "chain": "solana",
+    "date": "2026-05-07",
+    "tx_count": 1377,
+    "unique_buyers": 80,
+    "unique_sellers": 30,
+    "volume_usd": 212.7633320503871
+  },
+  {
+    "active_channels": 40,
+    "chain": "solana",
+    "date": "2026-05-08",
+    "tx_count": 996,
+    "unique_buyers": 22,
+    "unique_sellers": 31,
+    "volume_usd": 124.7768984248499
+  },
+  {
+    "active_channels": 7,
+    "chain": "solana",
+    "date": "2026-05-09",
+    "tx_count": 27,
+    "unique_buyers": 4,
+    "unique_sellers": 7,
+    "volume_usd": 16.463189553400003
+  }
+]

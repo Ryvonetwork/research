@@ -1,0 +1,24 @@
+{
+  "name": "ryvo-x402-research",
+  "version": "0.3.0",
+  "private": true,
+  "description": "Research scripts quantifying Ryvo Network's settlement-compression advantage on Solana, with Artemis (classic.artemis.ai/asset/x402) as the canonical x402 source of truth. Dune pipeline retained for the topology proxy (relationships + daily active-pair counts).",
+  "type": "module",
+  "scripts": {
+    "analyze:solana": "tsx scripts/analyze-artemis-solana.ts",
+    "dune:probe": "tsx scripts/dune-probe.ts",
+    "dune:probe:solana": "tsx scripts/dune-probe-solana.ts",
+    "dune:reconcile": "tsx scripts/dune-reconcile-chunked.ts",
+    "dune:pull": "tsx scripts/dune-pull-aggregates.ts",
+    "dune:fees": "tsx scripts/dune-pull-solana-fees.ts",
+    "analyze:rigorous": "tsx scripts/analyze-rigorous.ts",
+    "analyze:future": "tsx scripts/analyze-future-capacity.ts"
+  },
+  "dependencies": {
+    "tsx": "^4.19.2",
+    "typescript": "^5.7.2"
+  },
+  "devDependencies": {
+    "@types/node": "^25.6.0"
+  }
+}

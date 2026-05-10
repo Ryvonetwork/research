@@ -1,0 +1,47 @@
+# Local secrets / RPC keys — NEVER commit
+.env
+.env.local
+.env.*.local
+
+# Node
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Build / cache
+dist/
+build/
+*.tsbuildinfo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editors
+.vscode/
+.idea/
+*.swp
+
+# Cursor
+.cursor/
+
+# Raw RPC / API dumps — large, reproducible from scripts, not needed in git
+# Re-generate with: npx tsx scripts/collect-{solana,base}.ts
+data/raw/base/
+data/raw/solana/
+data/raw/bazaar/
+
+# Large intermediate processed files — not needed for the analysis; only the
+# aggregated outputs (daily_active_channels.json, relationships_per_chain.json)
+# and the rigorous-comparison outputs need to be in git.
+data/processed/buyers.jsonl
+data/processed/sellers.jsonl
+data/processed/edges.jsonl
+
+# Parquet / tmp artefacts
+data/processed/*.parquet
+*.parquet.tmp
+
+# Probe / debug outputs
+*.local.json
+.tmp/

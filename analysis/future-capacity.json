@@ -1,0 +1,193 @@
+{
+  "generated_at": "2026-05-10T14:55:35.615Z",
+  "inputs": {
+    "daily_path": "data/processed/daily_active_channels.json",
+    "relationships_path": "data/processed/relationships_per_chain.json",
+    "live_benchmarks": {
+      "dense20": {
+        "label": "Dense-20 (20p → 84ch, BLS SettleClearingRound)",
+        "participants": 20,
+        "channels": 84,
+        "txBytes": 851,
+        "cu": 1392866,
+        "note": "CU-saturated at ~99% of the 1.4M per-tx cap"
+      },
+      "sparse32": {
+        "label": "Sparse-32 (32p → 32ch, BLS SettleClearingRound)",
+        "participants": 32,
+        "channels": 32,
+        "txBytes": 685,
+        "cu": 774000,
+        "note": "44% byte-loaded, 55% CU-loaded — both under-saturated"
+      }
+    },
+    "stated_upgrades": {
+      "bytesMult": 3.324675324675325,
+      "perTxCuMult": 1,
+      "blockCuMult": 1,
+      "rentMult": 0.5
+    },
+    "current_solana": {
+      "packetBytesMax": 1232,
+      "perTxCuMax": 1400000,
+      "blockCuMax": 48000000,
+      "slotMs": 400,
+      "rentMultiplier": 1
+    },
+    "per_tx_footprint": {
+      "x402": {
+        "bytes": 250,
+        "cu": 30000
+      },
+      "ch1to1Settle": {
+        "bytes": 600,
+        "cu": 150000
+      }
+    },
+    "fees": {
+      "base": 0.001,
+      "polygon": 0.001,
+      "solana": 0.0015
+    },
+    "solana_fee_scenarios": {
+      "low": 0.0005,
+      "mid": 0.0015,
+      "high": 0.005
+    },
+    "rent_constants": {
+      "ryvo_channel_bucket_bytes": 10093,
+      "ryvo_lanes_per_bucket": 46,
+      "sessions_channel_bytes": 200,
+      "sol_lamports_per_byte_year": 3480,
+      "sol_rent_exemption_years": 2,
+      "sol_account_metadata_bytes": 128,
+      "sol_price_usd": 200
+    }
+  },
+  "scenarios": [
+    {
+      "scenario": {
+        "id": "current",
+        "label": "Current Solana (today)",
+        "txBytesMax": 1232,
+        "perTxCuMax": 1400000,
+        "blockCuMax": 48000000,
+        "rentMult": 1
+      },
+      "k_dense": 84,
+      "k_sparse": 32,
+      "per_round_bytes_dense": 851,
+      "per_round_bytes_sparse": 685,
+      "per_round_cu_dense": 1392866,
+      "per_round_cu_sparse": 774000,
+      "headline": {
+        "total_tx_x402": 132809758,
+        "opens": 504632,
+        "clearing_dense": 25229,
+        "clearing_sparse": 65628,
+        "clearing_1to1": 2089565,
+        "ryvo_total_tx_dense_year1": 529861,
+        "ryvo_total_tx_sparse_year1": 570260,
+        "ch1to1_total_tx_year1": 2594197,
+        "ryvo_total_tx_dense_steady": 25229,
+        "ryvo_total_tx_sparse_steady": 65628,
+        "ch1to1_total_tx_steady": 2089565,
+        "x402_fee_usd": 156448.57999999987,
+        "ryvo_fee_dense_year1": 561.9150000000001,
+        "ryvo_fee_dense_steady": 29.065000000000055,
+        "ch1to1_fee_year1": 2938.6045000000013,
+        "ch1to1_fee_steady": 2405.7545000000014,
+        "tx_compression_dense_year1": 250.65018561471783,
+        "tx_compression_dense_steady": 5264.17051805462,
+        "tx_compression_sparse_year1": 232.89334338722688,
+        "tx_compression_sparse_steady": 2023.67523008472,
+        "ch1to1_compression_year1": 51.19493932033689,
+        "ch1to1_compression_steady": 63.558567453034485,
+        "ryvo_advantage_steady_dense": 82.82393277577391
+      },
+      "throughput_per_slot": {
+        "x402_micropayments": 1600,
+        "ch1to1_settles": 320,
+        "ryvo_dense_channels": 2856,
+        "ryvo_sparse_channels": 1984,
+        "ratio_ryvo_dense_vs_x402": 1.785,
+        "ratio_ryvo_dense_vs_ch1to1": 8.925
+      }
+    },
+    {
+      "scenario": {
+        "id": "byte-only-agave-4-1",
+        "label": "Future — bytes ×3.32 (Agave 4.1 + SIMD-0385), per-tx & block CU unchanged, rent ×0.5",
+        "txBytesMax": 4096,
+        "perTxCuMax": 1400000,
+        "blockCuMax": 48000000,
+        "rentMult": 0.5
+      },
+      "k_dense": 84,
+      "k_sparse": 32,
+      "per_round_bytes_dense": 851,
+      "per_round_bytes_sparse": 685,
+      "per_round_cu_dense": 1392866,
+      "per_round_cu_sparse": 774000,
+      "headline": {
+        "total_tx_x402": 132809758,
+        "opens": 504632,
+        "clearing_dense": 25229,
+        "clearing_sparse": 65628,
+        "clearing_1to1": 2089565,
+        "ryvo_total_tx_dense_year1": 529861,
+        "ryvo_total_tx_sparse_year1": 570260,
+        "ch1to1_total_tx_year1": 2594197,
+        "ryvo_total_tx_dense_steady": 25229,
+        "ryvo_total_tx_sparse_steady": 65628,
+        "ch1to1_total_tx_steady": 2089565,
+        "x402_fee_usd": 156448.57999999987,
+        "ryvo_fee_dense_year1": 561.9150000000001,
+        "ryvo_fee_dense_steady": 29.065000000000055,
+        "ch1to1_fee_year1": 2938.6045000000013,
+        "ch1to1_fee_steady": 2405.7545000000014,
+        "tx_compression_dense_year1": 250.65018561471783,
+        "tx_compression_dense_steady": 5264.17051805462,
+        "tx_compression_sparse_year1": 232.89334338722688,
+        "tx_compression_sparse_steady": 2023.67523008472,
+        "ch1to1_compression_year1": 51.19493932033689,
+        "ch1to1_compression_steady": 63.558567453034485,
+        "ryvo_advantage_steady_dense": 82.82393277577391
+      },
+      "throughput_per_slot": {
+        "x402_micropayments": 1600,
+        "ch1to1_settles": 320,
+        "ryvo_dense_channels": 2856,
+        "ryvo_sparse_channels": 1984,
+        "ratio_ryvo_dense_vs_x402": 1.785,
+        "ratio_ryvo_dense_vs_ch1to1": 8.925
+      }
+    }
+  ],
+  "capital_lockup_solana": {
+    "sol_price_usd": 200,
+    "solana_relationships": 56436,
+    "solana_opens": 56436,
+    "ryvo_buckets": 1227,
+    "ryvo_rent_today_sol": 87.28652232,
+    "ryvo_rent_today_usd": 17457.304464,
+    "ryvo_rent_future_sol": 43.64326116,
+    "ryvo_rent_future_usd": 8728.652232,
+    "ryvo_v1_recoverable": false,
+    "ryvo_v2_recoverable": true,
+    "sessions_rent_today_sol": 128.83661568000002,
+    "sessions_rent_today_usd": 25767.323136000006,
+    "sessions_rent_future_sol": 64.41830784000001,
+    "sessions_rent_future_usd": 12883.661568000003,
+    "sessions_recoverable": true,
+    "savings_usd_ryvo": 8728.652232,
+    "savings_usd_sessions": 12883.661568000003
+  },
+  "gap_widening": {
+    "vs_x402_steady_today": 5264.17051805462,
+    "vs_x402_steady_future": 5264.17051805462,
+    "vs_ch1to1_steady_today": 82.82393277577391,
+    "vs_ch1to1_steady_future": 82.82393277577391,
+    "compression_widens": false
+  }
+}
