@@ -1,0 +1,12 @@
+{
+  "startedAt": "2026-05-10T23:32:23.507Z",
+  "lastUpdatedAt": "2026-05-11T01:26:06.319Z",
+  "nextSlot": 418872020,
+  "blocksScanned": 52983,
+  "slotsSkipped": 57,
+  "usdcTxCount": 1000000,
+  "feeLamports": "78162296383",
+  "startSlot": 418925060,
+  "lastScannedSlot": 418872031,
+  "target": 1000000
+}

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-10T17:38:54.080Z",
+  "generated_at": "2026-05-11T17:38:54.080Z",
   "inputs": {
     "artemis_tx_csv": "data/artemis/Transactions by Chain.csv",
     "artemis_vol_csv": "data/artemis/Volume by Chain.csv",
@@ -12,10 +12,10 @@
     },
     "sol_fee_scenarios": {
       "low": 0.0005,
-      "mid": 0.0015,
-      "high": 0.005
+      "mid": 0.0008,
+      "high": 0.0015
     },
-    "sol_fee_used": 0.0015,
+    "sol_fee_used": 0.0008,
     "round_k": {
       "dense": 84,
       "sparse": 32
@@ -34,8 +34,8 @@
     },
     "annualized_tx": 13689451.485148516,
     "annualized_volume_usd": 1647212.7951428005,
-    "annualized_fee_usd": 20534.177227722776,
-    "fee_usd_observed": 11364.12
+    "annualized_fee_usd": 10951.561188854368,
+    "fee_usd_observed": 6060.864
   },
   "ryvo_topology_from_dune": {
     "relationships": 56436,
@@ -57,19 +57,19 @@
     "clearing_1to1": 632261,
     "year1": {
       "ryvo_84_tx": 64070,
-      "ryvo_84_fee_usd": 96.105,
+      "ryvo_84_fee_usd": 51.256,
       "ryvo_32_tx": 76295,
-      "ryvo_32_fee_usd": 114.4425,
+      "ryvo_32_fee_usd": 61.036,
       "ch1to1_tx": 688697,
-      "ch1to1_fee_usd": 1033.0455
+      "ch1to1_fee_usd": 550.9576
     },
     "steady": {
       "ryvo_84_tx": 7634,
-      "ryvo_84_fee_usd": 11.451,
+      "ryvo_84_fee_usd": 6.1072,
       "ryvo_32_tx": 19859,
-      "ryvo_32_fee_usd": 29.7885,
+      "ryvo_32_fee_usd": 15.8872,
       "ch1to1_tx": 632261,
-      "ch1to1_fee_usd": 948.3915000000001
+      "ch1to1_fee_usd": 505.8088
     },
     "compression_y1": {
       "tx_84": 118.2469174340565,
@@ -105,19 +105,19 @@
         "name": "Aggressive (TVL = annual volume)",
         "tvl": 1647212.7951428005,
         "yield_per_year": 49416.38385428402,
-        "multiple_of_ryvo_steady_fee": 2388.2844564787356
+        "multiple_of_ryvo_steady_fee": 8091.283934220341
       },
       {
         "name": "Realistic (TVL = ½ annual volume)",
         "tvl": 823606.3975714003,
         "yield_per_year": 24708.19192714201,
-        "multiple_of_ryvo_steady_fee": 1194.1422282393678
+        "multiple_of_ryvo_steady_fee": 4045.6419671101706
       },
       {
         "name": "Conservative (TVL = ¼ annual volume)",
         "tvl": 411803.19878570014,
         "yield_per_year": 12354.095963571004,
-        "multiple_of_ryvo_steady_fee": 597.0711141196839
+        "multiple_of_ryvo_steady_fee": 2022.8209835550853
       }
     ],
     "cumulative_5y_realistic": [
@@ -136,26 +136,26 @@
       "x402_fee_usd": 3788.04,
       "sessions_fee_y1": 344.3485,
       "sessions_fee_steady": 316.1305,
-      "ryvo_dense_fee_y1": 32.035000000000004,
+      "ryvo_dense_fee_y1": 32.035,
       "ryvo_dense_fee_steady": 3.817
     },
     {
       "band": "mid",
-      "per_tx_fee_usd": 0.0015,
-      "x402_fee_usd": 11364.12,
-      "sessions_fee_y1": 1033.0455,
-      "sessions_fee_steady": 948.3915000000001,
-      "ryvo_dense_fee_y1": 96.105,
-      "ryvo_dense_fee_steady": 11.451
+      "per_tx_fee_usd": 0.0008,
+      "x402_fee_usd": 6060.864,
+      "sessions_fee_y1": 550.9576,
+      "sessions_fee_steady": 505.8088,
+      "ryvo_dense_fee_y1": 51.256,
+      "ryvo_dense_fee_steady": 6.1072
     },
     {
       "band": "high",
-      "per_tx_fee_usd": 0.005,
-      "x402_fee_usd": 37880.4,
-      "sessions_fee_y1": 3443.485,
-      "sessions_fee_steady": 3161.3050000000003,
-      "ryvo_dense_fee_y1": 320.35,
-      "ryvo_dense_fee_steady": 38.17
+      "per_tx_fee_usd": 0.0015,
+      "x402_fee_usd": 11364.12,
+      "sessions_fee_y1": 1033.0455,
+      "sessions_fee_steady": 948.3915,
+      "ryvo_dense_fee_y1": 96.105,
+      "ryvo_dense_fee_steady": 11.451
     }
   ]
 }

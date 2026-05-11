@@ -38,7 +38,7 @@ over 2025-10-20 → 2026-05-09 (202 days):
 | | x402 today | Ryvo (Year 1, 84-ch round) | Ryvo (Steady state, 84-ch round) |
 |---|---:|---:|---:|
 | On-chain tx | 7,576,080 | 64,070 | 7,634 |
-| Fees paid | $11,364 | $96 | $11.45 |
+| Fees paid | $6,061 | $51 | $6.11 |
 | Compression | 1× | **118×** | **992×** |
 
 (Two framings because Ryvo channels are persistent and never closed — Year 1 includes

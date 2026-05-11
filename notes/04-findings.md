@@ -57,18 +57,20 @@ STEADY STATE (year 2+: opens = 0)
   k = 84                                           7,634    →  992 ×  compression
   k = 32                                          19,859    →  381 ×  compression
 
-x402 fee bill (observed window, $0.0015/tx mid)   $11,364
-Ryvo fee bill (year 1, k = 84)                       $96    →  $11,268 saved (~99.2 %)
-Ryvo fee bill (steady state, k = 84)              $11.45    →  $11,353 saved (~99.9 %)
+x402 fee bill (observed window, $0.0008/tx)        $6,061
+Ryvo fee bill (year 1, k = 84)                       $51    →  $6,010 saved (~99.2 %)
+Ryvo fee bill (steady state, k = 84)               $6.11    →  $6,055 saved (~99.9 %)
 
-x402 fee bill (annualized)                        $20,534
-Ryvo fee bill (steady, annualized)                 $20.69
+x402 fee bill (annualized)                        $10,952
+Ryvo fee bill (steady, annualized)                 $11.04
 ```
 
-> Solana per-tx fee uses the MID sensitivity band ($0.0015 — Solana Radar
-> Q1-2025 median at SOL $200). LOW $0.0005 / HIGH $0.005 sensitivity tables
-> appear in `analysis/solana-artemis.md`. Compression ratios are invariant
-> under per-tx-fee scaling — only the absolute USD numbers move.
+> Solana per-tx fee uses $0.0008/tx — average tx price for single USDC
+> transfer that we indexed, consistent with Oct 2025–May 2026 median
+> range $0.00047–$0.00111. LOW $0.0005 / MID $0.0008 / HIGH $0.0015
+> sensitivity tables appear in `analysis/solana-artemis.md`. Compression
+> ratios are invariant under per-tx-fee scaling — only the absolute USD
+> numbers move.
 >
 > Channel opens = R (one `create_channel` per relationship). x402 flow is
 > unidirectional buyer→seller, so a single `LowerToHigher` *or* `HigherToLower`
@@ -140,8 +142,8 @@ recovery. Sessions architectures DO support recovery on close.
 
 Cumulative yield over 5 years (Realistic, flat TVL): $24,708 → $123,541.
 
-Even the conservative band (~$12K/yr) is **~1,078×** Ryvo's $11.45 annual fee
-bill, and **~60%** of the $20,534 x402 currently pays in Solana fees.
+Even the conservative band (~$12K/yr) is **~2,023×** Ryvo's $6.11 annual fee
+bill, and **~113%** of the $10,952 x402 currently pays in Solana fees.
 
 ## Why the headline is not the older "5,264 ×" number
 
@@ -151,7 +153,7 @@ properties that didn't reconcile with Artemis:
 1. **Multi-chain (Base + Polygon + Solana)** vs Artemis tracking by chain.
    We've narrowed scope to **Solana only** for direct Artemis comparability.
 2. **Used Dune-indexed Solana tx (47.28M)** as the headline x402 number,
-   producing a $70K Solana fee bill. Artemis says 7.58M tx → ~$11K fee bill.
+   producing a $70K Solana fee bill. Artemis says 7.58M tx → ~$6.1K fee bill.
    We've adopted Artemis.
 3. **Combined Base+Solana 132.8M tx → 25,229 BLS rounds = 5,264× compression**.
    Solana-only, Artemis-truth: 7.58M tx → 7,634 BLS rounds = 992× compression.
@@ -180,6 +182,7 @@ analysis after the Solana-only refocus.
   volume by chain but not the (buyer, seller) pair graph. Our Dune-derived
   56,436 relationships is a topology *upper bound* — an Artemis-strict count
   would be ≤ that and therefore would only widen Ryvo's compression advantage.
-- **Solana fee accuracy.** We hold $0.0015/tx as the mid-band assumption; a
-  Dune-exact `SUM(lamports)` per facilitator wallet would replace it (gated
-  on a Dune API re-issue).
+- **Solana fee accuracy.** We use $0.0008/tx — average tx price for single
+  USDC transfer that we indexed, consistent with Oct 2025–May 2026 historical
+  median range. A Dune-exact `SUM(lamports)` per facilitator wallet would
+  provide ground truth (gated on Dune API re-issue).

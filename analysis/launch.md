@@ -2,7 +2,7 @@
 
 A rigorous brief on x402's first ~7 months of Solana history — every transaction counted by Artemis, no extrapolation, no averaging — and what the same flow would have looked like settled through Ryvo Network's payment-channel + BLS-clearing-round model.
 
-> **TL;DR.** Per Artemis (`classic.artemis.ai/asset/x402`), Solana settled **7,576,080 USDC x402 micropayments** with **$911,608 of volume** across the 202 days from 2025-10-20 → 2026-05-09 (peak day 2025-12-25, 277,912 tx). Settled per-call on-chain at the Solana mid-band fee of $0.0015/tx, that flow paid validators **~$11,364** in fees (annualized: **~$20,534/year**). Settled through Ryvo Network's persistent unilateral channels and BLS clearing rounds, the **same flow** would have produced **64,070 on-chain tx in year 1** (~$96 in fees) and **~7,634 on-chain tx every year after** (~$11.45 in fees). That's a **~118× year-1** compression and a **~992× steady-state** compression on the same Solana flow. **Plain Lightning-style 1:1 payment channels with no BLS aggregation** still need ~632K on-chain tx for the same window (~12× compression, $948 in fees) — Ryvo is **~83× cheaper** than that, isolating exactly the value the BLS clearing round adds. Plus, denominated in yield-bearing stablecoins at 3% APY, the same flow generates **$12K–$49K/year** for participants instead of leaking fees out to validators.
+> **TL;DR.** Per Artemis (`classic.artemis.ai/asset/x402`), Solana settled **7,576,080 USDC x402 micropayments** with **$911,608 of volume** across the 202 days from 2025-10-20 → 2026-05-09 (peak day 2025-12-25, 277,912 tx). Settled per-call on-chain at $0.0008/tx (average tx price for single USDC transfer that we indexed), that flow paid validators **~$6,061** in fees (annualized: **~$10,952/year**). Settled through Ryvo Network's persistent unilateral channels and BLS clearing rounds, the **same flow** would have produced **64,070 on-chain tx in year 1** (~$51 in fees) and **~7,634 on-chain tx every year after** (~$6.11 in fees). That's a **~118× year-1** compression and a **~992× steady-state** compression on the same Solana flow. **Plain Lightning-style 1:1 payment channels with no BLS aggregation** still need ~632K on-chain tx for the same window (~12× compression, $506 in fees) — Ryvo is **~83× cheaper** than that, isolating exactly the value the BLS clearing round adds. Plus, denominated in yield-bearing stablecoins at 3% APY, the same flow generates **$12K–$49K/year** for participants instead of leaking fees out to validators.
 
 ---
 
@@ -64,9 +64,9 @@ Window: **2025-10-20 → 2026-05-09** (202 days).
 | USDC volume | **$911,608** |
 | Days observed | 202 |
 | Peak day (2025-12-25) | 277,912 tx, $8,841 volume |
-| Solana per-tx fee (mid band) | $0.0015 |
-| **Fees paid to validators** | **~$11,364** observed |
-| **Fees paid to validators (annualized)** | **~$20,534/year** |
+| Solana per-tx fee | $0.0008 |
+| **Fees paid to validators** | **~$6,061** observed |
+| **Fees paid to validators (annualized)** | **~$10,952/year** |
 
 Heavy-tail context: peak Solana day was 2025-12-25 (277,912 tx in a single UTC day). The March 9–13, 2026 window also ran 36–70K tx/day. Activity is bursty, which is exactly why ceiling-then-sum is the right math.
 
@@ -81,18 +81,18 @@ Heavy-tail context: peak Solana day was 2025-12-25 (277,912 tx in a single UTC d
 | On-chain tx | **7,576,080** | **64,070** | **76,295** |
 | ↳ channel opens (one-time) | — | 56,436 | 56,436 |
 | ↳ BLS clearing rounds | — | 7,634 | 19,859 |
-| Fees paid | **$11,364** | **$96.11** | **$114.44** |
+| Fees paid | **$6,061** | **$51.26** | **$61.04** |
 | On-chain tx compression | 1× | **118×** | **99×** |
-| **Fees saved (observed window)** | — | **$11,268** | **$11,250** |
+| **Fees saved (observed window)** | — | **$6,010** | **$6,000** |
 
 ### Steady state (year 2+: the 56K relationships are already open, opens = 0)
 
 | Metric | x402 today | Ryvo (84-ch round) | Ryvo (32-ch round) |
 |---|---:|---:|---:|
 | On-chain tx (per equivalent year of x402 flow) | **7,576,080** | **7,634** | **19,859** |
-| Fees paid | **$11,364** | **$11.45** | **$29.79** |
+| Fees paid | **$6,061** | **$6.11** | **$15.89** |
 | On-chain tx compression | 1× | **992×** | **381×** |
-| Fees saved per equivalent year | — | **$11,353** | **$11,334** |
+| Fees saved per equivalent year | — | **$6,055** | **$6,045** |
 
 > **Why two framings.** The 56K opens are a **one-time bootstrap cost** — every relationship that ever transacted needs its channel opened once, and they then live forever. After year 1, every additional year of identical flow costs only the daily clearing rounds. Year-1 compression is honest about the bootstrap; steady-state compression is honest about the recurring cost.
 
@@ -101,8 +101,8 @@ Heavy-tail context: peak Solana day was 2025-12-25 (277,912 tx in a single UTC d
 | Metric | x402 (annualized) | Ryvo Dense-20 (steady annual) |
 |---|---:|---:|
 | On-chain tx / year | **13,689,451** | **13,794** |
-| Fees / year | **$20,534** | **$20.69** |
-| Annual fees saved | — | **$20,514** |
+| Fees / year | **$10,952** | **$11.04** |
+| Annual fees saved | — | **$10,941** |
 
 ---
 
@@ -113,14 +113,14 @@ Same channel topology as Ryvo (persistent unilateral channels, opened once, neve
 | Metric | x402 today | Plain 1:1 channels (Y1) | Plain 1:1 channels (Steady) | Ryvo 84-ch (Y1) | Ryvo 84-ch (Steady) |
 |---|---:|---:|---:|---:|---:|
 | On-chain tx | **7,576,080** | **688,697** | **632,261** | **64,070** | **7,634** |
-| Fees paid | **$11,364** | **$1,033** | **$948** | **$96** | **$11.45** |
+| Fees paid | **$6,061** | **$551** | **$506** | **$51** | **$6.11** |
 | Compression vs x402 | 1× | **11×** | **12×** | **118×** | **992×** |
-| Fees saved vs x402 | — | $10,331 | $10,416 | $11,268 | $11,353 |
+| Fees saved vs x402 | — | $5,510 | $5,555 | $6,010 | $6,055 |
 
 Plain payment channels alone collapse 7.58M micropayments into ~632K annual settlements (**~12× compression**). Ryvo's BLS aggregation collapses *those* settlements by **another ~83×** on top of that:
 
 - **Year 1**: Ryvo is **~11×** cheaper than plain channels. The bootstrap opens dominate either way.
-- **Steady state**: Ryvo is **~83×** cheaper than plain channels — and **~83× cheaper in fees** ($11 vs $948). That gap is purely the work BLS aggregation does.
+- **Steady state**: Ryvo is **~83×** cheaper than plain channels — and **~83× cheaper in fees** ($6.11 vs $506). That gap is purely the work BLS aggregation does.
 
 So the value of channels and the value of batching are **separate, multiplicative wins**. Stripping BLS leaves about 1.5–2 orders of magnitude on the table.
 
@@ -192,7 +192,7 @@ This is the same compounding dynamic that makes card networks valuable: Visa is 
 
 Yield-bearing channel denominations (sDAI, USDe, etc.) require that the counterparty accepts that specific token. In a 1:1 channel world, every pair would need to negotiate token type independently — some buyers want USDC, some want sDAI, the seller might accept either, and you need a swap somewhere in the settlement path. On a shared substrate with standardized channel contracts, **yield-bearing assets are a drop-in at the protocol level**: the network defines which assets are accepted, and all participants inherit that list automatically. The yield flows to participants without any per-pair negotiation.
 
-At the numbers Artemis measured: $1.65M of annualized Solana flow in yield-bearing stablecoins at 3% APY earns **$12K–$49K/year** for the network's participants, against a ~$11.45 annual operating cost. That math only works because the operating cost is near-zero — which requires the shared substrate to make BLS batching efficient.
+At the numbers Artemis measured: $1.65M of annualized Solana flow in yield-bearing stablecoins at 3% APY earns **$12K–$49K/year** for the network's participants, against a ~$6.11 annual operating cost. That math only works because the operating cost is near-zero — which requires the shared substrate to make BLS batching efficient.
 
 ### Summary table
 
@@ -247,7 +247,7 @@ Annualized Solana volume from Artemis: **$1,647,213/year** (extrapolated from th
 | Realistic — TVL = ½ annual volume | $823,606 | **~$24,708** |
 | Conservative — TVL = ¼ annual volume | $411,803 | **~$12,354** |
 
-Even the conservative yield estimate is **~597×** larger than Ryvo's annual fee bill ($11.45), and **~60%** of the $20,534 x402 currently pays in fees.
+Even the conservative yield estimate is **~2,023×** larger than Ryvo's annual fee bill ($6.11), and **~113%** of the $10,952 x402 currently pays in fees.
 
 ### Cumulative yield over 5 years (Realistic band, flat TVL)
 
@@ -259,7 +259,7 @@ Even the conservative yield estimate is **~597×** larger than Ryvo's annual fee
 | Year 4 | **~$98,833** |
 | Year 5 | **~$123,541** |
 
-The picture flips from *"Solana x402 leaks ~$20K/year to validators"* to *"Solana x402 earns $12K–$49K/year for the agents that route it"*. Same flow, same trust assumptions, different settlement architecture — and the gap widens with every year of accumulated TVL growth.
+The picture flips from *"Solana x402 leaks ~$11K/year to validators"* to *"Solana x402 earns $12K–$49K/year for the agents that route it"*. Same flow, same trust assumptions, different settlement architecture — and the gap widens with every year of accumulated TVL growth.
 
 ---
 
@@ -267,10 +267,10 @@ The picture flips from *"Solana x402 leaks ~$20K/year to validators"* to *"Solan
 
 > Same 7.58 million Solana micropayments. Same $911K of volume. Same 56K relationships. **Per Artemis — the canonical x402 dataset.**
 >
-> **x402 today (Solana, observed window):** 7.58M on-chain tx · ~$11K in fees paid out (annualized: $20K/yr).
-> **Plain 1:1 payment channels (steady state):** 632K on-chain tx · ~$948 in fees · **~12×** compression.
-> **Ryvo (year 1):** 64K on-chain tx · ~$96 in fees · **118×** compression.
-> **Ryvo (steady state):** 7.6K on-chain tx · ~$11.45 in fees · **~992×** compression — **~83× cheaper than plain channels**.
+> **x402 today (Solana, observed window):** 7.58M on-chain tx · ~$6.1K in fees paid out (annualized: $11K/yr).
+> **Plain 1:1 payment channels (steady state):** 632K on-chain tx · ~$506 in fees · **~12×** compression.
+> **Ryvo (year 1):** 64K on-chain tx · ~$51 in fees · **118×** compression.
+> **Ryvo (steady state):** 7.6K on-chain tx · ~$6.11 in fees · **~992×** compression — **~83× cheaper than plain channels**.
 > **Plus $12K – $49K/year of yield earned** by participants on yield-bearing stablecoin denominations.
 
 ---
@@ -282,5 +282,5 @@ The picture flips from *"Solana x402 leaks ~$20K/year to validators"* to *"Solan
 - 84/32 BLS round capacities are **Solana-devnet-validated empirical results** from prior Ryvo work.
 - 24h clearing cadence is the assumption we report. Tighter or looser cadences change clearing-round count slightly but don't change the order-of-magnitude headline because clearing rounds are negligible vs opens in year 1, and total annual rounds in steady state are still small at any cadence.
 - **Channel model**: 1 channel per unique unordered pair (x402 flow is unidirectional buyer→seller, so a single `LowerToHigher` *or* `HigherToLower` lane is sufficient — the reverse direction is never funded). Closes = 0 in both year-1 and steady-state framings (Ryvo v1 has no close instruction; v2 will add it).
-- Per-tx fee assumption: Solana **mid-band $0.0015/tx** (Solana Radar Q1-2025 median at SOL $200). The compression ratio (x402 ÷ Ryvo) is invariant under per-tx-fee scaling; only the absolute USD figures move. LOW $0.0005 / HIGH $0.005 sensitivity tables in [`solana-artemis.md`](solana-artemis.md).
+- Per-tx fee assumption: **$0.0008/tx** — average tx price for single USDC transfer that we indexed, consistent with Oct 2025–May 2026 historical median range $0.00047–$0.00111. The compression ratio (x402 ÷ Ryvo) is invariant under per-tx-fee scaling; only the absolute USD figures move. LOW $0.0005 / MID $0.0008 / HIGH $0.0015 sensitivity tables in [`solana-artemis.md`](solana-artemis.md).
 - "Year 1" framing is the **observed 202-day window**; "annualized" extrapolates to 365 days at the same daily-mean rate. Annualized Year-1 fees stay near $96 (opens are the dominant term and one-time).

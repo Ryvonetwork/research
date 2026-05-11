@@ -1,6 +1,6 @@
 # Solana × x402 vs Ryvo (Artemis-truth)
 
-Generated: 2026-05-10T17:38:54.080Z
+Generated: 2026-05-11T17:38:54.080Z (fee basis updated to $0.0008/tx)
 
 ## Source-of-truth
 
@@ -27,9 +27,9 @@ Generated: 2026-05-10T17:38:54.080Z
 | Metric | x402 (per-call on-chain) | Plain 1:1 channels (Lightning-style) | Ryvo Dense-20 |
 |---|---:|---:|---:|
 | On-chain tx (Year 1, includes channel opens) | **7,576,080** | **688,697** | **64,070** |
-| Fees paid (Year 1, Solana mid $0.0015/tx) | **$11,364.12** | **$1,033.05** | **$96.11** |
+| Fees paid (Year 1, Solana $0.0008/tx) | **$6,060.86** | **$550.96** | **$51.26** |
 | Steady-state on-chain tx (Y2+, opens=0) | 7,576,080 | 632,261 | **7,634** |
-| Steady-state fees | $11,364.12 | $948.39 | **$11.45** |
+| Steady-state fees | $6,060.86 | $505.81 | **$6.11** |
 | Compression vs x402 (Year 1) | 1× | 118× | **118×** *see note* |
 | Compression vs x402 (Steady) | 1× | 12× | **992×** |
 
@@ -43,8 +43,8 @@ Generated: 2026-05-10T17:38:54.080Z
 |---|---:|---:|
 | Annual on-chain tx | **13,689,451** | **13,794** |
 | Annual volume USD | $1,647,213 | (same — channels carry the same flow) |
-| Annual fees paid | **$20,534.18** | **$20.69** |
-| Annual fees saved | — | **$20,513.49** |
+| Annual fees paid | **$10,951.56** | **$11.04** |
+| Annual fees saved | — | **$10,940.52** |
 
 ## Decomposition (Ryvo Dense-20 footprint over the observed window)
 
@@ -63,30 +63,32 @@ Generated: 2026-05-10T17:38:54.080Z
 ## Per-call on-chain cost (Artemis truth, observed window)
 
 ```
-x402 fee bill (Solana) = 7,576,080 tx × $0.0015/tx = $11,364.12
+x402 fee bill (Solana) = 7,576,080 tx × $0.0008/tx = $6,060.86
 ```
 
 This is what Solana validators were paid for the work of landing each x402
 micropayment as its own transaction over the observed window. Annualized
-this comes to **$20,534.18 / year**.
+this comes to **$10,951.56 / year**.
+
+*Fee basis: $0.0008/tx — average tx price for single USDC transfer that we indexed, consistent with Oct 2025–May 2026 median range $0.00047–$0.00111.*
 
 ## Ryvo cost (same flow, BLS-aggregated)
 
 ```
 Ryvo Dense-20 Y1 = 56,436 opens + 7,634 clearing rounds
                 = 64,070 on-chain tx
-                = $96.11
+                = $51.26
 
 Ryvo Dense-20 Y2+ (relationships pre-existing, opens=0)
                 = 7,634 clearing rounds
                 = 7,634 on-chain tx
-                = $11.45
+                = $6.11
 ```
 
 **Compression** (observed window):
 
-- Year 1: 118× tx, 118× fees → saves **$11,268.02**
-- Steady state: 992× tx, 992× fees → saves **$11,352.67**
+- Year 1: 118× tx, 118× fees → saves **$6,009.60**
+- Steady state: 992× tx, 992× fees → saves **$6,054.75**
 
 ## Why not just plain payment channels?
 
@@ -96,7 +98,7 @@ its own daily on-chain tx.
 | Metric | x402 | Plain 1:1 channels (Y1) | Plain 1:1 channels (Steady) | Ryvo Dense-20 (Y1) | Ryvo Dense-20 (Steady) |
 |---|---:|---:|---:|---:|---:|
 | On-chain tx | 7,576,080 | 688,697 | 632,261 | 64,070 | 7,634 |
-| Fees | $11,364.12 | $1,033.05 | $948.39 | $96.11 | $11.45 |
+| Fees | $6,060.86 | $550.96 | $505.81 | $51.26 | $6.11 |
 | Compression vs x402 | 1× | 11× | 12× | 118× | 992× |
 
 **Ryvo's BLS aggregation is worth 83× over plain channels in steady state**.
@@ -113,9 +115,9 @@ Annualized Solana volume from Artemis: **$1,647,213 / year**.
 
 | TVL assumption | TVL (USD) | Annual yield generated | Multiple of Ryvo's annual fee bill |
 |---|---:|---:|---:|
-| Aggressive (TVL = annual volume) | $1,647,213 | **$49,416** | 2388× |
-| Realistic (TVL = ½ annual volume) | $823,606 | **$24,708** | 1194× |
-| Conservative (TVL = ¼ annual volume) | $411,803 | **$12,354** | 597× |
+| Aggressive (TVL = annual volume) | $1,647,213 | **$49,416** | 4476× |
+| Realistic (TVL = ½ annual volume) | $823,606 | **$24,708** | 2238× |
+| Conservative (TVL = ¼ annual volume) | $411,803 | **$12,354** | 1119× |
 
 ### Cumulative yield over 5 years (Realistic band, flat TVL)
 
@@ -127,7 +129,7 @@ Annualized Solana volume from Artemis: **$1,647,213 / year**.
 | Year 4 | **$98,833** |
 | Year 5 | **$123,541** |
 
-The picture flips from *"Solana x402 leaks ~$20,534/year to validators"*
+The picture flips from *"Solana x402 leaks ~$10,952/year to validators"*
 to *"Solana x402 earns $24,708/year for participants under Ryvo"*.
 Same flow, same trust assumptions, different settlement architecture.
 
@@ -144,22 +146,21 @@ rent ≈ 0.0711 SOL/bucket. Sessions naive ≈ 200 B/channel ⇒
 | Capital deposit (USD locked) | $0 | $25,767 | **$17,457** | $17,457 |
 | Capital recoverable on close? | n/a | yes | **no (sunk)** | yes |
 | Y1 settlement tx | 7,576,080 | 688,697 | 64,070 | 64,070 |
-| Y1 fees | $11,364.12 | $1,033.05 | $96.11 | $96.11 |
-| Y2+ recurring fees | $11,364.12 | $948.39 | **$11.45** | $11.45 |
+| Y1 fees | $6,060.86 | $550.96 | $51.26 | $51.26 |
+| Y2+ recurring fees | $6,060.86 | $505.81 | **$6.11** | $6.11 |
 
 ## Solana fee sensitivity (LOW / MID / HIGH per-tx)
 
-The Q4-2025 / Q1-2026 priority-fee window pushed Solana median per-tx fees
-above the 5,000-lamport base floor. We hold the MID band ($0.0015/tx, Solana
-Radar Q1-2025 median at SOL $200) as the primary number. The compression
-ratio (x402 ÷ Ryvo) is invariant under per-tx-fee scaling — only the
-absolute USD numbers move.
+The MID band ($0.0008/tx) is the average tx price for single USDC transfer 
+that we indexed, consistent with Oct 2025–May 2026 historical median range 
+($0.00047–$0.00111). The compression ratio (x402 ÷ Ryvo) is invariant under 
+per-tx-fee scaling — only the absolute USD numbers move.
 
 | Per-tx fee | Band | x402 fee | Sessions Y1 | Sessions steady | Ryvo Dense Y1 | Ryvo Dense steady |
 |---|---|---:|---:|---:|---:|---:|
 | $0.0005 | LOW | $3,788.04 | $344.35 | $316.13 | $32.04 | $3.82 |
-| $0.0015 | MID | $11,364.12 | $1,033.05 | $948.39 | $96.11 | $11.45 |
-| $0.005 | HIGH | $37,880.4 | $3,443.49 | $3,161.31 | $320.35 | $38.17 |
+| $0.0008 | MID | $6,060.86 | $550.96 | $505.81 | $51.26 | $6.11 |
+| $0.0015 | HIGH | $11,364.12 | $1,033.05 | $948.39 | $96.11 | $11.45 |
 
 ## Caveats
 
